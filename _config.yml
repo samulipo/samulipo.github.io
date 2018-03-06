@@ -1,10 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
@@ -17,12 +10,17 @@ title: Samuli Reijula
 email: samuli.reijula@iki.fi
 description: >- # this means to ignore newlines until "baseurl:"
   Philosopher of science. Uni Helsinki. cognitive_science/computational_social_science/social_epistemology/models and simulations/conceptual_change
-  (It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: samulipo
 github_username:  samulipo
+
+# CUSTOM PAGES IN HEADER
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+  - publications.md
+  - presentations.md
 
 # Build settings
 markdown: kramdown
