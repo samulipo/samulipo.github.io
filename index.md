@@ -4,6 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+![image-title-here](/assets/pic_small.jpg){:class="pull-right"}
+
 ADD "CONTACT" with address etc
 - add ORCID
 - lisää twitter-feedi johonkin?
@@ -13,6 +15,7 @@ ADD "CONTACT" with address etc
   - buttons for full list of publs etc
   - ks. onko linkille hyvä symboli??
 ---
+
 
 I'm a philosopher of science interested in ...
 
