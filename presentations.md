@@ -1,7 +1,7 @@
 ---
-layout: single
-# title: Presentations
-# permalink: /presentations/
+layout: page
+title: Presentations
+permalink: /presentations/
 ---
 
 # Upcoming talks

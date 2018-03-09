@@ -1,10 +1,9 @@
 ---
-layout: single
-author_profile: true
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
 ---
-
-{% include figure image_path="/assets/pic_small.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
-
 ADD "CONTACT" with address etc
 - add ORCID
 - lisää twitter-feedi johonkin?
