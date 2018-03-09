@@ -1,6 +1,14 @@
-.pull-right
-{
-  float: right;
-  width: 30%;  
-  height: auto;
+/* For width smaller than 400px: */
+.pull-right {
+  display:block;
+  margin: auto;
+}
+
+/* For width 400px and larger: */
+@media only screen and (min-width: 400px) {
+    .pull-right {
+        float: right;
+        max-width: 30%;
+        height: auto;
+    }
 }
