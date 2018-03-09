@@ -6,22 +6,11 @@ layout: home
 ---
 ![image-title-here](/assets/pic_small.jpg){:class="pull-right"}
 
-ADD "CONTACT" with address etc
-- add ORCID
-- lisää twitter-feedi johonkin?
-- lisää "Updates-osio": ihan yhdellä bulletilla uutisia. kun paperi julkaistaan, kun tuossa esitelmä etc etc.
-- ks duckworth website
-  - publication names as links
-  - buttons for full list of publs etc
-  - ks. onko linkille hyvä symboli??
----
-
-
 I'm a philosopher of science interested in ...
 
-Currently I’m mainly working on projects related to two topics:
-(1) **Science as a social system.** What are the social, cognitive and institutional conditions of well-functioning collective knowledge-production?
-(2) **Evidence-based policy.** How are findings from the behavioral sciences used to inform policy design? How should that translation (ideally) be done?
+Currently I’m mainly working on projects related to two topics:  
+1. **Science as a social system.** What are the social, cognitive and institutional conditions of well-functioning collective knowledge-production?  
+2. **Evidence-based policy.** How are findings from the behavioral sciences used to inform policy design? How should that translation (ideally) be done?  
 
 I am also interested in the epistemology of simulation modeling, computational social science, AI, and issues related to natural kinds and conceptual change.
 
@@ -31,4 +20,11 @@ Social and Moral Philosophy, University of Helsinki
 
 ## Selected publications
 
-alt formatting. article name first
+**Nudge, Boost or Design? Limitations of behavioral policy under social interaction.**  
+Forthcoming in *The Journal of Behavioral Economics for Policy.* (w/ Jaakko Kuorikoski. Timo Ehrig, Konstantinos Katsikopoulos, and Shyam Sunder)
+
+(here a button for the full list of publications)
+
+## Updates
+- blah blah
+- blah blah blah

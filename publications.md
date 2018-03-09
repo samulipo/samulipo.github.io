@@ -10,12 +10,18 @@ Reijula, Samuli; Timo Ehrig; Konstantinos Katsikopoulos; Jaakko Kuorikoski; Shya
 
 ### 2017
 
-Reijula, Samuli & Jaakko Kuorikoski (forthcoming). **Modeling epistemic communities**, in M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Routledge Handbook of Social Epistemology.* [pdf]({{ "/assets/modelingepistemiccommunities.pdf" | absolute_url }})
+Reijula, Samuli & Jaakko Kuorikoski (forthcoming). **Modeling epistemic communities**, in M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Routledge Handbook of Social Epistemology.*
+<a href="/assets/modelingepistemiccommunities.pdf" target="_blank">[pdf]</a>
 
-Reijula, Samuli (2017). “How could a rational analysis model explain?” COGSCI 2017: 39th Annual Conference of the Cognitive Science Society,  2975-2980. [link]
+Reijula, Samuli (2017). **How could a rational analysis model explain?** *COGSCI 2017: 39th Annual Conference of the Cognitive Science Society*,  2975-2980.
+<a href="https://mindmodeling.org/cogsci2017/papers/0563/index.html" target="_blank">[link]</a>
 
-Pöyhönen, Samuli (2017). “Value of cognitive diversity in science”. Synthese, 194: 4519-4540. [pdf][link][online materials]
-Kuorikoski, Jaakko & Samuli Pöyhönen. (forthcoming). “Kokeellinen yhteiskuntatiede”, in Kaidesoja, T; Kankainen, T; & Ylikoski, P (eds.) *Syistä Selityksiin – Kausaliteetti ja selittäminen yhteiskuntatieteissä*
+Pöyhönen, Samuli (2017). **Value of cognitive diversity in science.** *Synthese*, 194: 4519-4540.
+<a href="/assets/broadcasting_final.pdf" target="_blank">[pdf]</a>
+<a href="https://link.springer.com/article/10.1007%2Fs11229-016-1147-4" target="_blank">[link]</a>
+<a href="https://github.com/samulipo/broadcasting/" target="_blank">[online materials]</a>
+
+Kuorikoski, Jaakko & Samuli Pöyhönen. (forthcoming). **Kokeellinen yhteiskuntatiede** (Experimental social science), in Kaidesoja, T; Kankainen, T; & Ylikoski, P (eds.) *Syistä Selityksiin – Kausaliteetti ja selittäminen yhteiskuntatieteissä.*
 
 ### 2016
 
