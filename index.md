@@ -6,25 +6,21 @@ layout: home
 ---
 ![image-title-here](/assets/pic_small.jpg){:class="pull-right"}
 
-I'm a philosopher of science interested in ...
+I am a postdoctoral researcher in the philosophy of science at the University of Helsinki.
 
-Currently I’m mainly working on projects related to two topics:  
-1. **Science as a social system.** What are the social, cognitive and institutional conditions of well-functioning collective knowledge-production?  
-2. **Evidence-based policy.** How are findings from the behavioral sciences used to inform policy design? How should that translation (ideally) be done?  
+I’m currently working on projects related to two themes:  
+- **Institutional epistemology.** What are epistemically well-designed social systems like? That is, what are the social, cognitive and institutional conditions of well-functioning scientific research?
+- **Evidence-based policy.** How are findings from the behavioral sciences used to inform policy design? How should that translation be done?  
 
 I am also interested in the epistemology of simulation modeling, computational social science, AI, and issues related to natural kinds and conceptual change.
 
-## Current position
-Postdoctoral researcher (Academy of Finland)
-Social and Moral Philosophy, University of Helsinki
+I am affiliated with <a href="http://www.helsinki.fi/tint/" target="_blank">TINT, the Centre for Philosophy of Social Science</a> at the University of helsinki, and my research is funded by the Academy of Finland.
 
 ## Selected publications
 
 **Nudge, Boost or Design? Limitations of behavioral policy under social interaction.**  
 Forthcoming in *The Journal of Behavioral Economics for Policy.* (w/ Jaakko Kuorikoski. Timo Ehrig, Konstantinos Katsikopoulos, and Shyam Sunder)
 
-(here a button for the full list of publications)
 
 ## Updates
-- blah blah
-- blah blah blah
+- ...
