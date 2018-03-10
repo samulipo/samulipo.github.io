@@ -21,6 +21,7 @@ github_username:  samulipo
 header_pages:
   - publications.md
   - presentations.md
+  - teaching.md
   - contact.md
 
 # Build settings
