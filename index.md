@@ -20,20 +20,15 @@ I am affiliated with <a href="http://www.helsinki.fi/tint/" target="_blank">TINT
 
 - *Nudge, Boost or Design? Limitations of behavioral policy under social interaction.*  
 Forthcoming in *The Journal of Behavioral Economics for Policy.* (w/ Jaakko Kuorikoski. Timo Ehrig, Konstantinos Katsikopoulos, and Shyam Sunder)
-
 - <a href="/assets/broadcasting_final.pdf" target="_blank">Value of cognitive diversity in science.</a>    
 *Synthese*, 194: 4519-4540.
-
 - <a href="/assets/modelingepistemiccommunities.pdf" target="_blank">Modeling epistemic communities.</a>  
 In M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Routledge Handbook of Social Epistemology.*
 (w/ Jaakko Kuorikoski)
-
 - <a href="https://mindmodeling.org/cogsci2017/papers/0563/index.html" target="_blank">How could a rational analysis model explain?</a>  
 *COGSCI 2017: 39th Annual Conference of the Cognitive Science Society*,  2975-2980.
-
 - <a href="/assets/kuorikoski_and_poyhonen2013.pdf" target="_blank">Understanding non-modular functionality. Lessons from genetic algorithms</a>  
 *Philosophy of Science*, 80/5, 637-649. (w/ Jaakko Kuorikoski)
-
 - <a href="/assets/kuorikoski-poyhonen-looping-kinds.pdf" target="_blank">Looping kinds and social mechanisms,</a>  
 *Sociological Theory*, 30:3, 187–205. (w/ Jaakko Kuorikoski)
 
