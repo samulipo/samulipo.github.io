@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: contact
 title: Contact
 permalink: /contact/
 ---
@@ -11,9 +11,11 @@ permalink: /contact/
 twitter: <a href="https://twitter.com/samulipo" target="_blank">samulipo</a>  
 github: <a href="https://github.com/samulipo/" target="_blank">samulipo</a>    
 orcid: 0000-0001-6968-5819   
+{: .centered_text}
 
 **And also here:**  
 Social and Moral Philosophy   
 P.O. Box 24   
 00014 University of Helsinki  
 Finland.  
+{: .centered_text}
