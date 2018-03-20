@@ -32,4 +32,4 @@ permalink: /presentations/
 
 - 1/2016: “Classification, knowledge, identity.” Mikkeli Academy 2016. Invited presentation. (in Finnish).  
 
-**For presentations -> 2015, visit the [archive]({{ "/archive/" }})**
+**For presentations -> 2015, visit the [archive]({{ "/archive/" | absolute_url }})**
