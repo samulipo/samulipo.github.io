@@ -23,6 +23,7 @@ header_pages:
   - presentations.md
   - teaching.md
   - contact.md
+  - archive.md
 
 # Build settings
 markdown: kramdown
