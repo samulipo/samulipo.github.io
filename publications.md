@@ -6,7 +6,9 @@ permalink: /publications/
 
 ### 2018
 
-Reijula, Samuli; Timo Ehrig; Konstantinos Katsikopoulos; Jaakko Kuorikoski; Shyam Sunder (2018). **Nudge, Boost or Design? Limitations of behavioral policy under social interaction.** *The Journal of Behavioral Economics for Policy*, 2(1), 93-99.
+Reijula, Samuli; Timo Ehrig; Konstantinos Katsikopoulos; Jaakko Kuorikoski; Shyam Sunder (2018). **Nudge, Boost or Design? Limitations of behavioral policy under social interaction.** *The Journal of Behavioral Economics for Policy*, 2(1), 99-105.
+<a href="/assets/nudge_boost_design.pdf" target="_blank">[pdf]</a>
+<a href="http://sabeconomics.org/wordpress/wp-content/uploads/JBEP-2-1-14.pdf" target="_blank">[link]</a>
 
 Kuorikoski, Jaakko & Samuli Pöyhönen. (forthcoming). **Kokeellinen yhteiskuntatiede** (Experimental social science), in Kaidesoja, T; Kankainen, T; & Ylikoski, P (eds.) *Syistä Selityksiin – Kausaliteetti ja selittäminen yhteiskuntatieteissä.*
 

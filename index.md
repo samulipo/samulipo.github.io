@@ -18,8 +18,8 @@ I am affiliated with <a href="http://www.helsinki.fi/tint/" target="_blank">TINT
 
 ## Selected publications
 
-- **Nudge, Boost or Design? Limitations of behavioral policy under social interaction.**  
-*The Journal of Behavioral Economics for Policy*,  2(1), 93-99. (2018)  
+- <a href="http://sabeconomics.org/wordpress/wp-content/uploads/JBEP-2-1-14.pdf" target="_blank">Nudge, Boost or Design? Limitations of behavioral policy under social interaction.</a>   
+*The Journal of Behavioral Economics for Policy*,  2(1), 99-105. (2018)  
 (w/ Jaakko Kuorikoski. Timo Ehrig, Konstantinos Katsikopoulos, and Shyam Sunder)
 - <a href="/assets/broadcasting_final.pdf" target="_blank">Value of cognitive diversity in science.</a>    
 *Synthese*, 194: 4519-4540. (2017)
