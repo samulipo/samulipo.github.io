@@ -31,5 +31,3 @@ permalink: /presentations/
 - 4/2016: “Topological explanations in the social sciences.” Nordic Network for Philosophy of Science, Pärnu.  
 
 - 1/2016: “Classification, knowledge, identity.” Mikkeli Academy 2016. Invited presentation. (in Finnish).  
-
-**For presentations -> 2015, visit the [archive]({{ "/archive/" | absolute_url }})**
