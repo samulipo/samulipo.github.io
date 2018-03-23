@@ -2,7 +2,7 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: page
 ---
 ![image-title-here](/assets/pic_small.jpg){:class="pull-right"}
 
@@ -16,7 +16,7 @@ I am also interested in the **epistemology of simulation modeling**, **computati
 
 I am affiliated with <a href="http://www.helsinki.fi/tint/" target="_blank">TINT, the Centre for Philosophy of Social Science</a> at the University of Helsinki, and my research is funded by the Academy of Finland.
 
-## Selected publications
+### Selected publications
 
 - <a href="http://sabeconomics.org/wordpress/wp-content/uploads/JBEP-2-1-14.pdf" target="_blank">Nudge, Boost or Design? Limitations of behavioral policy under social interaction.</a>   
 *The Journal of Behavioral Economics for Policy*,  2(1), 99-105. (2018)  
@@ -36,6 +36,6 @@ In M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Rout
 (w/ Jaakko Kuorikoski)
 
 
-## Updates
+### Updates
 - In May 2018, I will do a brief Midwestern tour in the US. I'll visit the Knowledge Lab at the University of Chicago, and the Department of Philosophy at Washington University at St. Louis.
 - In Dec 2016, my last name changed from Pöyhönen to Reijula.
