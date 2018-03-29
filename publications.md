@@ -10,7 +10,7 @@ Reijula, Samuli; Timo Ehrig; Konstantinos Katsikopoulos; Jaakko Kuorikoski; Shya
 <a href="/assets/nudge_boost_design.pdf" target="_blank">[pdf]</a>
 <a href="http://sabeconomics.org/wordpress/wp-content/uploads/JBEP-2-1-14.pdf" target="_blank">[link]</a>
 
-Kuorikoski, Jaakko & Samuli Pöyhönen. (forthcoming). **Kokeellinen yhteiskuntatiede** (Experimental social science), in Kaidesoja, T; Kankainen, T; & Ylikoski, P (eds.) *Syistä Selityksiin – Kausaliteetti ja selittäminen yhteiskuntatieteissä.*
+Kuorikoski, Jaakko & Samuli Reijula. (forthcoming). **Kokeellinen yhteiskuntatiede** (Experimental social science), in Kaidesoja, T; Kankainen, T; & Ylikoski, P (eds.) *Syistä Selityksiin – Kausaliteetti ja selittäminen yhteiskuntatieteissä.*
 
 Reijula, Samuli & Jaakko Kuorikoski (forthcoming). **Modeling epistemic communities**, in M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Routledge Handbook of Social Epistemology.*
 <a href="/assets/modelingepistemiccommunities.pdf" target="_blank">[pdf]</a>
@@ -56,7 +56,7 @@ Kuorikoski, Jaakko & Pöyhönen, Samuli (2013). **Evolution and Modularity: The 
 
 Kuorikoski, Jaakko & Samuli Pöyhönen (2012). **Looping kinds and social mechanisms**, *Sociological Theory*, 30:3, 187–205. <a href="http://journals.sagepub.com/doi/abs/10.1177/0735275112457911?journalCode=stxa" target="_blank">[link]</a> <a href="/assets/kuorikoski-poyhonen-looping-kinds.pdf" target="_blank">[pdf]</a>
 
-Rusanen, Anna-Mari & Samuli Pöyhönen (2012). **Concepts in change**, *Science & Education*. <a href="https://link.springer.com/article/10.1007%2Fs11191-012-9489-x" target="_blank">[link]</a> <a href="/assets/rusanen_and_poyhonenconcepts_in_change.pdf" target="_blank">[pdf]</a>
+Rusanen, Anna-Mari & Samuli Pöyhönen (2012). **Concepts in change**, *Science & Education*, 22, 6, 1389-1403. <a href="https://link.springer.com/article/10.1007%2Fs11191-012-9489-x" target="_blank">[link]</a> <a href="/assets/rusanen_and_poyhonenconcepts_in_change.pdf" target="_blank">[pdf]</a>
 
 Pöyhönen, Samuli. (2012) **Carving the mind by its joints** – Natural kinds and social construction in psychiatry, in Milkowski, Martin, and Konrad Talmont-Kaminsky (eds.) *Regarding Mind, Naturally. Cambridge Scholars Publishing*, <a href="/assets/poyhonen-2011-carving-the-mind.pdf" target="_blank">[pdf]</a>
 
