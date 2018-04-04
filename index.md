@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-![image-title-here](/assets/pic_small.jpg){:class="pull-right"}
+![image-title-here](/assets/pic2_small.jpg){:class="pull-right"}
 
 I am a postdoctoral researcher in the philosophy of science at the University of Helsinki.
 
