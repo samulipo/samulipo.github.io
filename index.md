@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-![image-title-here](/assets/pic2_small.jpg){:class="pull-right"}
+<img class="pull-right" src="/assets/pic2_small.jpg"  alt="Samuli Reijula" title="Samuli Reijula (photo by Antti Rintala)"/>
 
 I am a postdoctoral researcher in the philosophy of science at the University of Helsinki.
 
