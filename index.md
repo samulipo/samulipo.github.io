@@ -18,7 +18,9 @@ I am affiliated with <a href="http://www.helsinki.fi/tint/" target="_blank">TINT
 
 ### Selected publications
 
-- **Social information can undermine individual performance in exploration-exploitation tasks.** COGSCI 2018: 40th Annual Conference of the Cognitive Science Society. (Kyanoush Seyed Yahosseini, Samuli Reijula, Lucas Molleman & Mehdi Moussaıd, forthcoming 2018)
+- <a href="/assets/SeyedYahosseini_etal2018.pdf" target="_blank">Social information can undermine individual performance in exploration-exploitation tasks.</a>
+*COGSCI 2018: 40th Annual Conference of the Cognitive Science Society.*
+(Kyanoush Seyed Yahosseini, Samuli Reijula, Lucas Molleman & Mehdi Moussaıd, forthcoming 2018)
 
 - <a href="http://sabeconomics.org/wordpress/wp-content/uploads/JBEP-2-1-14.pdf" target="_blank">Nudge, Boost or Design? Limitations of behavioral policy under social interaction.</a>   
 *The Journal of Behavioral Economics for Policy*,  2(1), 99-105. (2018)  
@@ -39,5 +41,6 @@ In M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Rout
 
 
 ### Updates
+- In April 2018, I received a 12-month grant from the Emil Aaltonen Foundation for research on the social epistemology of science.
 - In May 2018, I will do a brief Midwestern tour in the US. I'll visit the Knowledge Lab at the University of Chicago, and the Department of Philosophy at Washington University at St. Louis.
 - In Dec 2016, my last name changed from Pöyhönen to Reijula.

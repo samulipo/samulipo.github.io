@@ -6,10 +6,14 @@ permalink: /presentations/
 
 # Upcoming talks
 
-- 1/2018: “Social epistemologists against social learning”, Philosophical Society of Finland Colloquium '18.  
+- 10/2018: *TBA.* Concept Formation in the Natural ​and the Social Sciences, University of Zurich.
 
 
 # Recent Talks
+
+- 2/2018: ``The philosophy of computational social science'', University of Tampere. Invited lecture.
+
+- 1/2018: “Social epistemologists against social learning”, Philosophical Society of Finland Colloquium '18.  
 
 - 10/2017: “AI and philosophy”, panel discussion, Finnish Philosophical association and Cognitive Science joint event: AI and Philosophy.  
 
