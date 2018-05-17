@@ -8,10 +8,10 @@ permalink: /publications/
 
 Kyanoush Seyed Yahosseini, Samuli Reijula, Lucas Molleman & Mehdi Moussaıd (forthcoming 2018)
 **Social information can undermine individual performance in exploration-exploitation tasks.** *COGSCI 2018: 40th Annual Conference of the Cognitive Science Society.*
-<a href="/assets/SeyedYahosseini_etal2018.pdf" target="_blank">[pdf]</a>
+<a href="https://psyarxiv.com/upv8k" target="_blank">[pdf]</a>
 
 Reijula, Samuli; Timo Ehrig; Konstantinos Katsikopoulos; Jaakko Kuorikoski; Shyam Sunder (2018). **Nudge, Boost or Design? Limitations of behavioral policy under social interaction.** *The Journal of Behavioral Economics for Policy*, 2(1), 99-105.
-<a href="/assets/nudge_boost_design.pdf" target="_blank">[pdf]</a>
+<a href="https://osf.io/preprints/socarxiv/zh3qw" target="_blank">[pdf]</a>
 <a href="http://sabeconomics.org/wordpress/wp-content/uploads/JBEP-2-1-14.pdf" target="_blank">[link]</a>
 
 Kuorikoski, Jaakko & Samuli Reijula. (forthcoming). **Kokeellinen yhteiskuntatiede** (Experimental social science), in Kaidesoja, T; Kankainen, T; & Ylikoski, P (eds.) *Syistä Selityksiin – Kausaliteetti ja selittäminen yhteiskuntatieteissä.*
