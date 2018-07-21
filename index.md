@@ -40,7 +40,8 @@ In M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Rout
 
 
 ### Updates
-- Looking forward to attending the *European Summer School for Scientometrics* (ESSS) in Vienna (July 2018). 
+- Check out our cool poster at Cogsci 2018, "Social information can undermine individual performance in exploration-exploitation tasks." Presented by first author Kyanoush Seyed Yahosseini
+- Looking forward to attending the *European Summer School for Scientometrics* (ESSS) in Vienna (July 2018).
 - Great news, the Academy of Finland has granted funding for a four-year research project directed by Professor Kristina Rolin. Our project is entitled *Social and Cognitive Diversity in Science: An Epistemic Assessment*. Looking forward to joining the research team next year!  
 - In June 2018, I'm visiting the <a href="https://www.mpib-berlin.mpg.de/en/research/adaptive-rationality" target="_blank">Centre for Adaptive Rationality (ARC)</a> at the Max Planck Institute for Human Development, Berlin. Great to be back!
 - In April 2018, I received a 12-month grant from the Emil Aaltonen Foundation for research on the social epistemology of science.
