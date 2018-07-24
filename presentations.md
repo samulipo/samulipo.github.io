@@ -7,7 +7,7 @@ permalink: /presentations/
 # Upcoming talks
 
 - 10/2018: *TBA.* Concept Formation in the Natural ​and the Social Sciences, University of Zurich.
-
+- 10/2018: *TBA.* A Workshop on multiple models. TINT / University of Helsinki.
 
 # Recent Talks
 
