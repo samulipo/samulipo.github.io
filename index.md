@@ -6,9 +6,9 @@ layout: page
 ---
 <img class="pull-right" src="/assets/pic2_small.jpg"  alt="Samuli Reijula" title="Samuli Reijula (photo by Antti Rintala)"/>
 
-I am a postdoctoral researcher in the philosophy of science at the University of Helsinki.
+**Samuli Reijula (né Pöyhönen)**
 
-I’m currently working on projects related to two themes:  
+I am a postdoctoral researcher in the philosophy of science at the University of Helsinki. I’m currently working on projects related to two themes:  
 - **Institutional epistemology.** What are epistemically well-designed social systems like? That is, what are the social, cognitive and institutional conditions of well-functioning scientific research?
 - **Evidence-based policy.** How are findings from the behavioral sciences used to inform policy design? How should that translation be done?  
 
