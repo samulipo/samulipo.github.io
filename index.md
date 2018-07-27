@@ -18,9 +18,10 @@ I am affiliated with <a href="http://www.helsinki.fi/tint/" target="_blank">TINT
 
 ### Selected publications
 
+- **What is mechanistic evidence, and why do we need it for evidence-based policy?** Forthcoming 2018 in *Studies in History and Philosophy of Science A* (w/ Caterina Marchionni)
 - <a href="https://psyarxiv.com/upv8k" target="_blank">Social information can undermine individual performance in exploration-exploitation tasks.</a>
 *COGSCI 2018: 40th Annual Conference of the Cognitive Science Society.*
-(Kyanoush Seyed Yahosseini, Samuli Reijula, Lucas Molleman & Mehdi Moussaıd, forthcoming 2018)
+(w/ Kyanoush Seyed Yahosseini, Lucas Molleman & Mehdi Moussaıd)
 - <a href="http://sabeconomics.org/wordpress/wp-content/uploads/JBEP-2-1-14.pdf" target="_blank">Nudge, Boost or Design? Limitations of behavioral policy under social interaction.</a>   
 *The Journal of Behavioral Economics for Policy*,  2(1), 99-105. (2018)  
 (w/ Jaakko Kuorikoski. Timo Ehrig, Konstantinos Katsikopoulos, and Shyam Sunder)
