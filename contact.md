@@ -18,6 +18,6 @@ orcid: 0000-0001-6968-5819
 **And also here:**  
 Social and Moral Philosophy   
 P.O. Box 24   
-00014 University of Helsinki  
+00014 <a href="https://tuhat.helsinki.fi/portal/fi/person/hspoyhon" target="_blank">University of Helsinki</a>   
 Finland.  
 {: .centered_text}
