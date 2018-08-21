@@ -10,9 +10,9 @@ permalink: /presentations/
 
 - 10/2018: *TBA.* A Workshop on multiple models. TINT / University of Helsinki.
 
-- 11/2018: *TBA* A workshop on Ron Mallon's book The Construction of Human Kinds. University of Copenhagen.
+- 11/2018: *TBA.* A workshop on Ron Mallon's book The Construction of Human Kinds. University of Copenhagen.
 
-- 3/2018: *TBA* ABMs of Scientific Inquiry – Prospects and Limitations. Bochum, Germany.
+- 3/2018: *TBA.* ABMs of Scientific Inquiry – Prospects and Limitations. Bochum, Germany.
 
 
 # Recent Talks
