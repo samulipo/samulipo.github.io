@@ -6,7 +6,7 @@ permalink: /presentations/
 
 # Upcoming talks
 
-- 10/2018: *Why aren't we all addicts?* Concept Formation in the Natural ​and the Social Sciences, University of Zurich.
+- 10/2018: "Why aren't we all addicts?",  <a href="https://conceptformation2018.weebly.com/" target="_blank">Concept Formation in the Natural ​and the Social Sciences</a>, University of Zurich.
 
 - 10/2018: *TBA.* A Workshop on multiple models. TINT / University of Helsinki.
 
@@ -17,7 +17,9 @@ permalink: /presentations/
 
 # Recent Talks
 
-- 2/2018: ``The philosophy of computational social science'', University of Tampere. Invited lecture.
+- 5/2018: "Institutional Epistemology: Understanding the epistemic dynamics of collective inquiry", <a href="https://www.knowledgelab.org/" target="_blank">Knowledge Lab</a>, University of Chicago.
+
+- 2/2018: "The philosophy of computational social science", <a href="http://www.uta.fi/yky/en/fil/index.html" target="_blank">University of Tampere</a>. Invited lecture.
 
 - 1/2018: “Social epistemologists against social learning”, Philosophical Society of Finland Colloquium '18.  
 
