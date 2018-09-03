@@ -44,7 +44,7 @@ Ylikoski, Petri & Samuli Pöyhönen (2015). **Addiction-as-kind hypothesis.** *I
 
 Pöyhönen, Samuli. (2014). **Explanatory power of extended cognition**, *Philosophical Psychology*, 27/5, 735-759. <a href="https://www.tandfonline.com/doi/abs/10.1080/09515089.2013.766789" target="_blank">[link]</a> <a href="/assets/samulipo_epec_01_2013.pdf" target="_blank">[pdf]</a>
 
-Pöyhönen Samuli (2014). **Natural kinds and concept eliminativism**, in V. Karakostas and D. Dieks (eds.), *EPSA11 Perspectives and Foundational Problems in Philosophy of Science*, The European Philosophy of Science Association Proceedings 2, 167-179. <a href="/assets/concept_eliminativism.pdf" target="_blank">[pdf]</a>
+Pöyhönen Samuli (2014). **Natural kinds and concept eliminativism**, in V. Karakostas and D. Dieks (eds.), *EPSA11 Perspectives and Foundational Problems in Philosophy of Science*, The European Philosophy of Science Association Proceedings 2, 167-179. <a href="/assets/poyhonen2014,natural_kinds_and_concept_eliminativism.pdf" target="_blank">[pdf]</a>
 
 Pöyhönen, Samuli. (2014). **Intentional concepts in cognitive neuroscience**, *Philosophical Explorations*, 17: 93–109 <a href="https://www.tandfonline.com/doi/abs/10.1080/13869795.2013.742556?journalCode=rpex20" target="_blank">[link]</a> <a href="/assets/intentional_concepts_in_cog_neuroscience.pdf" target="_blank">[pdf]</a>
 
