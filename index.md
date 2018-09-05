@@ -8,13 +8,13 @@ layout: page
 
 **Samuli Reijula (né Pöyhönen)**
 
-I am a postdoctoral researcher in the philosophy of science at the University of Helsinki. I’m currently working on projects related to two themes:  
+I am a university researcher in the philosophy of science at the <a href="http://www.uta.fi/yky/en/fil/index.html" target="_blank">University of Tampere</a>. I’m currently working on projects related to two themes:  
 - **Institutional epistemology.** What are epistemically well-designed social systems like? That is, what are the social, cognitive and institutional conditions of well-functioning scientific research?
 - **Evidence-based policy.** How are findings from the behavioral sciences used to inform policy design? How should that translation be done?  
 
-I am also interested in the **epistemology of simulation modeling**, **computational social science**, **AI**, as well as issues related to **natural kinds** and **conceptual change**.
+I am also interested in the **epistemology of simulation modeling**, **computational social science**, **mathematical explanation**, **AI**, as well as issues related to **natural kinds** and **conceptual change**.
 
-I am affiliated with <a href="http://www.helsinki.fi/tint/" target="_blank">TINT, the Centre for Philosophy of Social Science</a> at the University of Helsinki, and my research is funded by the Academy of Finland.
+I'm also affiliated with <a href="http://www.helsinki.fi/tint/" target="_blank">TINT, the Centre for Philosophy of Social Science</a> at the University of Helsinki.
 
 ### Selected publications
 

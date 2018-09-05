@@ -4,7 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 **You can reach me here:**  
-<a href="mailto:samuli.reijula@iki.fi">samuli.reijula@iki.fi</a> or  <a href="mailto:samuli.reijula@helsinki.fi">samuli.reijula@helsinki.fi</a>  
+<a href="mailto:samuli.reijula@iki.fi">samuli.reijula@iki.fi</a>,<br>
+<a href="mailto:samuli.reijula@uta.fi">samuli.reijula@uta.fi</a> or <a href="mailto:samuli.reijula@helsinki.fi">samuli.reijula@helsinki.fi</a><br>
 +358-40-7281096  
 {: .centered_text}
 
@@ -13,11 +14,4 @@ permalink: /contact/
 twitter: <a href="https://twitter.com/samulipo" target="_blank">samulipo</a>  
 github: <a href="https://github.com/samulipo/" target="_blank">samulipo</a>    
 orcid: 0000-0001-6968-5819   
-{: .centered_text}
-
-**And also here:**  
-Social and Moral Philosophy   
-P.O. Box 24   
-00014 <a href="https://tuhat.helsinki.fi/portal/fi/person/hspoyhon" target="_blank">University of Helsinki</a>   
-Finland.  
 {: .centered_text}
