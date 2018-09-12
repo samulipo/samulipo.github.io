@@ -13,6 +13,7 @@ permalink: /contact/
 <a href="https://philpapers.org/profile/34787" target="_blank">philpapers</a>   
 twitter: <a href="https://twitter.com/samulipo" target="_blank">samulipo</a>  
 github: <a href="https://github.com/samulipo/" target="_blank">samulipo</a>
+
 <a href="https://www.researchgate.net/profile/Samuli_Reijula" target="_blank">researchgate</a>        
 orcid: 0000-0001-6968-5819   
 {: .centered_text}
