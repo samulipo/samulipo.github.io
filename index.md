@@ -18,7 +18,8 @@ I'm also affiliated with <a href="http://www.helsinki.fi/tint/" target="_blank">
 
 ### Selected publications
 
-- **What is mechanistic evidence, and why do we need it for evidence-based policy?** Forthcoming 2018 in *Studies in History and Philosophy of Science A* (w/ Caterina Marchionni)
+- <a href="https://doi.org/10.1016/j.shpsa.2018.08.003 target="_blank">What is mechanistic evidence, and why do we need it for evidence-based policy?</>
+Forthcoming 2018 in *Studies in History and Philosophy of Science A* (w/ Caterina Marchionni)
 - <a href="https://psyarxiv.com/upv8k" target="_blank">Social information can undermine individual performance in exploration-exploitation tasks.</a>
 *COGSCI 2018: 40th Annual Conference of the Cognitive Science Society.*
 (w/ Kyanoush Seyed Yahosseini, Lucas Molleman & Mehdi Moussaıd)
