@@ -5,6 +5,8 @@ permalink: /teaching/
 ---
 ### Courses taught
 
+- 2018: "Social research and the behavioral sciences" (FILS1). University of Tampere. (w/ Jaakko Kuorikoski, 5 study credits)
+
 - 2017, 2016, 2015: “Introduction to argumentation and philosophy of social science”, Online course. University of Helsinki / Open University.  (5 cr)
 
 - 2017, 2016, 2015, 2014: “Philosophy of the Social Sciences.” University of Helsinki (5 cr)
@@ -26,4 +28,4 @@ permalink: /teaching/
 
 ### Training in university pedagogy
 
-- 2015: UP 5: ''Development of teaching and practical training." University of Helsinki.
+- 2015: UP5: ''Development of teaching and practical training." University of Helsinki.
