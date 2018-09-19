@@ -6,8 +6,13 @@ permalink: /publications/
 
 ### 2018
 
-Kyanoush Seyed Yahosseini, Samuli Reijula, Lucas Molleman & Mehdi Moussaıd (forthcoming 2018)
-**Social information can undermine individual performance in exploration-exploitation tasks.** *COGSCI 2018: 40th Annual Conference of the Cognitive Science Society.*
+Marchionni, Caterina & Samuli Reijula (forthcoming) **What is mechanistic evidence, and why do we need it for evidence-based policy?**
+ *Studies in History and Philosophy of Science A.
+<a href="https://doi.org/10.1016/j.shpsa.2018.08.003" target="_blank">[link]</a>
+<a href="https://doi.org/10.31235/osf.io/4ufbm" target="_blank">[pdf]</a>
+
+Kyanoush Seyed Yahosseini, Samuli Reijula, Lucas Molleman & Mehdi Moussaıd (2018)
+**Social information can undermine individual performance in exploration-exploitation tasks.** *COGSCI 2018: 40th Annual Conference of the Cognitive Science Society*, 2470-2475. 
 <a href="https://psyarxiv.com/upv8k" target="_blank">[pdf]</a>
 
 Reijula, Samuli; Timo Ehrig; Konstantinos Katsikopoulos; Jaakko Kuorikoski; Shyam Sunder (2018). **Nudge, Boost or Design? Limitations of behavioral policy under social interaction.** *The Journal of Behavioral Economics for Policy*, 2(1), 99-105.
