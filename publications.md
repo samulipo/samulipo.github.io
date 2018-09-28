@@ -12,7 +12,7 @@ Marchionni, Caterina & Samuli Reijula (forthcoming) **What is mechanistic eviden
 <a href="https://doi.org/10.31235/osf.io/4ufbm" target="_blank">[pdf]</a>
 
 Kyanoush Seyed Yahosseini, Samuli Reijula, Lucas Molleman & Mehdi Moussaıd (2018)
-**Social information can undermine individual performance in exploration-exploitation tasks.** *COGSCI 2018: 40th Annual Conference of the Cognitive Science Society*, 2470-2475. 
+**Social information can undermine individual performance in exploration-exploitation tasks.** *COGSCI 2018: 40th Annual Conference of the Cognitive Science Society*, 2470-2475.
 <a href="https://psyarxiv.com/upv8k" target="_blank">[pdf]</a>
 
 Reijula, Samuli; Timo Ehrig; Konstantinos Katsikopoulos; Jaakko Kuorikoski; Shyam Sunder (2018). **Nudge, Boost or Design? Limitations of behavioral policy under social interaction.** *The Journal of Behavioral Economics for Policy*, 2(1), 99-105.
@@ -77,7 +77,3 @@ Kuorikoski, Jaakko & Samuli Pöyhönen (2009). **Ihmistieteelliset luokitukset j
 
 Pöyhönen, Samuli (2007). **Luonnollisuuden rajoilla**, Master’s thesis (pro gradu).
 <a href="https://helda.helsinki.fi/handle/10138/18299" target="_blank">Full text</a> (in Finnish). <a href="https://samulipoyhonen.files.wordpress.com/2010/10/gradu-abs-engl.pdf" target="_blank">Abstract</a> (in English).
-
-## Working papers
-
-Ehrig, Timo, Konstantinos Katsikopoulos, Jaakko Kuorikoski, Samuli Pöyhönen, and Shyam Sunder. **Limitations of behaviorally informed policy under social interaction.** Working Paper. September 2015.[link]

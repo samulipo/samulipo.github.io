@@ -14,7 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.samulireijula.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: samulipo
 github_username:  samulipo
-author: samulipo
+author: Samuli Reijula
 
 # CUSTOM PAGES IN HEADER
 # If you want to link only specific pages in your header, uncomment
