@@ -6,13 +6,15 @@ permalink: /presentations/
 
 # Upcoming talks
 
-- 10/2018: "Why aren't we all addicts?",  <a href="https://conceptformation2018.weebly.com/" target="_blank">Concept Formation in the Natural ​and the Social Sciences</a>, University of Zurich.
+- 10/2018: Comments on Jacob Stegenga's lecture "Bayesian Mechanista: understanding the effectiveness of interventions.". *Evidence to policy – a seminar series by the new social research programme*, University of Tampere.
+
+- 10/2018: "Why aren't we all addicts?", <a href="https://conceptformation2018.weebly.com/" target="_blank">Concept Formation in the Natural ​and the Social Sciences</a>, University of Zurich.
 
 - 10/2018: *TBA.* A Workshop on multiple models. TINT / University of Helsinki.
 
 - 11/2018: *TBA.* A workshop on Ron Mallon's book The Construction of Human Kinds. University of Copenhagen.
 
-- 3/2018: *TBA.* ABMs in Scientific Inquiry – Prospects and Limitations. Bochum, Germany.
+- 3/2019: *TBA.* ABMs in Scientific Inquiry – Prospects and Limitations. Bochum, Germany.
 
 
 # Recent Talks

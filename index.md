@@ -51,3 +51,7 @@ In M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Rout
 - In April 2018, I received a 12-month grant from the Emil Aaltonen Foundation for research on the social epistemology of science.
 - In May 2018, I will do a brief Midwestern tour in the US. I'll visit the Knowledge Lab at the University of Chicago, and the Department of Philosophy at Washington University at St. Louis.
 - In Dec 2016, my last name changed from Pöyhönen to Reijula.
+
+### CV
+
+<a href="/assets/cv.pdf" target="_blank">Curriculum vitae (October 2018)</a> 
