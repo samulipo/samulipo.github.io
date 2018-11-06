@@ -8,13 +8,13 @@ permalink: /presentations/
 
 - 10/2018: Comments on Jacob Stegenga's lecture "Bayesian Mechanista: understanding the effectiveness of interventions.". *Evidence to policy – a seminar series by the new social research programme*, University of Tampere.
 
-- 10/2018: "Why aren't we all addicts?", <a href="https://conceptformation2018.weebly.com/" target="_blank">Concept Formation in the Natural ​and the Social Sciences</a>, University of Zurich.
+- 10/2018: *Why aren't we all addicts?*, <a href="https://conceptformation2018.weebly.com/" target="_blank">Concept Formation in the Natural ​and the Social Sciences</a>, University of Zurich.
 
-- 10/2018: *TBA.* A Workshop on multiple models. TINT / University of Helsinki.
+- 10/2018: *Multiple model idealization in model based social epistemology*, <a href="http://www.helsinki.fi/tint/mmodels" target="_blank">A Workshop on multiple models.</a> TINT / University of Helsinki. (w/ Emrah Aydinonat)
 
-- 11/2018: *TBA.* A workshop on Ron Mallon's book The Construction of Human Kinds. University of Copenhagen.
+- 11/2018: *Social kinds in the making – construction or recruitment?*, <a href="https://mcc.ku.dk/calendar/constructing-human-kinds-one-day-workshop/" target="_blank">A workshop on Ron Mallon's book The Construction of Human Kinds.</a> University of Copenhagen.
 
-- 3/2019: *TBA.* ABMs in Scientific Inquiry – Prospects and Limitations. Bochum, Germany.
+- 3/2019: *TBA.* <a href="http://homepage.ruhr-uni-bochum.de/defeasible-reasoning/ABM-Phil-2019.html" target="_blank">Agent-based models in philosophy: Prospects and Limitations.</a> Bochum, Germany.
 
 
 # Recent Talks
