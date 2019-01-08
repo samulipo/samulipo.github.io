@@ -54,4 +54,4 @@ In M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Rout
 
 ### CV
 
-<a href="/assets/cv.pdf" target="_blank">Heikki Samuli Reijula, Curriculum vitae (October 2018)</a> 
+<a href="/assets/cv.pdf" target="_blank">Heikki Samuli Reijula, Curriculum vitae (October 2018)</a>
