@@ -22,7 +22,7 @@ Reijula, Samuli; Timo Ehrig; Konstantinos Katsikopoulos; Jaakko Kuorikoski; Shya
 Kuorikoski, Jaakko & Samuli Reijula. (forthcoming). **Kokeellinen yhteiskuntatiede** (Experimental social science), in Kaidesoja, T; Kankainen, T; & Ylikoski, P (eds.) *Syistä Selityksiin – Kausaliteetti ja selittäminen yhteiskuntatieteissä.*
 
 Reijula, Samuli & Jaakko Kuorikoski (forthcoming). **Modeling epistemic communities**, in M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Routledge Handbook of Social Epistemology.*
-<a href="/assets/modelingepistemiccommunities.pdf" target="_blank">[pdf]</a>
+<a href="https://osf.io/preprints/socarxiv/au54j" target="_blank">[pdf]</a>
 
 ### 2017
 

@@ -28,7 +28,7 @@ I'm also affiliated with <a href="http://www.helsinki.fi/tint/" target="_blank">
 (w/ Jaakko Kuorikoski. Timo Ehrig, Konstantinos Katsikopoulos, and Shyam Sunder)
 - <a href="/assets/broadcasting_final.pdf" target="_blank">Value of cognitive diversity in science.</a>    
 *Synthese*, 194: 4519-4540. (2017)
-- <a href="/assets/modelingepistemiccommunities.pdf" target="_blank">Modeling epistemic communities.</a>  
+- <a href="https://osf.io/preprints/socarxiv/au54j" target="_blank">Modeling epistemic communities.</a>  
 In M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Routledge Handbook of Social Epistemology.*  
 (w/ Jaakko Kuorikoski)
 - <a href="https://mindmodeling.org/cogsci2017/papers/0563/index.html" target="_blank">How could a rational analysis model explain?</a>  
