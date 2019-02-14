@@ -6,13 +6,15 @@ permalink: /presentations/
 
 # Upcoming talks
 
+- 3/2019: *What has modeling taught us about cognitive diversity?* <a href="http://homepage.ruhr-uni-bochum.de/defeasible-reasoning/ABM-Phil-2019.html" target="_blank">Agent-based models in philosophy: Prospects and Limitations.</a> Bochum, Germany.
 
-- 11/2018: *Social kinds in the making – construction or recruitment?*, <a href="https://mcc.ku.dk/calendar/constructing-human-kinds-one-day-workshop/" target="_blank">A workshop on Ron Mallon's book The Construction of Human Kinds.</a> University of Copenhagen.
-
-- 3/2019: *TBA.* <a href="http://homepage.ruhr-uni-bochum.de/defeasible-reasoning/ABM-Phil-2019.html" target="_blank">Agent-based models in philosophy: Prospects and Limitations.</a> Bochum, Germany.
-
+- 2/2019: *Dos and don'ts of neuropaternalism.* University of Witten-Herdecke. (w/ Jaakko Kuorikoski and Susanne Uusitalo)
 
 # Recent Talks
+
+- 1/2019: *AI, the new IT?* (Tekoäly, uusi atk?) Philosophical Society of Finland Colloquium '19. (w/ Jaakko Lehtinen, Jaakko Kuorikoski)
+
+- 11/2018: *Social kinds in the making – construction or recruitment?*, <a href="https://mcc.ku.dk/calendar/constructing-human-kinds-one-day-workshop/" target="_blank">A workshop on Ron Mallon's book The Construction of Human Kinds.</a> University of Copenhagen.
 
 - 10/2018: *Multiple model idealization in model based social epistemology*, <a href="http://www.helsinki.fi/tint/mmodels" target="_blank">A Workshop on multiple models.</a> TINT / University of Helsinki. (w/ Emrah Aydinonat)
 
