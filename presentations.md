@@ -8,6 +8,8 @@ permalink: /presentations/
 
 - 11/2019: *Health and disease in psychiatry*. Finnish Society for Philosophy of Medicine annual meeting.
 
+- 8/2019: *Role of AI in scientific research.* Panel discussion (chair), Methods Festival, Tampere University.
+
 - 5/2019: *Modelling collaborative division of labor*, Diversity in Science workshop, Tampere University.
 
 - 5/2019: *TBA*, Intervention evaluation & field experiments - BeSP (Behaviour Change Science & Policy) Symposium Series. Helsinki.
