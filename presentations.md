@@ -10,7 +10,7 @@ permalink: /presentations/
 
 - 5/2019: *Modelling collaborative division of labor*, Diversity in Science workshop, Tampere University.
 
-¨- 5/2019: *TBA*, Intervention evaluation & field experiments - BeSP (Behaviour Change Science & Policy) Symposium Series. Helsinki.
+- 5/2019: *TBA*, Intervention evaluation & field experiments - BeSP (Behaviour Change Science & Policy) Symposium Series. Helsinki.
 
 - 3/2019: *What has modeling taught us about cognitive diversity?* <a href="http://homepage.ruhr-uni-bochum.de/defeasible-reasoning/ABM-Phil-2019.html" target="_blank">Agent-based models in philosophy: Prospects and Limitations.</a> Bochum, Germany.
 
