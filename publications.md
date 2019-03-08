@@ -4,12 +4,18 @@ title: Publications
 permalink: /publications/
 ---
 
-### 2018
+### 2019
 
 Marchionni, Caterina & Samuli Reijula (forthcoming) **What is mechanistic evidence, and why do we need it for evidence-based policy?**
- *Studies in History and Philosophy of Science A.
+ *Studies in History and Philosophy of Science A*.
 <a href="https://doi.org/10.1016/j.shpsa.2018.08.003" target="_blank">[link]</a>
 <a href="https://doi.org/10.31235/osf.io/4ufbm" target="_blank">[pdf]</a>
+
+Reijula, Samuli & Jaakko Kuorikoski (forthcoming). **Modeling epistemic communities**, in M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Routledge Handbook of Social Epistemology.*
+<a href="https://osf.io/preprints/socarxiv/au54j" target="_blank">[pdf]</a>
+
+
+### 2018
 
 Kyanoush Seyed Yahosseini, Samuli Reijula, Lucas Molleman & Mehdi Moussaıd (2018)
 **Social information can undermine individual performance in exploration-exploitation tasks.** *COGSCI 2018: 40th Annual Conference of the Cognitive Science Society*, 2470-2475.
@@ -19,10 +25,8 @@ Reijula, Samuli; Timo Ehrig; Konstantinos Katsikopoulos; Jaakko Kuorikoski; Shya
 <a href="https://osf.io/preprints/socarxiv/zh3qw" target="_blank">[pdf]</a>
 <a href="http://sabeconomics.org/wordpress/wp-content/uploads/JBEP-2-1-14.pdf" target="_blank">[link]</a>
 
-Kuorikoski, Jaakko & Samuli Reijula. (forthcoming). **Kokeellinen yhteiskuntatiede** (Experimental social science), in Kaidesoja, T; Kankainen, T; & Ylikoski, P (eds.) *Syistä Selityksiin – Kausaliteetti ja selittäminen yhteiskuntatieteissä.*
+Kuorikoski, Jaakko & Samuli Reijula. (2018). **Kokeellinen yhteiskuntatiede** (Experimental social science), in Kaidesoja, T; Kankainen, T; & Ylikoski, P (eds.) *Syistä Selityksiin – Kausaliteetti ja selittäminen yhteiskuntatieteissä.*, Gaudeamus, 279-307.
 
-Reijula, Samuli & Jaakko Kuorikoski (forthcoming). **Modeling epistemic communities**, in M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Routledge Handbook of Social Epistemology.*
-<a href="https://osf.io/preprints/socarxiv/au54j" target="_blank">[pdf]</a>
 
 ### 2017
 
