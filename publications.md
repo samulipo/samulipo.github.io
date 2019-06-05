@@ -6,6 +6,8 @@ permalink: /publications/
 
 ### 2019
 
+Kuorikoski, Jaakko & Samuli Reijula (in review, 2019). **Making it count. An inferentialist account of computer simulation** <a href="https://osf.io/preprints/socarxiv/v9bmr" target="_blank">https://osf.io/preprints/socarxiv/v9bmr</a>
+
 Marchionni, Caterina & Samuli Reijula (forthcoming) **What is mechanistic evidence, and why do we need it for evidence-based policy?**
  *Studies in History and Philosophy of Science A*.
 <a href="https://doi.org/10.1016/j.shpsa.2018.08.003" target="_blank">[link]</a>
