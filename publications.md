@@ -4,9 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
-### 2019
+### Preprints
+
+Reijula, Samuli & Ralph Hertwig (in review, 2019). **Self-nudging and the citizen choice architect** <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">https://osf.io/preprints/socarxiv/24dwn/</a>
+
 
 Kuorikoski, Jaakko & Samuli Reijula (in review, 2019). **Making it count. An inferentialist account of computer simulation** <a href="https://osf.io/preprints/socarxiv/v9bmr" target="_blank">https://osf.io/preprints/socarxiv/v9bmr</a>
+
+
+### 2019
 
 Marchionni, Caterina & Samuli Reijula (forthcoming) **What is mechanistic evidence, and why do we need it for evidence-based policy?**
  *Studies in History and Philosophy of Science A*.

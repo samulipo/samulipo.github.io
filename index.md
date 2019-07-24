@@ -43,8 +43,9 @@ In M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Rout
 
 ### Updates
 
-- Career news. As of August 2019, I will be a university lecturer in theoretical philosophy at the University of Helsinki
-- A new manuscript/preprint on models, simulations, and Robert Brandom's inferentialism: **Making it count. An inferentialist account of computer simulation**, here: <a href="https://osf.io/preprints/socarxiv/v9bmr" target="_blank">https://osf.io/preprints/socarxiv/v9bmr</a>
+- A preprint version of a paper on self-nudging (w/ Ralph Hertwig): <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">https://osf.io/preprints/socarxiv/24dwn/ </a> (7/2019)
+- Career news. As of August 2019, I will be a university lecturer in theoretical philosophy at the University of Helsinki (6/2019)
+- A new manuscript/preprint on models, simulations, and Robert Brandom's inferentialism: **Making it count. An inferentialist account of computer simulation**, here: <a href="https://osf.io/preprints/socarxiv/v9bmr" target="_blank">https://osf.io/preprints/socarxiv/v9bmr</a> (6/2019)
 - New town, new university! In September 2018 I'm starting as a university researcher at the University of Tampere.
 - Check out our poster at Cogsci 2018, "Social information can undermine individual performance in exploration-exploitation tasks." Presented by first author Kyanoush Seyed Yahosseini
 - Looking forward to attending the *European Summer School for Scientometrics* (ESSS) in Vienna (July 2018).
