@@ -4,8 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 **You can reach me here:**  
-<a href="mailto:samuli.reijula@iki.fi">samuli.reijula@iki.fi</a>,<br>
-<a href="mailto:samuli.reijula@tuni.fi">samuli.reijula@tuni.fi</a> or <a href="mailto:samuli.reijula@helsinki.fi">samuli.reijula@helsinki.fi</a><br>
+<a href="mailto:samuli.reijula@helsinki.fi">samuli.reijula@helsinki.fi</a>,<br>
+or <a href="mailto:samuli.reijula@iki.fi">samuli.reijula@iki.fi</a><br>
 +358-40-7281096  
 {: .centered_text}
 

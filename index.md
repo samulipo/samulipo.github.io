@@ -8,7 +8,7 @@ layout: page
 
 **Samuli Reijula (né Pöyhönen)**
 
-I am a university researcher in the philosophy of science at the <a href="http://www.uta.fi/yky/en/fil/index.html" target="_blank">University of Tampere</a>. I’m currently working on projects related to two themes:  
+I am a university lecturer in theoretical philosophy at the <a href="https://www.helsinki.fi/en/faculty-of-arts/research/disciplines/philosophy-history-and-art/philosophy" target="_blank">University of Helsinki</a>. I’m currently working on projects related to two themes:  
 - **Institutional epistemology.** What are epistemically well-designed social systems like? That is, what are the social, cognitive and institutional conditions of well-functioning scientific research?
 - **Evidence-based policy.** How are findings from the behavioral sciences used to inform policy design? How should that translation be done?  
 
