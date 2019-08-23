@@ -6,9 +6,13 @@ permalink: /presentations/
 
 # Upcoming talks
 
-- 11/2019: *Health and disease in psychiatry*. Finnish Society for Philosophy of Medicine annual meeting.
+- 9/2019: *Modeling collaborative division of cognitive labor.* Poster, EPSA 2019, Geneva.
 
-- 8/2019: *Role of AI in scientific research.* Panel discussion (chair), Methods Festival, Tampere University.
+- 8/2019: *AI in scientific research.* Panel discussion (chair), Methods Festival, Tampere University.
+
+- 8/2019: *Social kinds in the making – construction or recruitment?* Social Ontology 2019, Tampere University.
+
+# Recent Talks
 
 - 5/2019: *Modelling collaborative division of labor*, Diversity in Science workshop, Tampere University.
 
@@ -17,8 +21,6 @@ permalink: /presentations/
 - 3/2019: *What has modeling taught us about cognitive diversity?* <a href="http://homepage.ruhr-uni-bochum.de/defeasible-reasoning/ABM-Phil-2019.html" target="_blank">Agent-based models in philosophy: Prospects and Limitations.</a> Bochum, Germany.
 
 - 2/2019: *Dos and don'ts of neuropaternalism.* University of Witten-Herdecke. (w/ Jaakko Kuorikoski and Susanne Uusitalo)
-
-# Recent Talks
 
 - 1/2019: *AI, the new IT?* (Tekoäly, uusi atk?) Philosophical Society of Finland Colloquium '19. (w/ Jaakko Lehtinen, Jaakko Kuorikoski)
 
