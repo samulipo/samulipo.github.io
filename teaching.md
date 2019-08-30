@@ -3,6 +3,16 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+
+### Current teaching (2019-2020)
+
+- FILK-111, Introduction to the Philosophy of Science (in Finnish, Johdatus tieteenfilosofiaan). Period 2.
+- FILK-227, Philosophy of Science (in Finnish, Tieteenfilosofia). Period 3.
+- FILK-226, Philosophy of Mind (in Finnish, Mielen filosofia). Period 4.
+- Proseminar 1-4, Periods 1-4.
+
+- Office hour (vastaanotto): Wed 13-14 (during teaching periods)
+
 ### Courses taught
 
 - 2018: "Social research and the behavioral sciences" (FILS1). University of Tampere. (w/ Jaakko Kuorikoski, 5 study credits)
@@ -18,7 +28,7 @@ permalink: /teaching/
 - 2014: ''Cognitive science of science.'' University of Helsinki. (w/ Miles MacLeod and Tuukka Kaidesoja, 5 cr)
 
 - 2014, 2013: ''Philosophical thinking – methods for philosophers.'' University of Helsinki. (w/ Pekka Mäkelä \& Jaakko Kuorikoski, 5 cr)
-
+FILK-226, Mielen filosofia, Period 4.
 - 2012: ''Scientific argumentation and explanation.'' Online course, cognitive science, University Helsinki / Open University Finland. (5 cr)
 
 - 2013, 2012: ''Argumentation theory for social scientists.'' Faculty of the social sciences, University of Helsinki. (w/ Pekka Mäkelä \& Jaakko Kuorikoski, 5 cr)
