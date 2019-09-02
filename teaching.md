@@ -12,6 +12,7 @@ permalink: /teaching/
 - Proseminar 1-4, Periods 1-4.
 
 - Office hour (vastaanotto): Wed 13-14 (during teaching periods)
+    - no office hour on 11.9.2019
 
 ### Courses taught
 
