@@ -6,6 +6,10 @@ permalink: /presentations/
 
 # Upcoming talks
 
+- 1/2020: *Artificial intelligence in scientific research - a new style of reasoning?* <a href="https://www.filosofinenyhdistys.fi/fiphi-2020/" target="_blank">FiPhi 2020</a>.
+
+- 10/2019: *Learning from field experiments.* Workshop, <a href="https://www.helsinki.fi/en/conferences/behavioural-insights-in-designing-public-policy-interventions" target="_blank">Be­ha­vi­oural in­sights in design­ing pub­lic policy & in­ter­ven­tions</a>.
+
 - 9/2019: *Modeling collaborative division of cognitive labor.* Poster, EPSA 2019, Geneva.
 
 - 8/2019: *AI in scientific research.* Panel discussion (chair), Methods Festival, Tampere University.

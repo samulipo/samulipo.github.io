@@ -13,6 +13,7 @@ permalink: /teaching/
 
 - **Office hour** (vastaanotto): Wed 13-14 (during teaching periods)
     - no office hour on 11.9.2019
+    - no office hour on 16.10.2019
 
 ### Courses taught
 
