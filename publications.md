@@ -22,7 +22,7 @@ Marchionni, Caterina & Samuli Reijula (2019) **What is mechanistic evidence, and
 <a href="https://doi.org/10.31235/osf.io/4ufbm" target="_blank">[pdf]</a>
 
 Reijula, Samuli & Jaakko Kuorikoski (2019). **Modeling epistemic communities**, in M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Routledge Handbook of Social Epistemology*, 240-249.
-<a href="https://www.crcpress.com/The-Routledge-Handbook-of-Social-Epistemology/Fricker-Graham-Henderson-Pedersen/p/book/9781138858510" target"_blank">[link]</a>
+<a href="https://www.crcpress.com/The-Routledge-Handbook-of-Social-Epistemology/Fricker-Graham-Henderson-Pedersen/p/book/9781138858510" target="_blank">[link]</a>
 <a href="https://osf.io/preprints/socarxiv/au54j" target="_blank">[pdf]</a>
 
 
