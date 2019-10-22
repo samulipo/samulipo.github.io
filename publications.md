@@ -14,14 +14,14 @@ Kuorikoski, Jaakko & Samuli Reijula (in review, 2019). **Making it count. An inf
 
 ### 2019
 
-Reijula, Samuli (forthcoming) **Ian Hacking** Routledge Encyclopedia of Philosophy Online.
+Reijula, Samuli (forthcoming) **Ian Hacking** *Routledge Encyclopedia of Philosophy Online*.
 
-Marchionni, Caterina & Samuli Reijula (forthcoming) **What is mechanistic evidence, and why do we need it for evidence-based policy?**
- *Studies in History and Philosophy of Science A*.
+Marchionni, Caterina & Samuli Reijula (2019) **What is mechanistic evidence, and why do we need it for evidence-based policy?**
+ *Studies in History and Philosophy of Science A*, 73, 54–63.
 <a href="https://doi.org/10.1016/j.shpsa.2018.08.003" target="_blank">[link]</a>
 <a href="https://doi.org/10.31235/osf.io/4ufbm" target="_blank">[pdf]</a>
 
-Reijula, Samuli & Jaakko Kuorikoski (forthcoming). **Modeling epistemic communities**, in M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Routledge Handbook of Social Epistemology.*
+Reijula, Samuli & Jaakko Kuorikoski (2019). **Modeling epistemic communities**, in M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Routledge Handbook of Social Epistemology*, 240-249.
 <a href="https://osf.io/preprints/socarxiv/au54j" target="_blank">[pdf]</a>
 
 
