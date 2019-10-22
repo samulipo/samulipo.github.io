@@ -14,6 +14,8 @@ Kuorikoski, Jaakko & Samuli Reijula (in review, 2019). **Making it count. An inf
 
 ### 2019
 
+Reijula, Samuli (forthcoming) **Ian Hacking** Routledge Encyclopedia of Philosophy Online.
+
 Marchionni, Caterina & Samuli Reijula (forthcoming) **What is mechanistic evidence, and why do we need it for evidence-based policy?**
  *Studies in History and Philosophy of Science A*.
 <a href="https://doi.org/10.1016/j.shpsa.2018.08.003" target="_blank">[link]</a>
