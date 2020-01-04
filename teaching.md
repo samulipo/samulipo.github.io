@@ -8,7 +8,6 @@ permalink: /teaching/
 
 - FILK-111, Introduction to the Philosophy of Science (in Finnish, Johdatus tieteenfilosofiaan). Period 2.
 - FILK-227, Philosophy of Science (in Finnish, Tieteenfilosofia). Period 3.
-- FILK-226, Philosophy of Mind (in Finnish, Mielen filosofia). Period 4.
 - Proseminar 1-2, Periods 1-4.
 
 - **Office hour** (vastaanotto): Wed 14-15 (during teaching periods)
