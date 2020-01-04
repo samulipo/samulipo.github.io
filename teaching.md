@@ -11,9 +11,8 @@ permalink: /teaching/
 - FILK-226, Philosophy of Mind (in Finnish, Mielen filosofia). Period 4.
 - Proseminar 1-2, Periods 1-4.
 
-- **Office hour** (vastaanotto): Wed 13-14 (during teaching periods)
-    - no office hour on 30.10.2019
-    - no office hour on 18.12.2019
+- **Office hour** (vastaanotto): Wed 14-15 (during teaching periods)
+    - 8.1.2020: no office hour
 
 ### Courses taught
 
