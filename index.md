@@ -18,6 +18,7 @@ I'm also affiliated with <a href="http://www.helsinki.fi/tint/" target="_blank">
 
 ### Selected publications
 
+- Reijula, Samuli & Ralph Hertwig (forthcoming). **Self-nudging and the citizen choice architect** <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">https://osf.io/preprints/socarxiv/24dwn/</a>, *Behavioral Public Policy*
 - <a href="https://doi.org/10.31235/osf.io/4ufbm" target="_blank">What is mechanistic evidence, and why do we need it for evidence-based policy?</a> Forthcoming 2019 in *Studies in History and Philosophy of Science A*
 (w/ Caterina Marchionni)
 - <a href="https://psyarxiv.com/upv8k" target="_blank">Social information can undermine individual performance in exploration-exploitation tasks.</a>
@@ -43,7 +44,7 @@ In M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Rout
 
 ### Updates
 
-- Check out our poster from EPSA2019: Reijula & Kuorikoski: <a href="/assets/reijula_kuorikoski_poster_2019_09_08.pdf" target="_blank">Modeling collaborative division of cognitive labor</a>.
+- Check out our poster from EPSA2019: Reijula & Kuorikoski: <a href="/assets/reijula_kuorikoski_poster_2019_09_08.pdf" target="_blank">Modeling collaborative division of cognitive labor</a>. (9/2019)
 - Information about my current teaching, office hours etc. can now be found from the Teaching page (9/2019)
 - A preprint version of a paper on self-nudging (w/ Ralph Hertwig): <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">https://osf.io/preprints/socarxiv/24dwn/ </a> (7/2019)
 - Career news. As of August 2019, I will be a university lecturer in theoretical philosophy at the University of Helsinki (6/2019)

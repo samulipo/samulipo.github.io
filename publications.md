@@ -6,11 +6,11 @@ permalink: /publications/
 
 ### Preprints
 
-Reijula, Samuli & Ralph Hertwig (in review, 2019). **Self-nudging and the citizen choice architect** <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">https://osf.io/preprints/socarxiv/24dwn/</a>
-
-
 Kuorikoski, Jaakko & Samuli Reijula (in review, 2019). **Making it count. An inferentialist account of computer simulation** <a href="https://osf.io/preprints/socarxiv/v9bmr" target="_blank">https://osf.io/preprints/socarxiv/v9bmr</a>
 
+### 2020
+
+Reijula, Samuli & Ralph Hertwig (forthcoming). **Self-nudging and the citizen choice architect** <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">https://osf.io/preprints/socarxiv/24dwn/</a>
 
 ### 2019
 
