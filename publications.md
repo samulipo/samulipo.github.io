@@ -10,7 +10,7 @@ Kuorikoski, Jaakko & Samuli Reijula (in review, 2019). **Making it count. An inf
 
 ### 2020
 
-Reijula, Samuli & Ralph Hertwig (forthcoming). **Self-nudging and the citizen choice architect** <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">https://osf.io/preprints/socarxiv/24dwn/</a>
+Reijula, Samuli & Ralph Hertwig (forthcoming). **Self-nudging and the citizen choice architect** <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">https://osf.io/preprints/socarxiv/24dwn/</a>, *Behavioral Public Policy*.
 
 ### 2019
 
