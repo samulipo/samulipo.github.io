@@ -44,7 +44,7 @@ In M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Rout
 
 ### Updates
 
-- "Self-nudging and the citizen choice architect" accepted for publication in Behavioural Public Policy. After more than three years on the drawing board, really happy to share results from a collaboration with Prof. Ralph Hertwig. (1/2020)
+- "Self-nudging and the citizen choice architect" accepted for publication in Behavioural Public Policy. After more than three years on the drawing board, happy to share results from this collaboration with Prof. Ralph Hertwig. (1/2020)
 - Check out our poster from EPSA2019: Reijula & Kuorikoski: <a href="/assets/reijula_kuorikoski_poster_2019_09_08.pdf" target="_blank">Modeling collaborative division of cognitive labor</a>. (9/2019)
 - Information about my current teaching, office hours etc. can now be found from the Teaching page (9/2019)
 - A preprint version of a paper on self-nudging (w/ Ralph Hertwig): <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">https://osf.io/preprints/socarxiv/24dwn/ </a> (7/2019)
