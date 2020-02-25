@@ -6,7 +6,6 @@ permalink: /teaching/
 
 ### Current teaching (2019-2020)
 
-- FILK-111, Introduction to the Philosophy of Science (in Finnish, Johdatus tieteenfilosofiaan). Period 2.
 - FILK-227, Philosophy of Science (in Finnish, Tieteenfilosofia). Period 3.
 - Proseminar 1-2, Periods 1-4.
 
