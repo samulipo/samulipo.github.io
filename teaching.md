@@ -17,6 +17,10 @@ permalink: /teaching/
 
 ### Courses taught
 
+- 2020: "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
+- 2019: "Introduction to philosophy of science" (FILK-111), University of Helsinki (5 cr)
+- 2019: Proseminar 1 & 2 (FILK-213 & 214) (bachelor-level writing seminar), University of Helsinki (5 cr / 4 cr)
+
 - 2018: "Social research and the behavioral sciences" (FILS1). University of Tampere. (w/ Jaakko Kuorikoski, 5 study credits)
 
 - 2017, 2016, 2015: “Introduction to argumentation and philosophy of social science”, Online course. University of Helsinki / Open University.  (5 cr)
