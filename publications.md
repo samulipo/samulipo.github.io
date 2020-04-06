@@ -10,11 +10,14 @@ Kuorikoski, Jaakko & Samuli Reijula (in review, 2019). **Making it count. An inf
 
 ### 2020
 
+Aydinonat, Emrah, Samuli Reijula and Petri Ylikoski (forthcoming). **Argumentative landscapes: the functions of models in social epistemology**, *Synthese*.
+
 Reijula, Samuli & Ralph Hertwig (forthcoming). **Self-nudging and the citizen choice architect** <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">https://osf.io/preprints/socarxiv/24dwn/</a>, *Behavioral Public Policy*.
 
-### 2019
-
 Reijula, Samuli (forthcoming) **Ian Hacking**, *Routledge Encyclopedia of Philosophy Online*.
+
+
+### 2019
 
 Marchionni, Caterina & Samuli Reijula (2019) **What is mechanistic evidence, and why do we need it for evidence-based policy?**
  *Studies in History and Philosophy of Science A*, 73, 54–63.
