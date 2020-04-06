@@ -20,7 +20,7 @@ I'm also affiliated with <a href="http://www.helsinki.fi/tint/" target="_blank">
 
 - **Argumentative landscapes: the functions of models in social epistemology**, forthcoming in *Synthese*. (w/ Emrah Aydinonat and Petri Ylikoski)
 - **Self-nudging and the citizen choice architect** <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">https://osf.io/preprints/socarxiv/24dwn/</a>, forthcoming in *Behavioral Public Policy* (w/ Ralph Hertwig)
-- <a href="https://doi.org/10.31235/osf.io/4ufbm" target="_blank">What is mechanistic evidence, and why do we need it for evidence-based policy?</a> *Studies in History and Philosophy of Science A*, 73, 54–63.
+- <a href="https://doi.org/10.31235/osf.io/4ufbm" target="_blank">What is mechanistic evidence, and why do we need it for evidence-based policy?</a> *Studies in History and Philosophy of Science A*, 73, 54–63. (2019)
 (w/ Caterina Marchionni)
 - <a href="https://psyarxiv.com/upv8k" target="_blank">Social information can undermine individual performance in exploration-exploitation tasks.</a>
 *COGSCI 2018: 40th Annual Conference of the Cognitive Science Society.*
