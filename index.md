@@ -44,11 +44,9 @@ In M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Rout
 
 
 ### Updates
-
+- How can philosophers make use of (simulation) models? Together with Emrah Aydinonat and Petri Ylikoski (Synthese, forthcoming 2020), I argue that e.g. in social epistemology (of science), models should be understood as argumentative devices, and their epistemic status be evaluated accordingly.
 - "Self-nudging and the citizen choice architect" accepted for publication in Behavioural Public Policy. After more than three years on the drawing board, happy to share results from this collaboration with Prof. Ralph Hertwig. (1/2020)
 - Check out our poster from EPSA2019: Reijula & Kuorikoski: <a href="/assets/reijula_kuorikoski_poster_2019_09_08.pdf" target="_blank">Modeling collaborative division of cognitive labor</a>. (9/2019)
-- Information about my current teaching, office hours etc. can now be found from the Teaching page (9/2019)
-- A preprint version of a paper on self-nudging (w/ Ralph Hertwig): <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">https://osf.io/preprints/socarxiv/24dwn/ </a> (7/2019)
 - Career news. As of August 2019, I will be a university lecturer in theoretical philosophy at the University of Helsinki (6/2019)
 - A new manuscript/preprint on models, simulations, and Robert Brandom's inferentialism: **Making it count. An inferentialist account of computer simulation**, here: <a href="https://osf.io/preprints/socarxiv/v9bmr" target="_blank">https://osf.io/preprints/socarxiv/v9bmr</a> (6/2019)
 - New town, new university! In September 2018 I'm starting as a university researcher at the University of Tampere.
