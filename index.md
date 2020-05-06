@@ -18,10 +18,10 @@ I'm also affiliated with <a href="http://www.helsinki.fi/tint/" target="_blank">
 
 ### Selected publications
 
-- **Argumentative landscapes: the functions of models in social epistemology**, forthcoming in *Synthese*. (w/ Emrah Aydinonat and Petri Ylikoski)
-- **Self-nudging and the citizen choice architect** <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">https://osf.io/preprints/socarxiv/24dwn/</a>, forthcoming in *Behavioral Public Policy* (w/ Ralph Hertwig)
-- Tutkijan vapaus institutionaalisen tietoteorian näkökulmasta“, in ed. K. Ekholm, E. Väliverronen: Tieteen vapaus & tutkijan sananvapaus. Vastapaino, Finland. (w/ Petri Ylikoski) <a href="https://tuhat.helsinki.fi/ws/portalfiles/portal/136411434/reijula_ja_ylikoski2020_institutionaalinen_tietoteoria.pdf" target="_blank">[pdf]</a>
-- <a href="https://doi.org/10.31235/osf.io/4ufbm" target="_blank">What is mechanistic evidence, and why do we need it for evidence-based policy?</a> *Studies in History and Philosophy of Science A*, 73, 54–63. (2019)
+- <a href="http://philsci-archive.pitt.edu/17067/" target="_blank">Argumentative landscapes: the functions of models in social epistemology</a>, forthcoming in *Synthese*. (w/ Emrah Aydinonat and Petri Ylikoski)
+- <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">Self-nudging and the citizen choice architect</a>, forthcoming in *Behavioral Public Policy* (w/ Ralph Hertwig)
+- <a href="https://tuhat.helsinki.fi/ws/portalfiles/portal/136411434/reijula_ja_ylikoski2020_institutionaalinen_tietoteoria.pdf" target=_blank>Tutkijan vapaus institutionaalisen tietoteorian näkökulmasta</a>, in ed. K. Ekholm, E. Väliverronen: Tieteen vapaus & tutkijan sananvapaus. Vastapaino, Finland. (w/ Petri Ylikoski)
+- <a href="https://osf.io/preprints/socarxiv/4ufbm/" target="_blank">What is mechanistic evidence, and why do we need it for evidence-based policy?</a> *Studies in History and Philosophy of Science A*, 73, 54–63. (2019)
 (w/ Caterina Marchionni)
 - <a href="https://psyarxiv.com/upv8k" target="_blank">Social information can undermine individual performance in exploration-exploitation tasks.</a>
 *COGSCI 2018: 40th Annual Conference of the Cognitive Science Society.*
@@ -42,7 +42,6 @@ In M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Rout
 - <a href="/assets/kuorikoski-poyhonen-looping-kinds.pdf" target="_blank">Looping kinds and social mechanisms,</a>  
 *Sociological Theory*, 30:3, 187–205. (2012)  
 (w/ Jaakko Kuorikoski)
-
 
 ### Updates
 - How can philosophers make use of (simulation) models? Together with Emrah Aydinonat and Petri Ylikoski (Synthese, forthcoming 2020), I argue that e.g. in social epistemology (of science), models should be understood as argumentative devices, and their epistemic status be evaluated accordingly.
