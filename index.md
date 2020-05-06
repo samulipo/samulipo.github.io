@@ -20,7 +20,7 @@ I'm also affiliated with <a href="http://www.helsinki.fi/tint/" target="_blank">
 
 - <a href="http://philsci-archive.pitt.edu/17067/" target="_blank">Argumentative landscapes: the functions of models in social epistemology</a>, forthcoming in *Synthese*. (w/ Emrah Aydinonat and Petri Ylikoski)
 - <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">Self-nudging and the citizen choice architect</a>, forthcoming in *Behavioral Public Policy* (w/ Ralph Hertwig)
-- <a href="https://tuhat.helsinki.fi/ws/portalfiles/portal/136411434/reijula_ja_ylikoski2020_institutionaalinen_tietoteoria.pdf" target="_blank">Tutkijan vapaus institutionaalisen tietoteorian näkökulmasta</a>, in ed. K. Ekholm, E. Väliverronen: Tieteen vapaus & tutkijan sananvapaus. Vastapaino, Finland. (w/ Petri Ylikoski)
+- <a href="https://tuhat.helsinki.fi/ws/portalfiles/portal/136646649/reijula_ja_ylikoski2020_institutionaalinen_tietoteoria.pdf" target="_blank">Tutkijan vapaus institutionaalisen tietoteorian näkökulmasta</a>, in ed. K. Ekholm, E. Väliverronen: Tieteen vapaus & tutkijan sananvapaus. Vastapaino, Finland. (w/ Petri Ylikoski)
 - <a href="https://osf.io/preprints/socarxiv/4ufbm/" target="_blank">What is mechanistic evidence, and why do we need it for evidence-based policy?</a> *Studies in History and Philosophy of Science A*, 73, 54–63. (2019)
 (w/ Caterina Marchionni)
 - <a href="https://psyarxiv.com/upv8k" target="_blank">Social information can undermine individual performance in exploration-exploitation tasks.</a>
