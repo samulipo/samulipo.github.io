@@ -8,7 +8,7 @@ layout: page
 
 **Samuli Reijula (né Pöyhönen)**
 
-I am currently (2020-2025) an Academy of Finland research fellow at the University of Helsinki. I work in the <a href="https://www.helsinki.fi/en/faculty-of-arts/research/disciplines/philosophy-history-and-art/philosophy" target="_blank">theoretical philosophy</a>, and my work consists of two main lines of research:
+I am currently (2020-2025) an Academy of Finland research fellow at the University of Helsinki. I work in the <a href="https://www.helsinki.fi/en/faculty-of-arts/research/disciplines/philosophy-history-and-art/philosophy" target="_blank">theoretical philosophy unit</a>, and my research focuses on two main areas: 
 - **Institutional epistemology.** What are epistemically well-designed social systems like? That is, what are the social, cognitive and institutional conditions of well-functioning scientific research?
 - **Evidence-based policy.** How are findings from the behavioral sciences used to inform policy design? How should that translation be done?  
 
