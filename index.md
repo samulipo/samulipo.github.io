@@ -8,13 +8,13 @@ layout: page
 
 **Samuli Reijula (né Pöyhönen)**
 
-I am a university lecturer in theoretical philosophy at the <a href="https://www.helsinki.fi/en/faculty-of-arts/research/disciplines/philosophy-history-and-art/philosophy" target="_blank">University of Helsinki</a>. I’m currently working on projects related to two themes:  
+I am currently (2020-2025) an Academy of Finland research fellow at the University of Helsinki. I work in the <a href="https://www.helsinki.fi/en/faculty-of-arts/research/disciplines/philosophy-history-and-art/philosophy" target="_blank">theoretical philosophy</a>, and my work consists of two main lines of research:
 - **Institutional epistemology.** What are epistemically well-designed social systems like? That is, what are the social, cognitive and institutional conditions of well-functioning scientific research?
 - **Evidence-based policy.** How are findings from the behavioral sciences used to inform policy design? How should that translation be done?  
 
 I am also interested in the **epistemology of simulation modeling**, **computational social science**, **mathematical explanation**, **AI**, as well as issues related to **natural kinds** and **conceptual change**.
 
-I'm also affiliated with <a href="http://www.helsinki.fi/tint/" target="_blank">TINT, the Centre for Philosophy of Social Science</a> at the University of Helsinki.
+As a university lecturer (currently on research leave), I am responsible for undergraduate teaching and supervising in the area of the philosophy of science. I'm also affiliated with <a href="http://www.helsinki.fi/tint/" target="_blank">TINT, the Centre for Philosophy of Social Science</a> at the University of Helsinki.
 
 ### Selected publications
 
@@ -44,6 +44,7 @@ In M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Rout
 (w/ Jaakko Kuorikoski)
 
 ### Updates
+- Our self-nudging article is getting some attention in media: <a href="http://docs.unigrafia.fi/yliopisto-lehti_naytenumero/#/article/16/page/1-1" target="_blank">Yliopisto-lehti</a>, <a href="https://thedecisionlab.com/insights/innovation/giving-people-the-tools-to-nudge-themselves/" target="_blank">The Decision Lab</a>, <a href="https://www.today.com/health/what-self-nudging-simple-trick-make-healthier-choices-t184571" target="_blank">NBC Today</a>
 - How can philosophers make use of (simulation) models? Together with Emrah Aydinonat and Petri Ylikoski (Synthese, forthcoming 2020), I argue that e.g. in social epistemology (of science), models should be understood as argumentative devices, and their epistemic status be evaluated accordingly.
 - "Self-nudging and the citizen choice architect" accepted for publication in Behavioural Public Policy. After more than three years on the drawing board, happy to share results from this collaboration with Prof. Ralph Hertwig. (1/2020)
 - Check out our poster from EPSA2019: Reijula & Kuorikoski: <a href="/assets/reijula_kuorikoski_poster_2019_09_08.pdf" target="_blank">Modeling collaborative division of cognitive labor</a>. (9/2019)
