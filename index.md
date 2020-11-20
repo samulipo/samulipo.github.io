@@ -8,7 +8,7 @@ layout: page
 
 **Samuli Reijula (né Pöyhönen)**
 
-I am currently (2020-2025) an Academy of Finland research fellow at the University of Helsinki. I work in the <a href="https://www.helsinki.fi/en/faculty-of-arts/research/disciplines/philosophy-history-and-art/philosophy" target="_blank">theoretical philosophy unit</a>, and my research focuses on two main areas: 
+I am currently (2020-2025) an Academy of Finland research fellow at the University of Helsinki. I work in the <a href="https://www.helsinki.fi/en/faculty-of-arts/research/disciplines/philosophy-history-and-art/philosophy" target="_blank">theoretical philosophy unit</a>, and my research focuses on two main areas:
 - **Institutional epistemology.** What are epistemically well-designed social systems like? That is, what are the social, cognitive and institutional conditions of well-functioning scientific research?
 - **Evidence-based policy.** How are findings from the behavioral sciences used to inform policy design? How should that translation be done?  
 
@@ -44,6 +44,8 @@ In M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Rout
 (w/ Jaakko Kuorikoski)
 
 ### Updates
+- Here's a <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwizze7Ly5DtAhWJmIsKHWWkAcoQFjAAegQIBxAC&url=https%3A%2F%2Ftuhat.helsinki.fi%2Fws%2Fportalfiles%2Fportal%2F136646649%2Freijula_ja_ylikoski2020_institutionaalinen_tietoteoria.pdf&usg=AOvVaw3YbM410Q-0mvRxdqyM_rPPlink" target="_blank>link</a> to a paper I wrote with Petri Ylikoski, where we outline the idea of **institutional epistemology**. (in Finnish!) (11/2020)
+- I'm on research leave 2020-2025, working on my personal research project funded by the Academy of Finland. The project is called  "Modeling the republic of science: Collaborative problem solving and collective rationality in scientific inquiry" (11/2020)
 - Our self-nudging article is getting some attention in media: <a href="http://docs.unigrafia.fi/yliopisto-lehti_naytenumero/#/article/16/page/1-1" target="_blank">Yliopisto-lehti</a>, <a href="https://thedecisionlab.com/insights/innovation/giving-people-the-tools-to-nudge-themselves/" target="_blank">The Decision Lab</a>, <a href="https://www.today.com/health/what-self-nudging-simple-trick-make-healthier-choices-t184571" target="_blank">NBC Today</a>
 - How can philosophers make use of (simulation) models? Together with Emrah Aydinonat and Petri Ylikoski (Synthese, forthcoming 2020), I argue that e.g. in social epistemology (of science), models should be understood as argumentative devices, and their epistemic status be evaluated accordingly.
 - "Self-nudging and the citizen choice architect" accepted for publication in Behavioural Public Policy. After more than three years on the drawing board, happy to share results from this collaboration with Prof. Ralph Hertwig. (1/2020)
