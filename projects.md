@@ -6,11 +6,12 @@ permalink: /projects/
 
 # Modeling the republic of science: Collaborative problem solving and collective rationality in scientific inquiry (2020-2025)
 
-*“Art is I, science is we” – Claude Bernard*
 
 In 2020-2025 my research is funded by the Academy of Finland. The personal <a href="https://www.aka.fi/en/about-us/whats-new/press-releases/20202/academy-of-finland-funds-21-new-academy-research-fellows-in-social-sciences-and-humanities2/" target="_blank">academy-fellow research project</a> focuses on understanding collaboration in scientific research.
 
 ### Abstract
+
+*“Art is I, science is we” – Claude Bernard*
 
 Science is a deeply collaborative enterprise. Research is increasingly conducted by teams, and the reasons for many of its successes (e.g., mapping the human genome) and failures (e.g., replication crisis) are best understood by viewing science as a social system. The general aim of the project is to understand successful cognitive coordination in scientific communities: How should inquiry be organized so that the collaborative pursuit of knowledge is efficient, progressive and reliable?
 
