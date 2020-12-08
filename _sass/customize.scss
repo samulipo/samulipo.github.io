@@ -16,6 +16,13 @@
         padding-right: 0px;
     }
 }
+@media only screen and (min-width: 400px) {
+    .pos-center {
+        max-width: 80%;
+        height: auto;
+        padding: 15px;
+    }
+}
 ul li {
   padding-bottom: 5px;
 }

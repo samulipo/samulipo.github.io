@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
+<img class="pos-center" src="/assets/epsa_presis_2019.png"  alt="EPSA poster" title="EPSA poster"/>
+
 # Modeling the republic of science: Collaborative problem solving and collective rationality in scientific inquiry (2020-2025)
 
 
