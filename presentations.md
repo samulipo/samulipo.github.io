@@ -6,6 +6,12 @@ permalink: /presentations/
 
 # Upcoming talks
 
+- ...
+
+# Recent Talks
+
+- 2/2020: *When does diversity beat ability in problem solving?* Theoretical Philosophy research seminar, University of Helsinki.
+
 - 1/2020: *Do Bayesian models help us to understand the human mind?* Mind and Matter workshop, University of Helsinki.
 - 1/2020: *Artificial intelligence in scientific research - a new style of reasoning?* <a href="https://www.filosofinenyhdistys.fi/fiphi-2020/" target="_blank">FiPhi 2020</a>.
 
@@ -16,8 +22,6 @@ permalink: /presentations/
 - 8/2019: *AI in scientific research.* Panel discussion (chair), Methods Festival, Tampere University.
 
 - 8/2019: *Social kinds in the making – construction or recruitment?* Social Ontology 2019, Tampere University.
-
-# Recent Talks
 
 - 5/2019: *Modelling collaborative division of labor*, Diversity in Science workshop, Tampere University.
 
