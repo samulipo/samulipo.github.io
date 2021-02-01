@@ -8,6 +8,12 @@ permalink: /publications/
 
 Kuorikoski, Jaakko & Samuli Reijula (in review, 2019). **Making it count. An inferentialist account of computer simulation** <a href="https://osf.io/preprints/socarxiv/v9bmr" target="_blank">https://osf.io/preprints/socarxiv/v9bmr</a>
 
+### 2021
+
+Reijula, Samuli and Jaakko Kuorikoski (forthcoming, 2021). The diversity-ability trade-off in scientific problem solving. Philosophy of Science (PSA 2020/2021).
+
+http://philsci-archive.pitt.edu/18645/
+
 ### 2020
 
 Aydinonat, Emrah, Samuli Reijula and Petri Ylikoski (forthcoming). **Argumentative landscapes: the functions of models in social epistemology**, *Synthese*.
