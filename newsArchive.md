@@ -5,7 +5,7 @@
 layout: page
 ---
 
-### News archive
+### Old news
 
 - "Self-nudging and the citizen choice architect" accepted for publication in Behavioural Public Policy. After more than three years on the drawing board, happy to share results from this collaboration with Prof. Ralph Hertwig. (1/2020)
 - Check out our poster from EPSA2019: Reijula & Kuorikoski: <a href="/assets/reijula_kuorikoski_poster_2019_09_08.pdf" target="_blank">Modeling collaborative division of cognitive labor</a>. (9/2019)
