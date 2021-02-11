@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### Preprints
 
-Kuorikoski, Jaakko & Samuli Reijula (in review, 2019). **Making it count. An inferentialist account of computer simulation** <a href="https://osf.io/preprints/socarxiv/v9bmr" target="_blank">https://osf.io/preprints/socarxiv/v9bmr</a>
+Kuorikoski, Jaakko and Samuli Reijula. **Making it count. An inferentialist account of computer simulation** <a href="https://osf.io/preprints/socarxiv/v9bmr" target="_blank">https://osf.io/preprints/socarxiv/v9bmr</a>
 
 ### 2021
 
@@ -22,7 +22,7 @@ Reijula, Samuli and Petri Ylikoski (2020). **Tutkijan vapaus institutionaalisen 
 
 Reijula, Samuli & Ralph Hertwig (forthcoming). **Self-nudging and the citizen choice architect**. *Behavioral Public Policy*. <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">[pdf]</a>
 
-Reijula, Samuli (forthcoming) **Ian Hacking**, *Routledge Encyclopedia of Philosophy Online*.
+Reijula, Samuli (forthcoming 2021) **Ian Hacking**, *Routledge Encyclopedia of Philosophy Online*.
 
 
 ### 2019

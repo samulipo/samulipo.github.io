@@ -4,18 +4,13 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### Current teaching (2019-2020)
+### Current teaching (2020-2021)
 
-- FILK-227, Philosophy of Science (in Finnish, Tieteenfilosofia). Period 3.
-- Proseminar 1-2, Periods 1-4.
-
-- **Office hour** (vastaanotto): Wed 14-15 (during teaching periods)
-    - 8.1.2020: no office hour
-    - 26.2.2020: no office hour
-    - 4.3.2020: no office hour (period break)
+- 2021: "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
 
 ### Courses taught
 
+- 2020: Proseminar 1 & 2 (FILK-213 & 214) (bachelor-level writing seminar), University of Helsinki (5 cr / 4 cr)
 - 2020: "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
 - 2019: "Introduction to philosophy of science" (FILK-111), University of Helsinki (5 cr)
 - 2019: Proseminar 1 & 2 (FILK-213 & 214) (bachelor-level writing seminar), University of Helsinki (5 cr / 4 cr)
@@ -43,4 +38,5 @@ FILK-226, Mielen filosofia, Period 4.
 
 ### Training in university pedagogy
 
-- 2015: UP5: ''Development of teaching and practical training." University of Helsinki.
+- 2020: UP1: "Learning in Higher Education." University of Helsinki.
+- 2015: UP5: "Development of teaching and practical training." University of Helsinki.
