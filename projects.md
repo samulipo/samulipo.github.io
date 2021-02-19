@@ -21,6 +21,26 @@ Although the recent modeling work in the philosophy of science has provided insi
 
 My project addresses these shortcomings by combining philosophical analysis with computational modeling. First, it introduces two model templates for studying scientific collaboration (restless bandits; binary string model). Second, by providing an account of the epistemology of computational modeling, it positions the modeling-based results with respect to the broader philosophical and interdisciplinary literature on scientific collaboration. The questions addressed by the project include: Which patterns of communal information exchange are desirable – can too much communication between scientists be epistemically harmful? When do diverse problem-solving groups outperform more skilled but less diverse ones? How does non-modularity of research problems hinder success in multidisciplinary research teams?
 
+### Publications
+
+Reijula, Samuli and Jaakko Kuorikoski (forthcoming, 2021). **The diversity-ability trade-off in scientific problem solving.** Philosophy of Science (PSA 2020/2021). <a href="http://philsci-archive.pitt.edu/18645/" target="_blank">[pdf]</a>
+
+Aydinonat, Emrah, Samuli Reijula and Petri Ylikoski (forthcoming). **Argumentative landscapes: the functions of models in social epistemology.** *Synthese*. <a href="http://philsci-archive.pitt.edu/17163/" target="_blank">[pdf]</a>
+
+Reijula, Samuli & Jaakko Kuorikoski (2019). **Modeling epistemic communities**, in M. Fricker, P.J. Graham, D. Henderson, N. Pedersen, J. Wyatt (eds.) *The Routledge Handbook of Social Epistemology*, 240-249.
+<a href="https://www.crcpress.com/The-Routledge-Handbook-of-Social-Epistemology/Fricker-Graham-Henderson-Pedersen/p/book/9781138858510" target="_blank">[link]</a>
+<a href="https://osf.io/preprints/socarxiv/au54j" target="_blank">[pdf]</a>
+
+Kyanoush Seyed Yahosseini, Samuli Reijula, Lucas Molleman & Mehdi Moussaıd (2018)
+**Social information can undermine individual performance in exploration-exploitation tasks.** *COGSCI 2018: 40th Annual Conference of the Cognitive Science Society*, 2470-2475.
+<a href="https://psyarxiv.com/upv8k" target="_blank">[pdf]</a>
+
+Pöyhönen, Samuli (2017). **Value of cognitive diversity in science.** *Synthese*, 194: 4519-4540.
+<a href="/assets/broadcasting_final.pdf" target="_blank">[pdf]</a>
+<a href="https://link.springer.com/article/10.1007%2Fs11229-016-1147-4" target="_blank">[link]</a>
+<a href="https://github.com/samulipo/broadcasting/" target="_blank">[online materials]</a>
+
+
 # Past projects
 
 ## ...
