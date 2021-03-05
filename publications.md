@@ -12,6 +12,7 @@ Kuorikoski, Jaakko and Samuli Reijula. **Making it count. An inferentialist acco
 
 Reijula, Samuli and Jaakko Kuorikoski (forthcoming, 2021). **The diversity-ability trade-off in scientific problem solving.** Philosophy of Science (PSA 2020/2021). <a href="http://philsci-archive.pitt.edu/18645/" target="_blank">[pdf]</a>
 
+Reijula, Samuli (forthcoming 2021) **Ian Hacking**, *Routledge Encyclopedia of Philosophy Online*.
 
 ### 2020
 
@@ -22,7 +23,7 @@ Reijula, Samuli and Petri Ylikoski (2020). **Tutkijan vapaus institutionaalisen 
 
 Reijula, Samuli & Ralph Hertwig (forthcoming). **Self-nudging and the citizen choice architect**. *Behavioral Public Policy*. <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">[pdf]</a>
 
-Reijula, Samuli (forthcoming 2021) **Ian Hacking**, *Routledge Encyclopedia of Philosophy Online*.
+Kuorikoski, Jaakko, Samuli Reijula and Susanne Uusitalo (2020). **Neuroscience of autonomy and paternalistic policies.** In Harbecke, J. & Herrmann-Pillath, C. (eds.). *Social Neuroeconomics : Mechanistic Integration of the Neurosciences and the Social Sciences.*  London: Routledge, p. 221-235. <a href="/assets/kuorikoski,reijula,uusitalo2020.pdf" target="_blank">[pdf]</a>
 
 
 ### 2019
