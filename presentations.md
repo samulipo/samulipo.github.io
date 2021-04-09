@@ -6,7 +6,8 @@ permalink: /presentations/
 
 # Upcoming talks
 
-- ...
+- 8/2021: *Models as argumentative devices.* European Philosophy of Science association meeting (EPSA21), Turin.
+- 11/2021: *The diversity-ability trade-off in scientific problem solving.* Philosophy of Science association meeting (PSA 2020/2021), Baltimore.
 
 # Recent Talks
 
