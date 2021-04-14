@@ -9,12 +9,12 @@ layout: page
 **Samuli Reijula (né Pöyhönen)**
 
 I am currently (2020-2025) an Academy of Finland research fellow at the University of Helsinki. I work in the <a href="https://www.helsinki.fi/en/faculty-of-arts/research/disciplines/philosophy-history-and-art/philosophy" target="_blank">theoretical philosophy unit</a>, and my research focuses on two main areas:
-- **Institutional epistemology.** What are epistemically well-designed social systems like? That is, what are the social, cognitive and institutional conditions of well-functioning scientific research?
+- **Institutional epistemology.** What are epistemically well-designed social systems like? What are the social, cognitive and institutional conditions of well-functioning scientific research?
 - **Evidence-based policy.** How are findings from the behavioral sciences used to inform policy design? How should that translation be done?  
 
 I am also interested in the **epistemology of simulation modeling**, **computational social science**, **mathematical explanation**, **AI**, as well as issues related to **natural kinds** and **conceptual change**.
 
-As a university lecturer (currently on research leave), I am responsible for undergraduate teaching and supervising in the area of the philosophy of science. I'm also affiliated with <a href="http://www.helsinki.fi/tint/" target="_blank">TINT, the Centre for Philosophy of Social Science</a> at the University of Helsinki.
+As a university lecturer (currently on research leave), I am responsible for undergraduate teaching and supervising in the area of the philosophy of science. I'm also affiliated with the <a href="http://www.helsinki.fi/tint/" target="_blank">TINT Centre for Philosophy of Social Science</a> at the University of Helsinki.
 
 ### Recent publications
 
@@ -35,4 +35,4 @@ As a university lecturer (currently on research leave), I am responsible for und
 
 ### CV
 
-<a href="/assets/reijula_cv.pdf" target="_blank">Heikki Samuli Reijula, Curriculum vitae (June 2019)</a>
+<a href="/assets/reijula_cv.pdf" target="_blank">Heikki Samuli Reijula, Curriculum vitae (March 2021)</a>
