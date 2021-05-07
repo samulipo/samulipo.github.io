@@ -13,6 +13,7 @@ permalink: /presentations/
 - 6/2021: *Computational science as an interdisciplinary trading zone?* Summer Institute in Computational Social Science, Helsinki. (w/ Matti Nelimarkka, Juho Pääkkönen)
 
 - 5/2021: *Social kinds in the making – construction or recruitment?* Perspectives on Science seminar, University of Helsinki
+
 # Recent Talks
 
 - 2/2020: *When does diversity beat ability in problem solving?* Theoretical Philosophy research seminar, University of Helsinki.
