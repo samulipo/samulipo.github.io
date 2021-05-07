@@ -14,8 +14,6 @@ Reijula, Samuli (2021) **Hacking, Ian (1936-)**, Routledge Encyclopedia of Philo
 
 Reijula, Samuli and Jaakko Kuorikoski (forthcoming, 2021). **The diversity-ability trade-off in scientific problem solving.** Philosophy of Science (PSA 2020/2021). <a href="http://philsci-archive.pitt.edu/18645/" target="_blank">[pdf]</a>
 
-Reijula, Samuli (forthcoming 2021) **Ian Hacking**, *Routledge Encyclopedia of Philosophy Online*.
-
 ### 2020
 
 Aydinonat, Emrah, Samuli Reijula and Petri Ylikoski (forthcoming). **Argumentative landscapes: the functions of models in social epistemology.** *Synthese*. <a href="http://philsci-archive.pitt.edu/17163/" target="_blank">[pdf]</a>
