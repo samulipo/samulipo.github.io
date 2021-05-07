@@ -6,9 +6,11 @@ permalink: /publications/
 
 ### Preprints
 
-Kuorikoski, Jaakko and Samuli Reijula. **Making it count. An inferentialist account of computer simulation** <a href="https://osf.io/preprints/socarxiv/v9bmr" target="_blank">https://osf.io/preprints/socarxiv/v9bmr</a>
+Kuorikoski, Jaakko and Samuli Reijula. **Making it count. An inferentialist account of computer simulation** <a href="https://www.rep.routledge.com/articles/biographical/hacking-ian-1936/v-1" target="_blank">[link]</a>
 
 ### 2021
+
+Reijula, Samuli (2021) **Hacking, Ian (1936-)**, Routledge Encyclopedia of Philosophy <a href="http://philsci-archive.pitt.edu/18645/" target="_blank">[pdf]</a>
 
 Reijula, Samuli and Jaakko Kuorikoski (forthcoming, 2021). **The diversity-ability trade-off in scientific problem solving.** Philosophy of Science (PSA 2020/2021). <a href="http://philsci-archive.pitt.edu/18645/" target="_blank">[pdf]</a>
 
