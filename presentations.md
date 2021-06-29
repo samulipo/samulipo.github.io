@@ -10,7 +10,7 @@ permalink: /presentations/
 
 - 8/2021: *Models as argumentative devices.* European Philosophy of Science association meeting (EPSA21), Turin.
 
-- 6/2021: *Computational science as an interdisciplinary trading zone?* Summer Institute in Computational Social Science, Helsinki. (w/ Matti Nelimarkka, Juho Pääkkönen)
+- 6/2021: *Computational social science as a trading zone. Emerging integration or increasing fractionation?* Summer Institute in Computational Social Science, Helsinki. (w/ Matti Nelimarkka, Juho Pääkkönen)
 
 - 5/2021: *Social kinds in the making – construction or recruitment?* Perspectives on Science seminar, University of Helsinki
 
