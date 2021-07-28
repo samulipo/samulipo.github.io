@@ -18,6 +18,7 @@ As a university lecturer (currently on research leave), I am responsible for und
 
 ### Recent publications
 
+- **Social categories in the making: construction or recruitment?** Forthcoming in *Synthese*. 
 - <a href="https://philpapers.org/archive/REIHI.pdf" target="_blank">Hacking, Ian (1936-)</a>, *Routledge Encyclopedia of Philosophy*
 - <a href="http://philsci-archive.pitt.edu/18645/" target="_blank">The diversity-ability trade-off in scientific problem solving.</a> forthcoming in *Philosophy of Science* (PSA 2020/2021). (w/ Jaakko Kuorikoski)
 - <a href="http://philsci-archive.pitt.edu/17067/" target="_blank">Argumentative landscapes: the functions of models in social epistemology</a>, forthcoming in *Synthese*. (w/ Emrah Aydinonat and Petri Ylikoski)
