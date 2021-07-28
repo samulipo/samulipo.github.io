@@ -18,8 +18,7 @@ As a university lecturer (currently on research leave), I am responsible for und
 
 ### Recent publications
 
-- **Hacking, Ian (1936-)**, *Routledge Encyclopedia of Philosophy* <a href="https://www.rep.routledge.com/articles/biographical/hacking-ian-1936/v-1" target="_blank">[link]</a>
-
+- **Hacking, Ian (1936-)**, *Routledge Encyclopedia of Philosophy* <a href="https://www.rep.routledge.com/articles/biographical/hacking-ian-1936/v-1" target="_blank">[link]</a> <a href="https://philpapers.org/archive/REIHI.pdf" target="_blank">[pdf]</a>
 - <a href="http://philsci-archive.pitt.edu/18645/" target="_blank">The diversity-ability trade-off in scientific problem solving.</a> forthcoming in *Philosophy of Science* (PSA 2020/2021). (w/ Jaakko Kuorikoski)
 - <a href="http://philsci-archive.pitt.edu/17067/" target="_blank">Argumentative landscapes: the functions of models in social epistemology</a>, forthcoming in *Synthese*. (w/ Emrah Aydinonat and Petri Ylikoski)
 - <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">Self-nudging and the citizen choice architect</a>, forthcoming in *Behavioral Public Policy* (w/ Ralph Hertwig)
