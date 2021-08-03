@@ -21,7 +21,7 @@ As a university lecturer (currently on research leave), I am responsible for und
 - <a href="https://link.springer.com/content/pdf/10.1007/s11229-021-03334-x.pdf" target="_blank">Social categories in the making: construction or recruitment?</a>, *Synthese*. (7/2021)
 - <a href="https://philpapers.org/archive/REIHI.pdf" target="_blank">Hacking, Ian (1936-)</a>, *Routledge Encyclopedia of Philosophy.* (5/2021)
 - <a href="http://philsci-archive.pitt.edu/18645/" target="_blank">The diversity-ability trade-off in scientific problem solving</a>, *Philosophy of Science* (PSA 2020/2021). (w/ Jaakko Kuorikoski) (4/2021)
-- <a href="http://philsci-archive.pitt.edu/17067/" target="_blank">Argumentative landscapes: the functions of models in social epistemology</a>, *Synthese*. (w/ Emrah Aydinonat and Petri Ylikoski) (Published online 2020)
+- <a href="http://philsci-archive.pitt.edu/17067/" target="_blank">Argumentative landscapes: the functions of models in social epistemology</a>, *Synthese*. (w/ Emrah Aydinonat and Petri Ylikoski) (4/2020)
 - <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">Self-nudging and the citizen choice architect</a>, *Behavioral Public Policy* (w/ Ralph Hertwig). (3/2020)
 - <a href="https://tuhat.helsinki.fi/ws/portalfiles/portal/136646649/reijula_ja_ylikoski2020_institutionaalinen_tietoteoria.pdf" target="_blank">Tutkijan vapaus institutionaalisen tietoteorian näkökulmasta</a>, in ed. K. Ekholm, E. Väliverronen 2020: Tieteen vapaus & tutkijan sananvapaus. Vastapaino, Finland. (w/ Petri Ylikoski)
 
