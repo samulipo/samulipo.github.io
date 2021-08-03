@@ -18,11 +18,11 @@ As a university lecturer (currently on research leave), I am responsible for und
 
 ### Recent publications
 
-- **Social categories in the making: construction or recruitment?** Forthcoming in *Synthese*. 
+- <a href="https://link.springer.com/content/pdf/10.1007/s11229-021-03334-x.pdf" target="_blank">Social categories in the making: construction or recruitment?</a>, *Synthese*.
 - <a href="https://philpapers.org/archive/REIHI.pdf" target="_blank">Hacking, Ian (1936-)</a>, *Routledge Encyclopedia of Philosophy*
-- <a href="http://philsci-archive.pitt.edu/18645/" target="_blank">The diversity-ability trade-off in scientific problem solving.</a> forthcoming in *Philosophy of Science* (PSA 2020/2021). (w/ Jaakko Kuorikoski)
+- <a href="http://philsci-archive.pitt.edu/18645/" target="_blank">The diversity-ability trade-off in scientific problem solving.</a>, *Philosophy of Science* (PSA 2020/2021). (w/ Jaakko Kuorikoski)
 - <a href="http://philsci-archive.pitt.edu/17067/" target="_blank">Argumentative landscapes: the functions of models in social epistemology</a>, forthcoming in *Synthese*. (w/ Emrah Aydinonat and Petri Ylikoski)
-- <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">Self-nudging and the citizen choice architect</a>, forthcoming in *Behavioral Public Policy* (w/ Ralph Hertwig)
+- <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">Self-nudging and the citizen choice architect</a>, *Behavioral Public Policy* (w/ Ralph Hertwig)
 - <a href="https://tuhat.helsinki.fi/ws/portalfiles/portal/136646649/reijula_ja_ylikoski2020_institutionaalinen_tietoteoria.pdf" target="_blank">Tutkijan vapaus institutionaalisen tietoteorian näkökulmasta</a>, in ed. K. Ekholm, E. Väliverronen: Tieteen vapaus & tutkijan sananvapaus. Vastapaino, Finland. (w/ Petri Ylikoski)
 
 ### Updates
