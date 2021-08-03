@@ -18,12 +18,12 @@ As a university lecturer (currently on research leave), I am responsible for und
 
 ### Recent publications
 
-- <a href="https://link.springer.com/content/pdf/10.1007/s11229-021-03334-x.pdf" target="_blank">Social categories in the making: construction or recruitment?</a>, *Synthese*.
-- <a href="https://philpapers.org/archive/REIHI.pdf" target="_blank">Hacking, Ian (1936-)</a>, *Routledge Encyclopedia of Philosophy*
-- <a href="http://philsci-archive.pitt.edu/18645/" target="_blank">The diversity-ability trade-off in scientific problem solving.</a>, *Philosophy of Science* (PSA 2020/2021). (w/ Jaakko Kuorikoski)
-- <a href="http://philsci-archive.pitt.edu/17067/" target="_blank">Argumentative landscapes: the functions of models in social epistemology</a>, forthcoming in *Synthese*. (w/ Emrah Aydinonat and Petri Ylikoski)
-- <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">Self-nudging and the citizen choice architect</a>, *Behavioral Public Policy* (w/ Ralph Hertwig)
-- <a href="https://tuhat.helsinki.fi/ws/portalfiles/portal/136646649/reijula_ja_ylikoski2020_institutionaalinen_tietoteoria.pdf" target="_blank">Tutkijan vapaus institutionaalisen tietoteorian näkökulmasta</a>, in ed. K. Ekholm, E. Väliverronen: Tieteen vapaus & tutkijan sananvapaus. Vastapaino, Finland. (w/ Petri Ylikoski)
+- <a href="https://link.springer.com/content/pdf/10.1007/s11229-021-03334-x.pdf" target="_blank">Social categories in the making: construction or recruitment?</a>, *Synthese*. (7/2021)
+- <a href="https://philpapers.org/archive/REIHI.pdf" target="_blank">Hacking, Ian (1936-)</a>, *Routledge Encyclopedia of Philosophy.* (5/2021)
+- <a href="http://philsci-archive.pitt.edu/18645/" target="_blank">The diversity-ability trade-off in scientific problem solving</a>, *Philosophy of Science* (PSA 2020/2021). (w/ Jaakko Kuorikoski) (4/2021)
+- <a href="http://philsci-archive.pitt.edu/17067/" target="_blank">Argumentative landscapes: the functions of models in social epistemology</a>, *Synthese*. (w/ Emrah Aydinonat and Petri Ylikoski) (Published online 2020)
+- <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">Self-nudging and the citizen choice architect</a>, *Behavioral Public Policy* (w/ Ralph Hertwig). (3/2020)
+- <a href="https://tuhat.helsinki.fi/ws/portalfiles/portal/136646649/reijula_ja_ylikoski2020_institutionaalinen_tietoteoria.pdf" target="_blank">Tutkijan vapaus institutionaalisen tietoteorian näkökulmasta</a>, in ed. K. Ekholm, E. Väliverronen 2020: Tieteen vapaus & tutkijan sananvapaus. Vastapaino, Finland. (w/ Petri Ylikoski)
 
 ### Updates
 - A new paper coming out in the Philosophy of Science (PSA2020/2021 proceedings). We examine the diversity-beats-ability theorem originally put forward by Lu Hong and Scott Page, 2004. Long story short, (1) we don't think the original model provides reliable evidence of diversity beating ability in group problem solving, but (2) we have an improved version of the model that can tell us something of interest about the trade-off between diversity and ability!
