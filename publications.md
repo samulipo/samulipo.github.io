@@ -10,13 +10,22 @@ Kuorikoski, Jaakko and Samuli Reijula. **Making it count. An inferentialist acco
 
 ### 2021
 
-Reijula, Samuli (2021) **Hacking, Ian (1936-)**, *Routledge Encyclopedia of Philosophy* <a href="https://www.rep.routledge.com/articles/biographical/hacking-ian-1936/v-1" target="_blank">[link]</a> <a href="https://philpapers.org/archive/REIHI.pdf" target="_blank">[pdf]</a>
+Reijula, Samuli (forthcoming) **Social categories in the making: construction or recruitment?** , *Synthese*.
+<a href="https://link.springer.com/content/pdf/10.1007/s11229-021-03334-x.pdf" target="_blank">[pdf, open access]</a>
 
-Reijula, Samuli and Jaakko Kuorikoski (forthcoming, 2021). **The diversity-ability trade-off in scientific problem solving.** Philosophy of Science (PSA 2020/2021). <a href="http://philsci-archive.pitt.edu/18645/" target="_blank">[pdf]</a>
+Reijula, Samuli (2021) **Hacking, Ian (1936-)**, *Routledge Encyclopedia of Philosophy*
+<a href="https://www.rep.routledge.com/articles/biographical/hacking-ian-1936/v-1" target="_blank">[link]</a>
+<a href="https://philpapers.org/archive/REIHI.pdf" target="_blank">[pdf]</a>
+
+Reijula, Samuli and Jaakko Kuorikoski (forthcoming). **The diversity-ability trade-off in scientific problem solving.** *Philosophy of Science (PSA 2020/2021)*.
+<a href="https://www.journals.uchicago.edu/doi/abs/10.1086/714938" target="_blank">[link]</a>
+<a href="http://philsci-archive.pitt.edu/18645/" target="_blank">[pdf]</a>
 
 ### 2020
 
-Aydinonat, Emrah, Samuli Reijula and Petri Ylikoski (forthcoming). **Argumentative landscapes: the functions of models in social epistemology.** *Synthese*. <a href="http://philsci-archive.pitt.edu/17163/" target="_blank">[pdf]</a>
+Aydinonat, Emrah, Samuli Reijula and Petri Ylikoski (forthcoming). **Argumentative landscapes: the functions of models in social epistemology.** *Synthese*.
+<a href="https://link.springer.com/article/10.1007/s11229-020-02661-9" target="_blank">[link]</a>
+<a href="http://philsci-archive.pitt.edu/17163/" target="_blank">[pdf]</a>
 
 Reijula, Samuli and Petri Ylikoski (2020). **Tutkijan vapaus institutionaalisen tietoteorian näkökulmasta**, in ed. K. Ekholm, E. Väliverronen: Tieteen vapaus & tutkijan sananvapaus. Vastapaino, Finland.
 <a href="https://tuhat.helsinki.fi/ws/portalfiles/portal/136411434/reijula_ja_ylikoski2020_institutionaalinen_tietoteoria.pdf" target="_blank">[pdf]</a>
