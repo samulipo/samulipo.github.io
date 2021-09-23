@@ -28,7 +28,7 @@ Aydinonat, Emrah, Samuli Reijula and Petri Ylikoski (forthcoming). **Argumentati
 <a href="http://philsci-archive.pitt.edu/17163/" target="_blank">[pdf]</a>
 
 Reijula, Samuli and Petri Ylikoski (2020). **Tutkijan vapaus institutionaalisen tietoteorian näkökulmasta**, in ed. K. Ekholm, E. Väliverronen: Tieteen vapaus & tutkijan sananvapaus. Vastapaino, Finland.
-<a href="https://tuhat.helsinki.fi/ws/portalfiles/portal/136411434/reijula_ja_ylikoski2020_institutionaalinen_tietoteoria.pdf" target="_blank">[pdf]</a>
+<a href="/assets/reijula_ja_ylikoski2020,institutionaalinen_tietoteoria.pdf" target="_blank">[pdf]</a>
 
 Reijula, Samuli & Ralph Hertwig (forthcoming). **Self-nudging and the citizen choice architect**. *Behavioral Public Policy*.
 <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/selfnudging-and-the-citizen-choice-architect/F526628F7F3C7B436FA2BCBFC1FC3C76" target="_blank">[link]</a>
