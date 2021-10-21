@@ -34,8 +34,6 @@ Reijula, Samuli & Ralph Hertwig (forthcoming). **Self-nudging and the citizen ch
 <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/selfnudging-and-the-citizen-choice-architect/F526628F7F3C7B436FA2BCBFC1FC3C76" target="_blank">[link]</a>
 <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">[pdf]</a>
 
-
-
 Kuorikoski, Jaakko, Samuli Reijula and Susanne Uusitalo (2020). **Neuroscience of autonomy and paternalistic policies.** In Harbecke, J. & Herrmann-Pillath, C. (eds.). *Social Neuroeconomics : Mechanistic Integration of the Neurosciences and the Social Sciences.*  London: Routledge, p. 221-235. <a href="/assets/kuorikoski,reijula,uusitalo2020.pdf" target="_blank">[pdf]</a>
 
 
