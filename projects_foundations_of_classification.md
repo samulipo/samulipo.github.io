@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects: Foundations of classification
+title: Projects - Foundations of classification
 permalink: /projects/foundations_of_classification/
 ---
 
