@@ -12,6 +12,8 @@ I am currently (2020-2025) an Academy of Finland research fellow at the Universi
 - **Institutional epistemology.** What are epistemically well-designed social systems like? What are the social, cognitive and institutional conditions of well-functioning scientific research?
 - **Evidence-based policy.** How are findings from the behavioral sciences used to inform policy design? How should that translation be done?  
 
+In 2022-2023, together with Pantelis Analytis (Odense) and Jacob Habinek (IAS), I'm organizing a workshops series <a href="https://blogs.helsinki.fi/computational-science-studies/" target="_blank">Nordic Network for the Science of Science</a> (funded by NOS-HS).
+
 I am also interested in the **epistemology of simulation modeling**, **computational social science**, **mathematical explanation**, **AI**, as well as issues related to **natural kinds** and **conceptual change**.
 
 As a university lecturer (currently on research leave), I am responsible for undergraduate teaching and supervising in the area of the philosophy of science. I'm also affiliated with the <a href="http://www.helsinki.fi/tint/" target="_blank">TINT Centre for Philosophy of Social Science</a> at the University of Helsinki.
@@ -37,4 +39,4 @@ As a university lecturer (currently on research leave), I am responsible for und
 
 ### CV
 
-<a href="/assets/reijula_cv.pdf" target="_blank">Samuli Reijula, Curriculum vitae March 2021</a>
+<a href="/assets/reijula_cv_2022-1.pdf" target="_blank">Samuli Reijula, Curriculum vitae Jan 2022</a>
