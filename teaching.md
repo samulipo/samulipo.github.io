@@ -6,10 +6,12 @@ permalink: /teaching/
 
 ### Current teaching (2020-2021)
 
-- 2021: "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
+- s2022: "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
+- f2021: Uncertainty reading group, University of Helsinki (5 cr)
 
 ### Courses taught
 
+- 2021: "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
 - 2020: Proseminar 1 & 2 (FILK-213 & 214) (bachelor-level writing seminar), University of Helsinki (5 cr / 4 cr)
 - 2020: "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
 - 2019: "Introduction to philosophy of science" (FILK-111), University of Helsinki (5 cr)
