@@ -20,7 +20,7 @@ author: Samuli Reijula
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-  - blog.md
+  - log.md #sometimes takes a while to update
   - projects.md
   - publications.md
   - presentations.md
@@ -37,7 +37,7 @@ plugins:
 
 google_analytics: G-HZL0D881P8
 
-excerpt_separator: <!--more--> 
+excerpt_separator: <!--more-->
 
 
 # Exclude from processing.
