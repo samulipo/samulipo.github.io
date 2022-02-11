@@ -27,15 +27,6 @@ As a university lecturer (currently on research leave), I am responsible for und
 - <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">Self-nudging and the citizen choice architect</a>, *Behavioral Public Policy* (w/ Ralph Hertwig). (3/2020)
 - <a href="https://tuhat.helsinki.fi/ws/portalfiles/portal/136646649/reijula_ja_ylikoski2020_institutionaalinen_tietoteoria.pdf" target="_blank">Tutkijan vapaus institutionaalisen tietoteorian näkökulmasta</a>, in ed. K. Ekholm, E. Väliverronen 2020: Tieteen vapaus & tutkijan sananvapaus. Vastapaino, Finland. (w/ Petri Ylikoski)
 
-### Updates
-- A new paper coming out in the Philosophy of Science (PSA2020/2021 proceedings). We examine the diversity-beats-ability theorem originally put forward by Lu Hong and Scott Page, 2004. Long story short, (1) we don't think the original model provides reliable evidence of diversity beating ability in group problem solving, but (2) we have an improved version of the model that can tell us something of interest about the trade-off between diversity and ability!
-- Here's a <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwizze7Ly5DtAhWJmIsKHWWkAcoQFjAAegQIBxAC&url=https%3A%2F%2Ftuhat.helsinki.fi%2Fws%2Fportalfiles%2Fportal%2F136646649%2Freijula_ja_ylikoski2020_institutionaalinen_tietoteoria.pdf&usg=AOvVaw3YbM410Q-0mvRxdqyM_rPPlink" target="_blank">link</a> to a paper I wrote with Petri Ylikoski, where we outline the idea of *institutional epistemology*. (in Finnish!) (11/2020)
-- I'm on research leave 2020-2025, working on my personal research project funded by the Academy of Finland. The project is called  "Modeling the republic of science: Collaborative problem solving and collective rationality in scientific inquiry" (11/2020)
-- Our self-nudging article is getting some attention in media: <a href="https://behavioralscientist.org/creating-citizen-choice-architects/" target="_blank">Behavioral scientist</a>, <a href="/assets/reijula_yliopistolehti_2020-8.pdf" target="_blank">Yliopisto-lehti</a>, <a href="https://thedecisionlab.com/insights/innovation/giving-people-the-tools-to-nudge-themselves/" target="_blank">The Decision Lab</a>, <a href="https://www.today.com/health/what-self-nudging-simple-trick-make-healthier-choices-t184571" target="_blank">NBC Today</a> (9/2020)
-- Our small contribution to the debate on the use of evidence and computational models at the times of pandemic (in Finnish). In <a href="https://alusta.uta.fi/2020/05/26/laskennalliset-mallit-voivat-lisata-julkisen-paatoksenteon-avoimuutta/" target="_blank">Alusta!</a>
-- How can philosophers make use of (simulation) models? Together with Emrah Aydinonat and Petri Ylikoski (Synthese, forthcoming 2020), I argue that e.g. in social epistemology (of science), models should be understood as argumentative devices, and their epistemic status be evaluated accordingly. (5/2020)
-
-- [news archive](newsArchive.md)
 
 ### CV
 
