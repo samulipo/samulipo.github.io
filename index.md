@@ -20,6 +20,7 @@ As a university lecturer (currently on research leave), I am responsible for und
 
 ### Recent publications
 
+- <a href="https://www.tieteessatapahtuu.fi/numerot/1-2022/terapeuttinen-puhe-kaikkialla-artikkelikokoelma-tarkastelee-sen-vaikutuksia" target="_blank">Terapeuttinen puhe on kaikkialla (Therapeutic discourse is everywhere; book review)</a>, *Tieteessä Tapahtuu 1/2022*. (2/2022)
 - <a href="https://link.springer.com/content/pdf/10.1007/s11229-021-03334-x.pdf" target="_blank">Social categories in the making: construction or recruitment?</a>, *Synthese*. (7/2021)
 - <a href="https://philpapers.org/archive/REIHI.pdf" target="_blank">Hacking, Ian (1936-)</a>, *Routledge Encyclopedia of Philosophy.* (5/2021)
 - <a href="http://philsci-archive.pitt.edu/18645/" target="_blank">The diversity-ability trade-off in scientific problem solving</a>, *Philosophy of Science* (PSA 2020/2021). (w/ Jaakko Kuorikoski) (4/2021)
