@@ -8,6 +8,12 @@ permalink: /publications/
 
 Kuorikoski, Jaakko and Samuli Reijula. **Making it count. An inferentialist account of computer simulation** <a href="https://osf.io/preprints/socarxiv/v9bmr" target="_blank">[pdf]</a>
 
+
+### 2022
+
+Reijula, Samuli (2022) **Terapeuttinen puhe on kaikkialla (Therapeutic discourse is everywhere; book review)** , *Tieteessä Tapahtuu 1/2022*.
+<a href="https://www.tieteessatapahtuu.fi/numerot/1-2022/terapeuttinen-puhe-kaikkialla-artikkelikokoelma-tarkastelee-sen-vaikutuksia" target="_blank">[link, OA]</a>
+
 ### 2021
 
 Reijula, Samuli (forthcoming) **Social categories in the making: construction or recruitment?** , *Synthese*.
