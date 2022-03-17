@@ -12,7 +12,8 @@ I am currently (2020-2025) an Academy of Finland research fellow at the Universi
 - **Institutional epistemology.** What are epistemically well-designed social systems like? What are the social, cognitive and institutional conditions of well-functioning scientific research?
 - **Evidence-based policy.** How are findings from the behavioral sciences used to inform policy design? How should that translation be done?  
 
-In 2022-2023, together with Pantelis Analytis (Odense) and Jacob Habinek (IAS), I'm organizing a workshops series <a href="https://blogs.helsinki.fi/computational-science-studies/" target="_blank">Nordic Network for the Science of Science</a> (funded by NOS-HS).
+In June 2022, together with Säde Hormio and Raul Hakli, I'm organizing the first <a href="https://blogs.helsinki.fi/institutional-epistemology/" target="_blank">Institutional epistemology workshop</a> at the University of Helsinki. And with Pantelis Analytis (Odense) and Jacob Habinek (IAS), I'm also putting together a series of workshops <a href="https://blogs.helsinki.fi/computational-science-studies/" target="_blank">Nordic Network for the Science of Science</a> (funded by NOS-HS, 2022-2023).
+
 
 I am also interested in **uncertainty**, **epistemology of simulation modeling**, **computational social science**, as well as issues related to **natural kinds** and **conceptual change**.
 
