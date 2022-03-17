@@ -31,4 +31,4 @@ As a university lecturer (currently on research leave), I am responsible for und
 
 ### CV
 
-<a href="/assets/samuliCV_2022-3.pdf" target="_blank">Samuli Reijula, Curriculum vitae Jan 2022</a>
+<a href="/assets/samuliCV_2022-03.pdf" target="_blank">Samuli Reijula, Curriculum vitae 03/2022</a>
