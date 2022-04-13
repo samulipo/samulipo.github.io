@@ -6,6 +6,16 @@ permalink: /presentations/
 
 # Upcoming talks
 
+- 8/2022: *What universities know*, Social Ontology/Collective Intentionality 2022, Vienna. (w/ Säde Hormio)
+
+- 7/2022: *Modeling cognitive diversity in group problem solving.*, COGSCI 2022: 44th Annual Conference of the Cognitive Science Society*, Toronto. (w/ Jaakko Kuorikoski)
+
+- 7/2022: *Models & Methods: Summer School of the Vienna Doctoral School of Philosophy*, University of Vienna.
+
+- 3/2022: *Social kinds in the making – construction or recruitment?* Lógica, Historia y Filosofía de la Ciencia. UNED, Madrid.
+
+# Recent Talks
+
 - 11/2021: *The diversity-ability trade-off in scientific problem solving.* Philosophy of Science association meeting (PSA 2020/2021), Baltimore.
 
 - 8/2021: *Models as argumentative devices.* European Philosophy of Science association meeting (EPSA21), Turin.
@@ -13,8 +23,6 @@ permalink: /presentations/
 - 6/2021: *Computational social science as a trading zone. Emerging integration or increasing fractionation?* Summer Institute in Computational Social Science, Helsinki. (w/ Matti Nelimarkka, Juho Pääkkönen)
 
 - 5/2021: *Social kinds in the making – construction or recruitment?* Perspectives on Science seminar, University of Helsinki
-
-# Recent Talks
 
 - 2/2020: *When does diversity beat ability in problem solving?* Theoretical Philosophy research seminar, University of Helsinki.
 
