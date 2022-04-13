@@ -16,31 +16,32 @@ Reijula, Samuli and Jaakko Kuorikoski (forthcoming). **Modeling cognitive divers
 Reijula, Samuli (2022) **Terapeuttinen puhe on kaikkialla (Therapeutic discourse is everywhere; book review)** , *Tieteessä Tapahtuu 1/2022*.
 <a href="https://www.tieteessatapahtuu.fi/numerot/1-2022/terapeuttinen-puhe-kaikkialla-artikkelikokoelma-tarkastelee-sen-vaikutuksia" target="_blank">[link, OA]</a>
 
+Reijula, Samuli & Ralph Hertwig (2022). **Self-nudging and the citizen choice architect**. *Behavioral Public Policy*, 6(1), 119-149. <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/selfnudging-and-the-citizen-choice-architect/F526628F7F3C7B436FA2BCBFC1FC3C76" target="_blank">[link]</a>
+<a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">[pdf]</a>
+
+
 ### 2021
 
-Reijula, Samuli (forthcoming) **Social categories in the making: construction or recruitment?** , *Synthese*.
+Reijula, Samuli and Jaakko Kuorikoski (2021). **The diversity-ability trade-off in scientific problem solving.** *Philosophy of Science* , 88, 894-905.
+<a href="https://www.journals.uchicago.edu/doi/abs/10.1086/714938" target="_blank">[link]</a>
+<a href="http://philsci-archive.pitt.edu/18645/" target="_blank">[pdf]</a>
+
+Reijula, Samuli (2021) **Social categories in the making: construction or recruitment?** , *Synthese*, 199, 12315–12330.
 <a href="https://link.springer.com/content/pdf/10.1007/s11229-021-03334-x.pdf" target="_blank">[pdf, open access]</a>
 
 Reijula, Samuli (2021) **Hacking, Ian (1936-)**, *Routledge Encyclopedia of Philosophy.*
 <a href="https://www.rep.routledge.com/articles/biographical/hacking-ian-1936/v-1" target="_blank">[link]</a>
 <a href="https://philpapers.org/archive/REIHI.pdf" target="_blank">[pdf]</a>
 
-Reijula, Samuli and Jaakko Kuorikoski (forthcoming). **The diversity-ability trade-off in scientific problem solving.** *Philosophy of Science (PSA 2020/2021)*.
-<a href="https://www.journals.uchicago.edu/doi/abs/10.1086/714938" target="_blank">[link]</a>
-<a href="http://philsci-archive.pitt.edu/18645/" target="_blank">[pdf]</a>
-
-### 2020
-
-Aydinonat, Emrah, Samuli Reijula and Petri Ylikoski (forthcoming). **Argumentative landscapes: the functions of models in social epistemology.** *Synthese*.
+Aydinonat, Emrah, Samuli Reijula and Petri Ylikoski (2021). **Argumentative landscapes: the functions of models in social epistemology.** *Synthese*, 199, 369-395.
 <a href="https://link.springer.com/article/10.1007/s11229-020-02661-9" target="_blank">[link]</a>
 <a href="http://philsci-archive.pitt.edu/17163/" target="_blank">[pdf]</a>
 
+
+### 2020
+
 Reijula, Samuli and Petri Ylikoski (2020). **Tutkijan vapaus institutionaalisen tietoteorian näkökulmasta**, in ed. K. Ekholm, E. Väliverronen: Tieteen vapaus & tutkijan sananvapaus. Vastapaino, Finland.
 <a href="/assets/reijula_ja_ylikoski2020,institutionaalinen_tietoteoria.pdf" target="_blank">[pdf]</a>
-
-Reijula, Samuli & Ralph Hertwig (forthcoming). **Self-nudging and the citizen choice architect**. *Behavioral Public Policy*.
-<a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/selfnudging-and-the-citizen-choice-architect/F526628F7F3C7B436FA2BCBFC1FC3C76" target="_blank">[link]</a>
-<a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">[pdf]</a>
 
 Kuorikoski, Jaakko, Samuli Reijula and Susanne Uusitalo (2020). **Neuroscience of autonomy and paternalistic policies.** In Harbecke, J. & Herrmann-Pillath, C. (eds.). *Social Neuroeconomics : Mechanistic Integration of the Neurosciences and the Social Sciences.*  London: Routledge, p. 221-235. <a href="/assets/kuorikoski,reijula,uusitalo2020.pdf" target="_blank">[pdf]</a>
 
