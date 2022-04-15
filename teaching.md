@@ -4,7 +4,7 @@ title: teaching
 permalink: /teaching/
 ---
 
-### Current teaching (2020-2021)
+### Current teaching 
 
 - s2022: "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
 - f2021: Uncertainty reading group, University of Helsinki (5 cr)
