@@ -11,7 +11,8 @@ Kuorikoski, Jaakko and Samuli Reijula. **Making it count. An inferentialist acco
 
 ### 2022
 
-Reijula, Samuli and Jaakko Kuorikoski (forthcoming). **Modeling cognitive diversity in group problem solving**, *COGSCI 2022: 44th Annual Conference of the Cognitive Science Society*.
+Reijula, Samuli and Jaakko Kuorikoski (2022). **Modeling cognitive diversity in group problem solving**, *COGSCI 2022: 44th Annual Conference of the Cognitive Science Society*.
+<a href="https://escholarship.org/content/qt84g365px/qt84g365px.pdf" target="_blank">[pdf]</a>
 
 Reijula, Samuli (2022) **Terapeuttinen puhe on kaikkialla (Therapeutic discourse is everywhere; book review)** , *Tieteessä Tapahtuu 1/2022*.
 <a href="https://www.tieteessatapahtuu.fi/numerot/1-2022/terapeuttinen-puhe-kaikkialla-artikkelikokoelma-tarkastelee-sen-vaikutuksia" target="_blank">[link, OA]</a>
