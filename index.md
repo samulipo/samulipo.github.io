@@ -14,7 +14,7 @@ I am currently (2020-2025) an Academy of Finland research fellow at the Universi
 
 In June 2022, together with Säde Hormio and Raul Hakli, I'm organizing the first <a href="https://blogs.helsinki.fi/institutional-epistemology/" target="_blank">Institutional epistemology workshop</a> at the University of Helsinki. And with Pantelis Analytis (Odense) and Jacob Habinek (IAS), I'm also putting together a series of workshops <a href="https://blogs.helsinki.fi/computational-science-studies/" target="_blank">Nordic Network for the Science of Science</a> (funded by NOS-HS, 2022-2023).
 
-I am also interested in **uncertainty**, **epistemology of simulation modeling**, **computational social science**, as well as issues related to **natural kinds** and **conceptual change**.
+I am also interested in **uncertainty**, **epistemology of simulation modeling**, **natural (and social) kinds**, as well as issues related to **computational social science** and **(scientific) discovery**.
 
 As a university lecturer (currently on research leave), I am responsible for undergraduate teaching and supervising in the area of the philosophy of science. I'm also affiliated with the <a href="http://www.helsinki.fi/tint/" target="_blank">TINT Centre for Philosophy of Social Science</a> at the University of Helsinki.
 
