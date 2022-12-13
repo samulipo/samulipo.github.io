@@ -6,12 +6,20 @@ permalink: /presentations/
 
 # Upcoming talks
 
+- 2023-05: *TBA.* Strategic Organization Design, University of Southern Denmark.
+- 2023-02: *TBA*. DFG research network “Simulations of Scientific Inquiry”, University of Bochum.
+- 2022-12: *Computational Social Science: An Emerging Discipline?* Nordic Network for the Science of Science, Athens. (w/ Matti Nelimarkka, Juho Pääkkönen)
+- 2022-12: *Universities as anarchic knowledge institutions*, Perspectives on Science research seminar, University of Helsinki. (w/ Säde Hormio)
+- 2022-11: *Epistemic sustainability*, Philosophy of Science Association conference (PSA 2022), Pittsburgh. (poster, w/ Inkeri Koskinen)
+- 2022-11: *Persistent evidential discordance*, Philosophy of Science Association conference (PSA 2022), Pittsburgh. (w/ Sofia Blanco Sequeiros)
+
+
+# Recent Talks
+
 - 8/2022: *What universities know*, Social Ontology/Collective Intentionality 2022, Vienna. (w/ Säde Hormio)
 - 7/2022: *Modeling cognitive diversity in group problem solving*, COGSCI 2022: 44th Annual Conference of the Cognitive Science Society*, Toronto. (w/ Jaakko Kuorikoski)
 - 7/2022: *Models & Methods: Summer School of the Vienna Doctoral School of Philosophy*, University of Vienna.
 - 3/2022: *Social kinds in the making – construction or recruitment?* Lógica, Historia y Filosofía de la Ciencia. UNED, Madrid.
-
-# Recent Talks
 
 - 11/2021: *The diversity-ability trade-off in scientific problem solving.* Philosophy of Science association meeting (PSA 2020/2021), Baltimore.
 - 8/2021: *Models as argumentative devices.* European Philosophy of Science association meeting (EPSA21), Turin.
