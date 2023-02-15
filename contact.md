@@ -4,8 +4,7 @@ title: contact
 permalink: /contact/
 ---
 **You can reach me here:**  
-<a href="mailto:samuli.reijula@helsinki.fi">samuli.reijula@helsinki.fi</a>,<br>
-+358-50-4154814  
+<a href="mailto:samuli.reijula@helsinki.fi">samuli.reijula@helsinki.fi</a>
 {: .centered_text}
 <a href="https://scholar.google.fi/citations?user=piH1k6EAAAAJ&hl=en" target="_blank">google scholar</a>     
 <a href="https://philpapers.org/profile/34787" target="_blank">philpapers</a>   

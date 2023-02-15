@@ -23,6 +23,9 @@ My project addresses these shortcomings by combining philosophical analysis with
 
 ### Publications
 
+Reijula, Samuli and Jaakko Kuorikoski (2022). **Modeling cognitive diversity in group problem solving**, in J. Culbertson, A. Perfors, H. Rabagliati & V. Ramenzoni (Eds.), *Proceedings of the 44th Annual Conference of the Cognitive Science Society.*
+<a href="https://escholarship.org/content/qt84g365px/qt84g365px.pdf" target="_blank">[pdf]</a>
+
 Reijula, Samuli and Jaakko Kuorikoski (forthcoming, 2021). **The diversity-ability trade-off in scientific problem solving.** Philosophy of Science (PSA 2020/2021). <a href="http://philsci-archive.pitt.edu/18645/" target="_blank">[pdf]</a>
 
 Aydinonat, Emrah, Samuli Reijula and Petri Ylikoski (forthcoming). **Argumentative landscapes: the functions of models in social epistemology.** *Synthese*. <a href="http://philsci-archive.pitt.edu/17163/" target="_blank">[pdf]</a>
