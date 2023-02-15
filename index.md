@@ -8,15 +8,17 @@ layout: page
 
 **Samuli Reijula (né Pöyhönen)**
 
-I am currently (2020-2025) an Academy of Finland research fellow at the University of Helsinki. I work in the <a href="https://www.helsinki.fi/en/faculty-of-arts/research/disciplines/philosophy-history-and-art/philosophy" target="_blank">theoretical philosophy unit</a>, and my research focuses on two main areas:
+I am a permanent university lecturer (roughly equivalent to US associate professor) in <a href="https://www.helsinki.fi/en/faculty-of-arts/research/disciplines/philosophy-history-and-art/philosophy" target="_blank">theoretical philosophy </a> at the University of Helsinki. I'm also affiliated with the <a href="http://www.helsinki.fi/tint/" target="_blank">TINT Centre for Philosophy of Social Science</a>, and a docent (qualification for academic habilitation) in Practical Philosophy, University of Helsinki.
+
+I'm currently (2020-2025) on research leave as an Academy of Finland research fellow. My research focuses on two main areas:
 - **Institutional epistemology.** What are epistemically well-designed social systems like? What are the social, cognitive and institutional conditions of well-functioning scientific research?
 - **Evidence-based policy.** How are findings from the behavioral sciences used to inform policy design? How should that translation be done?  
 
-In June 2022, together with Säde Hormio and Raul Hakli, I'm organizing the first <a href="https://blogs.helsinki.fi/institutional-epistemology/" target="_blank">Institutional epistemology workshop</a> at the University of Helsinki. And with Pantelis Analytis (Odense) and Jacob Habinek (IAS), I'm also putting together a series of workshops <a href="https://blogs.helsinki.fi/computational-science-studies/" target="_blank">Nordic Network for the Science of Science</a> (funded by NOS-HS, 2022-2023).
+In June 2022, together with Säde Hormio and Raul Hakli, I organized the first <a href="https://blogs.helsinki.fi/institutional-epistemology/" target="_blank">Institutional epistemology workshop</a> at the University of Helsinki. <a href="https://www.institutionalepistemology.net" target="_blank">IEW2023</a> will take place in June 2023.
+
+Together with Pantelis Analytis (Odense) and Jacob Habinek (IAS), I'm also putting together a series of workshops <a href="https://www.nordicscisci.net" target="_blank">Nordic Network for the Science of Science</a> (funded by NOS-HS, 2022-2023).
 
 I am also interested in **uncertainty**, **epistemology of simulation modeling**, **natural (and social) kinds**, as well as issues related to **computational social science** and **(scientific) discovery**.
-
-As a university lecturer (currently on research leave), I am responsible for undergraduate teaching and supervising in the area of the philosophy of science. I'm also affiliated with the <a href="http://www.helsinki.fi/tint/" target="_blank">TINT Centre for Philosophy of Social Science</a> at the University of Helsinki.
 
 ### Recent publications
 
