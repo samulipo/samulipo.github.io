@@ -16,7 +16,7 @@ I'm currently (2020-2025) on research leave as an Academy of Finland research fe
 
 In June 2022, together with Säde Hormio and Raul Hakli, I organized the first <a href="https://blogs.helsinki.fi/institutional-epistemology/" target="_blank">Institutional epistemology workshop</a> at the University of Helsinki. <a href="https://www.institutionalepistemology.net" target="_blank">IEW2023</a> will take place in June 2023.
 
-Together with Pantelis Analytis (Odense) and Jacob Habinek (IAS), I'm also putting together a series of workshops <a href="https://www.nordicscisci.net" target="_blank">Nordic Network for the Science of Science</a> (funded by NOS-HS, 2022-2023).
+Together with Pantelis Analytis (Odense) and Jacob Habinek (IAS), I organize a series of workshops <a href="https://www.nordicscisci.net" target="_blank">Nordic Network for the Science of Science</a> (funded by NOS-HS, 2022-2023).
 
 I am also interested in **uncertainty**, **epistemology of simulation modeling**, **natural (and social) kinds**, as well as issues related to **computational social science** and **(scientific) discovery**.
 
