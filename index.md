@@ -8,13 +8,13 @@ layout: page
 
 **Samuli Reijula (né Pöyhönen)**
 
-I am a permanent university lecturer (roughly equivalent to US associate professor) in <a href="https://www.helsinki.fi/en/faculty-of-arts/research/disciplines/philosophy-history-and-art/philosophy" target="_blank">Theoretical philosophy </a> at the University of Helsinki. I'm also affiliated with the <a href="http://www.helsinki.fi/tint/" target="_blank">TINT Centre for Philosophy of Social Science</a>, and a docent (qualification for academic habilitation) in <a href="https://www.helsinki.fi/en/faculty-social-sciences/research/disciplines-and-research-centres/practical-philosophy" target="_blank">Practical philosophy</a), University of Helsinki.
+I am a permanent university lecturer (roughly equivalent to US associate professor) in <a href="https://www.helsinki.fi/en/faculty-of-arts/research/disciplines/philosophy-history-and-art/philosophy" target="_blank">Theoretical philosophy </a> at the University of Helsinki. I'm also affiliated with the <a href="http://www.helsinki.fi/tint/" target="_blank">TINT Centre for Philosophy of Social Science</a>, and a docent (qualification for academic habilitation) in <a href="https://www.helsinki.fi/en/faculty-social-sciences/research/disciplines-and-research-centres/practical-philosophy" target="_blank">Practical philosophy</a>, University of Helsinki.
 
 I'm currently (2020-2025) on research leave as an Academy of Finland research fellow. My research focuses on two main areas:
 - **Institutional epistemology.** What are epistemically well-designed social systems like? What are the social, cognitive and institutional conditions of well-functioning scientific research?
 - **Evidence-based policy.** How are findings from the behavioral sciences used to inform policy design? How should that translation be done?  
 
-I am also interested in **science policy**, **uncertainty**, **epistemology of simulation modeling**, **scientific classification**, as well as issues related to **computational social science** , **science of science**, **(scientific) discovery**, and <a href="https://en.wikipedia.org/wiki/Bildung" target="_blank">**Bildung**</a> in all its forms.
+I am also interested in **science policy**, **uncertainty**, **epistemology of simulation modeling**, **scientific classification**, as well as issues related to **computational social science** , **science of science**, **(scientific) discovery**, and <a href="https://en.wikipedia.org/wiki/Bildung" target="_blank">Bildung</a> in all its forms.
 
 In June 2022, together with Säde Hormio and Raul Hakli, I organized the first <a href="https://blogs.helsinki.fi/institutional-epistemology/" target="_blank">Institutional epistemology workshop</a> at the University of Helsinki. <a href="https://www.institutionalepistemology.net" target="_blank">IEW2023</a> will take place in June 2023.
 
