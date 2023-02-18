@@ -10,7 +10,7 @@ layout: page
 
 I am a permanent university lecturer (roughly equivalent to US associate professor) in <a href="https://www.helsinki.fi/en/faculty-of-arts/research/disciplines/philosophy-history-and-art/philosophy" target="_blank">Theoretical philosophy </a> at the University of Helsinki. I'm also affiliated with the <a href="http://www.helsinki.fi/tint/" target="_blank">TINT Centre for Philosophy of Social Science</a>, and a docent (qualification for academic habilitation) in <a href="https://www.helsinki.fi/en/faculty-social-sciences/research/disciplines-and-research-centres/practical-philosophy" target="_blank">Practical philosophy</a>, University of Helsinki.
 
-I'm currently (2020-2025) on research leave as an Academy of Finland research fellow. My research focuses on two main areas:
+I'm currently (2020-2025) on research leave as an Academy of Finland research fellow. My research focuses on three main areas:  
 - **Institutional epistemology.** What are epistemically well-designed social systems like? What are the social, cognitive and institutional conditions of well-functioning scientific research?
 - **Evidence-based policy.** How are findings from the behavioral sciences used to inform policy design? How should that translation be done?  
 

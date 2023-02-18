@@ -6,6 +6,8 @@ permalink: /publications/
 
 ### Preprints
 
+Reijula, Samuli, Jaakko Kuorikoski, Miles MacLeod. **The division of cognitive labor and the structure of interdisciplinary problems** <a href="https://osf.io/preprints/socarxiv/2mfkr" target="_blank">[pdf]</a>
+
 Kuorikoski, Jaakko and Samuli Reijula. **Making it count. An inferentialist account of computer simulation** <a href="https://osf.io/preprints/socarxiv/v9bmr" target="_blank">[pdf]</a>
 
 
