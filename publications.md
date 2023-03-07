@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### Preprints
 
-Hormio Säde and Samuli Reijula. **Universities as anarchic knowledge institutions** <a href="https://osf.io/preprints/socarxiv/qr89d" target="_blank">[pdf]</a>
+Hormio, Säde and Samuli Reijula. **Universities as anarchic knowledge institutions** <a href="https://osf.io/preprints/socarxiv/qr89d" target="_blank">[pdf]</a>
 
 Reijula, Samuli, Jaakko Kuorikoski, Miles MacLeod. **The division of cognitive labor and the structure of interdisciplinary problems** <a href="https://osf.io/preprints/socarxiv/2mfkr" target="_blank">[pdf]</a>
 
