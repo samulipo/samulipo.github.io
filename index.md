@@ -4,11 +4,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-<img class="pull-right" src="/assets/samuli2021_crop.jpg"  alt="Samuli Reijula" title="Samuli Reijula"/>
+<img class="pull-right" src="/assets/reijula2021-7.jpg"  alt="Samuli Reijula" title="Samuli Reijula"/>
 
 **Samuli Reijula (né Pöyhönen)**
 
-I am a philosopher and cognitive scientist interested in how science works, and how it should work. 
+I am a philosopher and cognitive scientist interested in how science works, how it could, and how it should work.
 
 In 2019 I joined <a href="https://www.helsinki.fi/en/faculty-of-arts/research/disciplines/philosophy-history-and-art/philosophy" target="_blank">Theoretical philosophy </a> at the University of Helsinki as a permanent university lecturer (roughly equivalent to US associate professor). I'm also affiliated with the <a href="http://www.helsinki.fi/tint/" target="_blank">TINT Centre for Philosophy of Social Science</a>, and a docent (qualification for academic habilitation) in <a href="https://www.helsinki.fi/en/faculty-social-sciences/research/disciplines-and-research-centres/practical-philosophy" target="_blank">Practical philosophy</a>, University of Helsinki.
 
