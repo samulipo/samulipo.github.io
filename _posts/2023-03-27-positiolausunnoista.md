@@ -3,12 +3,12 @@ layout: post
 title: On positionality statements (In Finnish)
 categories: news publication
 ---
-I talked to a journalist from Helsingin Sanomat about positionality statements in science. My email response turned into a micro essay, so I'll post it here. 
+I talked to a journalist from Helsingin Sanomat about positionality statements in science. My email response turned into a micro essay, so I'll post it here.
 
 <!--more-->
 
-"
-On yleisesti hyväksyttyä että tutkijan henkilöhistoria, koulutus ja monet muut tekijät vaikuttavat tämän tutkimusnäkökulmaan. Tutkijan itsereflektio on siksi tarpeellista ja mm. tästä syystä tiedeyhteisön diversiteetti (moniäänisyys) on tärkeä seikka: eri näkökulmista tutkittavaa ilmiötä tai ilmiökenttää tarkastelevat tutkijat voivat täydentää ja rakentavasti kritisoida toistensa 1) kysymyksenasetteluja, 2) menetelmiä, 3) aineistoja, ja näiden pohjalta tehtyjä 4) johtopäätöksiä. Tieteellinen luovuus ja tutkimusprosessille ominainen kollektiivinen virheenkorjaus (kollegojen kritiikin, vertaisarvioinnin kautta) hyötyvät tiedeyhteisön moninaisuudesta ja sen tunnistamisesta.
+
+"On yleisesti hyväksyttyä että tutkijan henkilöhistoria, koulutus ja monet muut tekijät vaikuttavat tämän tutkimusnäkökulmaan. Tutkijan itsereflektio on siksi tarpeellista ja mm. tästä syystä tiedeyhteisön diversiteetti (moniäänisyys) on tärkeä seikka: eri näkökulmista tutkittavaa ilmiötä tai ilmiökenttää tarkastelevat tutkijat voivat täydentää ja rakentavasti kritisoida toistensa 1) kysymyksenasetteluja, 2) menetelmiä, 3) aineistoja, ja näiden pohjalta tehtyjä 4) johtopäätöksiä. Tieteellinen luovuus ja tutkimusprosessille ominainen kollektiivinen virheenkorjaus (kollegojen kritiikin, vertaisarvioinnin kautta) hyötyvät tiedeyhteisön moninaisuudesta ja sen tunnistamisesta.
 
 Viime aikoina on ehdotettu monenlaisia käytäntöjä, joiden päämääränä on parantaa tasavertaisuutta tieteessä. Monet ehdotetuista toimenpiteistä eivät ole erityisen kiistanalaisia. Positiolausunnot ovat vain yksi mahdollinen työkalu.
 
@@ -30,5 +30,4 @@ On kuitenkin huomattava, että kuten monen muunkin institutionaalisen muutosehdo
 
 Yhtäältä positiolausuntojen laajamittainen käyttöönotto voisi mm. kiinnittää huomiota vinoumiin julkaistussa tieteellisessä kirjallisuudessa. Toisaalta anonymisoinnin heikentäminen voisi vahvistaa prosesseja, joiden myötä vaikutusvaltaisten tutkijoiden on helpompaa saada tuloksiaan julkaistua ja marginaalisten tutkijoiden ääni taas kuuluisi entistä heikommin. Ei käsittääkseni myöskään tunneta, millaisia vaikutuksia positiolausunnoilla on artikkelien lukijakuntaan tai esim. polarisaatioon.
 
-Eri vaikutusmekanismeilla ja niiden vaikutuksilla voi spekuloida, mutta kuten sanottua, systemaattisten tutkimustulosten puuttuessa niiden ennustaminen on hyvin hankalaa.
-"
+Eri vaikutusmekanismeilla ja niiden vaikutuksilla voi spekuloida, mutta kuten sanottua, systemaattisten tutkimustulosten puuttuessa niiden ennustaminen on hyvin hankalaa."
