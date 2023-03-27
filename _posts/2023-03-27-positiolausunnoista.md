@@ -3,7 +3,7 @@ layout: post
 title: On positionality statements (In Finnish)
 categories: news publication
 ---
-I talked to a journalist from Helsingin Sanomat about positionality statements in science. My email response turned into a micro essay, so I'll post it here.
+*I talked to a journalist from Helsingin Sanomat about positionality statements in science. My email response turned into a micro essay, so I'll post it here.*
 
 <!--more-->
 

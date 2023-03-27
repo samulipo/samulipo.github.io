@@ -32,7 +32,8 @@ Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden
 - <a href="https://tuhat.helsinki.fi/ws/portalfiles/portal/136646649/reijula_ja_ylikoski2020_institutionaalinen_tietoteoria.pdf" target="_blank">Tutkijan vapaus institutionaalisen tietoteorian näkökulmasta</a>, in ed. K. Ekholm, E. Väliverronen 2020: Tieteen vapaus & tutkijan sananvapaus. Vastapaino, Finland. (w/ Petri Ylikoski)
 
 ### News
-[Comment on positionality statements (in Finnish)]({% post_url 2023-03-27-positiolausunnoista %}). 
+[Comment on positionality statements (in Finnish)]({% post_url 2023-03-27-positiolausunnoista %}). More news [here]({% link log.html %}).
+
 
 ### CV
 
