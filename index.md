@@ -34,8 +34,8 @@ Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden
 
 ### News
 
-- [Workshop materials: agent-based models in social epistemology]({% post_url 2023-04-21-vienna-abms %})
-- [Comment on positionality statements (in Finnish)]({% post_url 2023-03-27-positiolausunnoista %}).
+- [Workshop materials: agent-based models in social epistemology]({% post_url 2023-04-21-vienna-abms %}) (2023-04)
+- [Comment on positionality statements (in Finnish)]({% post_url 2023-03-27-positiolausunnoista %}). (2023-03)
 - More news [here](log.md).
 
 
