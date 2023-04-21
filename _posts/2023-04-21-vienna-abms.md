@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Workshop materials: agent-based models in social epistemology
+title: Workshop materials - Agent-based models in social epistemology
 categories: news code programming simulation ABMs
 ---
 
