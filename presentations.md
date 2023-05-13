@@ -6,6 +6,7 @@ permalink: /presentations/
 
 # Upcoming talks
 
+- 2023-10: TBA. Strategic Organization Design, University of Southern Denmark.
 - 2023-05: *Modeling cognitive diversity in group problem solving*. Philosophy of Cognitive Science seminar, University of Warsaw.
 - 2023-02: *Division of Cognitive Labor: The costs and benefits of interdisciplinarity*. DFG research network “Simulations of Scientific Inquiry”, University of Bochum.
 - 2022-12: *Computational Social Science: An Emerging Discipline?* Nordic Network for the Science of Science, Athens. (w/ Matti Nelimarkka, Juho Pääkkönen)

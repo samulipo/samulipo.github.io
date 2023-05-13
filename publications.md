@@ -8,10 +8,12 @@ permalink: /publications/
 
 Hormio, Säde and Samuli Reijula. **Universities as anarchic knowledge institutions** <a href="https://osf.io/preprints/socarxiv/qr89d" target="_blank">[pdf]</a>
 
-Reijula, Samuli, Jaakko Kuorikoski, Miles MacLeod. **The division of cognitive labor and the structure of interdisciplinary problems** <a href="https://osf.io/preprints/socarxiv/2mfkr" target="_blank">[pdf]</a>
-
 Kuorikoski, Jaakko and Samuli Reijula. **Making it count. An inferentialist account of computer simulation** <a href="https://osf.io/preprints/socarxiv/v9bmr" target="_blank">[pdf]</a>
 
+## 2023
+
+Reijula, Samuli, Jaakko Kuorikoski, Miles MacLeod. **The division of cognitive labor and the structure of interdisciplinary problems**. Forthcoming in *Synthese.*
+<a href="https://osf.io/preprints/socarxiv/2mfkr" target="_blank">[pdf]</a>
 
 ### 2022
 
