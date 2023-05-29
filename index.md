@@ -34,6 +34,7 @@ Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden
 
 ### News
 
+- [Encyclopedia entry on the philosophy of science]({% post_url 2023-05-29-logos-entry-philsci %}) (2023-05)
 - [Workshop materials: agent-based models in social epistemology]({% post_url 2023-04-21-vienna-abms %}) (2023-04)
 - [Comment on positionality statements (in Finnish)]({% post_url 2023-03-27-positiolausunnoista %}). (2023-03)
 - More news [here](log.md).
