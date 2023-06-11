@@ -12,8 +12,8 @@ Kuorikoski, Jaakko and Samuli Reijula. **Making it count. An inferentialist acco
 
 ## 2023
 
-Reijula, Samuli, Jaakko Kuorikoski, Miles MacLeod. **The division of cognitive labor and the structure of interdisciplinary problems**. Forthcoming in *Synthese.*
-<a href="https://osf.io/preprints/socarxiv/2mfkr" target="_blank">[pdf]</a>
+Reijula, Samuli, Jaakko Kuorikoski, Miles MacLeod (2023). **The division of cognitive labor and the structure of interdisciplinary problems**, *Synthese* 201:214. 
+<a href="https://doi.org/10.1007/s11229-023-04193-4" target="_blank">[pdf, open access]</a>
 
 ### 2022
 
