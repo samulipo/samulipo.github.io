@@ -16,12 +16,13 @@ I'm currently (2020-2025) on research leave as an Academy of Finland research fe
 
 I am also interested in **cognitive diversity**, coping with **uncertainty**, **epistemology of simulation modeling**, foundations of **scientific classification**, as well as issues related to the **(cognitive) science of science**, **scientific discovery**, **science policy**, **evidence-based policy**, <a href="https://www.scienceofboosting.org/" target="_blank">boosting</a>, and <a href="https://en.wikipedia.org/wiki/Bildung" target="_blank">Bildung</a> in all its forms.
 
-In June 2022, together with Säde Hormio and Raul Hakli, I organized the first <a href="https://blogs.helsinki.fi/institutional-epistemology/" target="_blank">Institutional epistemology workshop</a> at the University of Helsinki. <a href="https://www.institutionalepistemology.net" target="_blank">IEW2023</a> will take place in June 2023.
+In June 2022, together with Säde Hormio and Raul Hakli, I organized the first <a href="https://blogs.helsinki.fi/institutional-epistemology/" target="_blank">Institutional epistemology workshop</a> at the University of Helsinki. <a href="https://www.institutionalepistemology.net" target="_blank">INES2023</a> will take place in June 2023.
 
 Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden), I organize a series of workshops <a href="https://www.nordicscisci.net" target="_blank">Nordic Network for the Science of Science</a> (funded by NOS-HS, 2022-2023).
 
 ### Recent publications
 
+- <a href="https://journal.fi/tt/article/view/131066/79967" target="_blank">Älykästä paskapuhetta - tekoälymallit ihmisälyn peilinä (Fluent bullshit - AI models as a mirror to human intelligence)</a>, *Tieteessä Tapahtuu* (open access). (w/ Renne Pesonen) (2023-06)
 - <a href="https://doi.org/10.1007/s11229-023-04193-4" target="_blank">The division of cognitive labor and the structure of interdisciplinary problems</a>, *Synthese* (open access). (w/ Jaakko Kuorikoski and Miles MacLeod) (2023-06)
 - <a href="https://escholarship.org/content/qt84g365px/qt84g365px.pdf" target="_blank">Modeling cognitive diversity in group problem solving</a>, in J. Culbertson, A. Perfors, H. Rabagliati & V. Ramenzoni (Eds.), *Proceedings of the 44th Annual Conference of the Cognitive Science Society.* (2022-04) (w/ Jaakko Kuorikoski)
 - <a href="https://www.tieteessatapahtuu.fi/numerot/1-2022/terapeuttinen-puhe-kaikkialla-artikkelikokoelma-tarkastelee-sen-vaikutuksia" target="_blank">Terapeuttinen puhe on kaikkialla (Therapeutic discourse is everywhere; book review)</a>, *Tieteessä Tapahtuu 1/2022*. (2022-02)

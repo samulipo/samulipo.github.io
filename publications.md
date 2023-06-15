@@ -12,7 +12,10 @@ Kuorikoski, Jaakko and Samuli Reijula. **Making it count. An inferentialist acco
 
 ## 2023
 
-Reijula, Samuli, Jaakko Kuorikoski, Miles MacLeod (2023). **The division of cognitive labor and the structure of interdisciplinary problems**, *Synthese* 201:214. 
+Pesonen, Renne and Samuli Pöyhönen (2023). **Älykästä paskapuhetta - tekoälymallit ihmisälyn peilinä** (Fluent bullshit - AI models as a mirror to human intelligence), *Tieteessä Tapahtuu,* 3/2023. 
+<a href="https://journal.fi/tt/article/view/131066/79967" target="_blank">[pdf, open access]</a>
+
+Reijula, Samuli, Jaakko Kuorikoski, Miles MacLeod (2023). **The division of cognitive labor and the structure of interdisciplinary problems**, *Synthese* 201:214.
 <a href="https://doi.org/10.1007/s11229-023-04193-4" target="_blank">[pdf, open access]</a>
 
 ### 2022
