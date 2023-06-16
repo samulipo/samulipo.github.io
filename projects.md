@@ -23,6 +23,9 @@ My project addresses these shortcomings by combining philosophical analysis with
 
 ### Publications
 
+Reijula, Samuli, Jaakko Kuorikoski, Miles MacLeod (2023). **The division of cognitive labor and the structure of interdisciplinary problems**, *Synthese* 201:214.
+<a href="https://doi.org/10.1007/s11229-023-04193-4" target="_blank">[pdf, open access]</a>
+
 Reijula, Samuli and Jaakko Kuorikoski (2022). **Modeling cognitive diversity in group problem solving**, in J. Culbertson, A. Perfors, H. Rabagliati & V. Ramenzoni (Eds.), *Proceedings of the 44th Annual Conference of the Cognitive Science Society.*
 <a href="https://escholarship.org/content/qt84g365px/qt84g365px.pdf" target="_blank">[pdf]</a>
 
