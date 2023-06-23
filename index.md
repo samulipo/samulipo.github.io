@@ -42,7 +42,7 @@ Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden
 
 ## Twitter
 
-<a class="twitter-timeline" href="https://twitter.com/samulipo?ref_src=twsrc%5Etfw">Here's my twitter feed</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/samulipo?ref_src=twsrc%5Etfw">Tweets by samulipo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### CV
 
