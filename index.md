@@ -40,10 +40,6 @@ Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden
 - [Comment on positionality statements (in Finnish)]({% post_url 2023-03-27-positiolausunnoista %}). (2023-03)
 - More news [here](log.md).
 
-## Twitter
-
-<a class="twitter-timeline" href="https://twitter.com/samulipo?ref_src=twsrc%5Etfw">Tweets by samulipo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ### CV
 
 <a href="/assets/samuliCV_2022-03.pdf" target="_blank">Samuli Reijula, Curriculum vitae 03/2022</a>
