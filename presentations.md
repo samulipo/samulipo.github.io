@@ -7,6 +7,11 @@ permalink: /presentations/
 # Upcoming talks
 
 - 2023-10: TBA. Strategic Organization Design, University of Southern Denmark.
+
+# Recent Talks
+
+- 2023-07: *The division of cognitive labor and the structure of interdisciplinary problems* ISSI workshop  "Reflecting on Interdisciplinary Teams", online talk.
+- 2023-06: *Diversity-trumps-ability theorem and epistemic democracy* Institutional Epistemology Workshop 2023, University of Helsinki
 - 2023-05: *Science studies as a social science*. Nordic Network for the Science of Science, DIAS, University of Southern Denmark. (w/ Petri Ylikoski)
 - 2023-05: *Modeling cognitive diversity in group problem solving*. Philosophy of Cognitive Science seminar, University of Warsaw.
 - 2023-02: *Division of Cognitive Labor: The costs and benefits of interdisciplinarity*. DFG research network “Simulations of Scientific Inquiry”, University of Bochum.
@@ -14,10 +19,6 @@ permalink: /presentations/
 - 2022-12: *Universities as anarchic knowledge institutions*, Perspectives on Science research seminar, University of Helsinki. (w/ Säde Hormio)
 - 2022-11: *Epistemic sustainability*, Philosophy of Science Association conference (PSA 2022), Pittsburgh. (poster, w/ Inkeri Koskinen)
 - 2022-11: *Persistent evidential discordance*, Philosophy of Science Association conference (PSA 2022), Pittsburgh. (w/ Sofia Blanco Sequeiros)
-
-
-# Recent Talks
-
 - 8/2022: *What universities know*, Social Ontology/Collective Intentionality 2022, Vienna. (w/ Säde Hormio)
 - 7/2022: *Modeling cognitive diversity in group problem solving*, COGSCI 2022: 44th Annual Conference of the Cognitive Science Society*, Toronto. (w/ Jaakko Kuorikoski)
 - 7/2022: *Models & Methods: Summer School of the Vienna Doctoral School of Philosophy*, University of Vienna.
