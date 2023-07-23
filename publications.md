@@ -12,6 +12,8 @@ Kuorikoski, Jaakko and Samuli Reijula. **Making it count. An inferentialist acco
 
 ## 2023
 
+Rolin, Kristina, Inkeri Koskinen, Jaakko Kuorikoski and Samuli Reijula (2023). **Social and cognitive diversity in science: introduction** , *Synthese* 202:36. <a href="https://t.co/Ilq36gNS4p" target="_blank">[pdf, open access]</a>
+
 Pesonen, Renne and Samuli Pöyhönen (2023). **Älykästä paskapuhetta - tekoälymallit ihmisälyn peilinä** (Fluent bullshit - AI models as a mirror to human intelligence), *Tieteessä Tapahtuu,* 3/2023. 
 <a href="https://journal.fi/tt/article/view/131066/79967" target="_blank">[pdf, open access]</a>
 

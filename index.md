@@ -22,6 +22,7 @@ Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden
 
 ### Recent publications
 
+- <a href="https://t.co/Ilq36gNS4p" target="_blank">Social and cognitive diversity in science: introduction</a>, *Synthese* (open access). (w/ Kristina Rolin, Inkeri Koskinen, Jaakko Kuorikoski) (2023-07)
 - <a href="https://journal.fi/tt/article/view/131066/79967" target="_blank">Älykästä paskapuhetta - tekoälymallit ihmisälyn peilinä (Fluent bullshit - AI models as a mirror to human intelligence)</a>, *Tieteessä Tapahtuu* (open access). (w/ Renne Pesonen) (2023-06)
 - <a href="https://doi.org/10.1007/s11229-023-04193-4" target="_blank">The division of cognitive labor and the structure of interdisciplinary problems</a>, *Synthese* (open access). (w/ Jaakko Kuorikoski and Miles MacLeod) (2023-06)
 - <a href="https://escholarship.org/content/qt84g365px/qt84g365px.pdf" target="_blank">Modeling cognitive diversity in group problem solving</a>, in J. Culbertson, A. Perfors, H. Rabagliati & V. Ramenzoni (Eds.), *Proceedings of the 44th Annual Conference of the Cognitive Science Society.* (2022-04) (w/ Jaakko Kuorikoski)
