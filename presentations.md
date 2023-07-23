@@ -7,12 +7,13 @@ permalink: /presentations/
 # Upcoming talks
 
 - 2023-12: TBA. Workshop on Computational Models in Social Epistemology. Ruhr University Bochum.
+- 2023-12: TBA. Mini-conference & book launch - Research Handbook on Nudge and Society. El-Erian Institute, University of Cambridge. (w/ Ralph Hertwig)
 - 2023-12: TBA. The theoretical foundations of interdisciplinarity symposium, Collegium for Advanced Studies, University of Helsinki.
 - 2023-10: TBA. Strategic Organization Design, University of Southern Denmark.
 
 # Recent Talks
 
-- 2023-07: *The division of cognitive labor and the structure of interdisciplinary problems.* ISSI workshop  "Reflecting on Interdisciplinary Teams", online talk.
+- 2023-07: *The division of cognitive labor and the structure of interdisciplinary problems.* ISSI workshop "Reflecting on Interdisciplinary Teams", online talk.
 - 2023-06: *Diversity-trumps-ability theorem and epistemic democracy.* Institutional Epistemology Workshop 2023, University of Helsinki
 - 2023-05: *Science studies as a social science*. Nordic Network for the Science of Science, DIAS, University of Southern Denmark. (w/ Petri Ylikoski)
 - 2023-05: *Modeling cognitive diversity in group problem solving*. Philosophy of Cognitive Science seminar, University of Warsaw.
