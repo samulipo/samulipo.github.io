@@ -6,9 +6,12 @@ permalink: /teaching/
 
 ### Current teaching
 
-- s2023: "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
+- Autumn 2023: "Building blocks for institutional epistemology" w/ Petri Ylikoski. University of Helsinki (5 cr) 
+- Spring 2024:  "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
 
 ### Courses taught
+
+- s2023: "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
 
 - s2022: "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
 
@@ -41,8 +44,3 @@ FILK-226, Mielen filosofia, Period 4.
 
 - 2008--2012 (*5): ''Scientific argumentation and explanation.'' Cognitive Science, University of Helsinki. (5 cr)
 
-
-### Training in university pedagogy
-
-- 2020: UP1: "Learning in Higher Education." University of Helsinki.
-- 2015: UP5: "Development of teaching and practical training." University of Helsinki.
