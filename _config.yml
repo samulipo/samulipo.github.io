@@ -25,6 +25,7 @@ header_pages:
   - publications.md
   - presentations.md
   - teaching.md
+  - other.md
   - contact.md
 
 # Build settings
