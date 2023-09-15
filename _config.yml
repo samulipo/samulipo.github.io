@@ -52,3 +52,7 @@ excerpt_separator: <!--more-->
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# for image gallery, 2023-09-15, see https://dmnfarrell.github.io/software/jekyll-galleries
+imagesurl: "/assets/gallery/images/"
+thumbsurl: "/assets/gallery/thumbnails/"
