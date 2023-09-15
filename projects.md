@@ -4,7 +4,6 @@ title: projects
 permalink: /projects/
 ---
 
-<img class="pos-center" src="/assets/epsa_presis_2019.png"  alt="EPSA poster" title="EPSA poster"/>
 
 # Institutional Epistemology workshop series 
 
@@ -17,7 +16,7 @@ In 2022-2023, together with Pantelis Analytis and Jacob Habinek, I organized a s
 
 
 # Modeling the republic of science: Collaborative problem solving and collective rationality in scientific inquiry (2020-2025)
-
+<img class="pos-center" src="/assets/epsa_presis_2019.png"  alt="EPSA poster" title="EPSA poster"/>
 
 In 2020-2025 my research is funded by the Academy of Finland. The personal <a href="https://www.aka.fi/en/about-us/whats-new/press-releases/20202/academy-of-finland-funds-21-new-academy-research-fellows-in-social-sciences-and-humanities2/" target="_blank">academy-fellow research project</a> focuses on understanding collaboration in scientific research.
 
