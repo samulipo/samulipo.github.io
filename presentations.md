@@ -13,6 +13,7 @@ permalink: /presentations/
 
 # Recent Talks
 
+- 2023-09: *Calculemus! Robot scientists and the mechanization of scientific reasoning?* European Philosophy of Science Association, Belgrade (w/ Jaakko Kuorikoski)
 - 2023-07: *The division of cognitive labor and the structure of interdisciplinary problems.* ISSI workshop "Reflecting on Interdisciplinary Teams", online talk.
 - 2023-06: *Diversity-trumps-ability theorem and epistemic democracy.* Institutional Epistemology Workshop 2023, University of Helsinki
 - 2023-05: *Science studies as a social science*. Nordic Network for the Science of Science, DIAS, University of Southern Denmark. (w/ Petri Ylikoski)
