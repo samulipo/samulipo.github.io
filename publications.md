@@ -40,6 +40,7 @@ permalink: /publications/
         Onko tekoälyllä älykkyyttä? Luultavasti on, sillä sen käymää keskustelua ei enää juuri erota ihmisten käymästä keskustelusta. Ihmistenkään järkeily ei nimittäin useimmiten huikaise älykkyyden tasollaan. Kielimallit haastavat romantisoidut käsitykset ihmisjärjestä ja luovuudesta.
         </details>
     </td></tr>
+    <tr><td>
         Reijula, Samuli, Jaakko Kuorikoski, Miles MacLeod (2023). <b>The division of cognitive labor and the structure of interdisciplinary problems</b>, <i>Synthese</i> 201:214.
         <a href="https://doi.org/10.1007/s11229-023-04193-4" target="_blank">[pdf, open access]</a>
         <details>
@@ -60,7 +61,7 @@ permalink: /publications/
         According to the diversity-beats-ability theorem, groups of diverse problem solvers can outperform groups of high-ability problem solvers (Hong and Page 2004). This striking claim about the power of cognitive diversity is highly influential within and outside academia, from democratic theory to management of teams in professional organizations. Our replication and analysis of the models used by Hong and Page suggests, however, that both the binary string model and its one-dimensional variant are inadequate for exploring the trade-off between cognitive diversity and ability. Diversity may sometimes beat ability, but the models fail to provide reliable evidence of if and when it does so. We suggest ways in which these important model templates can be improved.
         </details>
     </td></tr>
-     <tr><td>
+    <tr><td>
         Reijula, Samuli (2022) <b>Terapeuttinen puhe on kaikkialla</b> (Therapeutic discourse is everywhere; book review) , <i>Tieteessä Tapahtuu</i> 1/2022.
         <a href="https://www.tieteessatapahtuu.fi/numerot/1-2022/terapeuttinen-puhe-kaikkialla-artikkelikokoelma-tarkastelee-sen-vaikutuksia" target="_blank">[link, OA]</a>
         <details>
@@ -68,14 +69,13 @@ permalink: /publications/
         Akatemiatutkija ja teoreettisen filosofian yliopistonlehtori Samuli Reijula luki Terapeuttinen valta -teoksen, joka tarkastelee eri näkökulmista terapeuttisen kulttuurin vaikutuksia yhteiskunnassa.
         </details>
     </td></tr>
-     <tr><td>
+    <tr><td>
         Reijula, Samuli and Ralph Hertwig (2022). <b>Self-nudging and the citizen choice architect</b>. <i>Behavioral Public Policy</i>, 6(1), 119-149. <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/selfnudging-and-the-citizen-choice-architect/F526628F7F3C7B436FA2BCBFC1FC3C76" target="_blank">[link]</a>
         <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">[pdf]</a>
         <details>
         <summary>Abstract</summary>
         This article argues that nudges can often be turned into self-nudges: empowering interventions that enable people to design and structure their own decision environments – that is, to act as citizen choice architects. Self-nudging applies insights from behavioral science in a way that is practicable and cost-effective, but that sidesteps concerns about paternalism or manipulation. It has the potential to expand the scope of application of behavioral insights from the public to the personal sphere (e.g., homes, offices, families). It is a tool for reducing failures of self-control and enhancing personal autonomy; specifically, self-nudging can mean designing one's proximate choice architecture to alleviate the effects of self-control problems, engaging in education to understand the nature and causes of self-control problems and employing simple educational nudges to improve goal attainment in various domains. It can even mean self-paternalistic interventions such as winnowing down one's choice set by, for instance, removing options. Policy-makers could promote self-nudging by sharing knowledge about nudges and how they work. The ultimate goal of the self-nudging approach is to enable citizen choice architects’ efficient self-governance, where reasonable, and the self-determined arbitration of conflicts between their mutually exclusive goals and preferences.
         </details>
-    </td></tr>
     </td></tr>
 </table>
 
