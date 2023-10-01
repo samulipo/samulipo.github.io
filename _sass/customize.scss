@@ -6,7 +6,12 @@
 }
 
 /* for formatting the pubs table */
-.pubs td {
+.pubs th, td {
+  width: 100%;
+  border: 0px;
+  border-bottom: 1px solid #ddd;
+  background-color: transparent;
+  padding-bottom: 10px;
 }
 
 /* For width 400px and larger: */
