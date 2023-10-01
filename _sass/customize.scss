@@ -7,17 +7,16 @@
 
 /* for formatting the pubs table */
 
-.pubs table tr td {
-  border-bottom: 1px solid #e8e8e8;
-}
-.pubs table tr {
-  margin-bottom: 20px;
+
+.pubs {
+  width: 100%; /* Set the width of the table */
+  border-collapse: collapse; /* Combine borders */
+  margin-bottom: 40px; /* Add margin to the top and bottom of the table */
 }
 
-.pubs table {
-  padding: 0px;
-  background-color: transparent;
-  border: 0px;
+.pubs th, .pubs td {
+  border-bottom: 1px solid #ddd; /* Add a bottom border to each table cell */
+  padding: 0px; /* Add some padding to each cell */
 }
 
 /* For width 400px and larger: */
