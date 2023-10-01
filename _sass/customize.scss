@@ -11,13 +11,13 @@
 .pubs {
   border: none;
   width: 100%; /* Set the width of the table */
-  border-spacing: 0 40px; /* The first value (0) is the horizontal spacing and the second value (10px) is the vertical spacing */
   margin-bottom: 40px; /* Add margin to the top and bottom of the table */
 }
 
 .pubs th, .pubs td {
   border: none;
   padding: 0px; 
+  padding-bottom: 10px;
   background-color: transparent;
 }
 
