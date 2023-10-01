@@ -9,7 +9,7 @@ permalink: /publications/
 <table class="pubs">
     <tr><td>
         Hormio, Säde and Samuli Reijula. <b>Universities as anarchic knowledge institutions</b> <a href="https://osf.io/preprints/socarxiv/qr89d" target="_blank">[pdf]</a>
-        <span class="keyword">Keywords: higher education; institutional epistemology; knowledge production; knowledge field; frontier research</span>
+        <span class="keyword">Keywords: <i>higher education; institutional epistemology; knowledge production; knowledge field; frontier research</i></span>
         <details>
         <summary>Abstract</summary>
         Universities are knowledge institutions. Compared to several other knowledge institutions (e.g., schools, government research organisations, think tanks), research universities have unusual, anarchic organisational features. We argue that such anarchic features are not a weakness. Rather, they reflect the special standing of research universities among knowledge institutions. We contend that the distributed, self-organising mode of knowledge production maintains a diversity of approaches, topics and solutions needed in frontier research, which involves generating relevant knowledge under uncertainty. Organisational disunity and inconsistencies should sometimes be protected by institutional structures and procedures in order for research universities to best serve their purpose as knowledge institutions. The quality control for the knowledge produced comes from knowledge fields, clusters of knowledge and research that exist beyond the confines of individual organisations. The diversity of epistemic contributions is therefore kept in check by the order imposed by the internal logic of science as a social practice. Our argument provides a new defence for the autonomy of research conducted at universities.
@@ -17,6 +17,7 @@ permalink: /publications/
     </td></tr>
     <tr><td>
         Kuorikoski, Jaakko and Samuli Reijula. <b>Making it count. An inferentialist account of computer simulation</b> <a href="https://osf.io/preprints/socarxiv/v9bmr" target="_blank">[pdf]</a>
+         <span class="keyword">Keywords: <i>inferentialism; scientific representation; computer simulation; similarity</i></span>
         <details>
         <summary>Abstract</summary>
         The dual problems of how an idealized model can represent and provide information about its target have become a central topic of in the philosophy of science. We argue that several current views are misguided in assuming that the epistemology of modeling and simulation must build on a philosophical theory of the representation relation (e.g. isomorphism, similarity). We extend Robert Brandom’s inferentialist account of meaning into scientific representation to argue that representational language is explicatory, not explanatory, in nature. We provide a broader philosophical rationale for inferential accounts of scientific representation, and an epistemologically modest account of the role of models in terms of inferential scorekeeping. We apply these views to the contested case of computer simulations to argue that, although the praxis of simulation modeling resembles that of scientific experimentation, simulations alone cannot lead to genuinely novel discoveries about the world, as they are merely tools for keeping our reasoning straight.
