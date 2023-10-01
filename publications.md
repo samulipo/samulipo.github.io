@@ -82,21 +82,43 @@ permalink: /publications/
 
 ### 2021
 
-Reijula, Samuli and Jaakko Kuorikoski (2021). **The diversity-ability trade-off in scientific problem solving.** *Philosophy of Science* , 88, 894-905.
-<a href="https://www.journals.uchicago.edu/doi/abs/10.1086/714938" target="_blank">[link]</a>
-<a href="http://philsci-archive.pitt.edu/18645/" target="_blank">[pdf]</a>
-
-Reijula, Samuli (2021) **Social categories in the making: construction or recruitment?** , *Synthese*, 199, 12315–12330.
-<a href="https://link.springer.com/content/pdf/10.1007/s11229-021-03334-x.pdf" target="_blank">[pdf, open access]</a>
-
-Reijula, Samuli (2021) **Hacking, Ian (1936-)**, *Routledge Encyclopedia of Philosophy.*
-<a href="https://www.rep.routledge.com/articles/biographical/hacking-ian-1936/v-1" target="_blank">[link]</a>
-<a href="https://philpapers.org/archive/REIHI.pdf" target="_blank">[pdf]</a>
-
-Aydinonat, Emrah, Samuli Reijula and Petri Ylikoski (2021). **Argumentative landscapes: the functions of models in social epistemology.** *Synthese*, 199, 369-395.
-<a href="https://link.springer.com/article/10.1007/s11229-020-02661-9" target="_blank">[link]</a>
-<a href="http://philsci-archive.pitt.edu/17163/" target="_blank">[pdf]</a>
-
+<table class="pubs">
+    <tr><td>
+        Reijula, Samuli and Jaakko Kuorikoski (2021). <b>The diversity-ability trade-off in scientific problem solving.</b> <i>Philosophy of Science</i> , 88, 894-905.
+        <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/714938" target="_blank">[link]</a>
+        <a href="http://philsci-archive.pitt.edu/18645/" target="_blank">[pdf]</a>
+        <details>
+        <summary>Abstract</summary>
+        According to the diversity-beats-ability theorem, groups of diverse problem solvers can outperform groups of high-ability problem solvers. We argue that the model introduced by Lu Hong and Scott Page is inadequate for exploring the trade-off between diversity and ability. This is because the model employs an impoverished implementation of the problem-solving task. We present a new version of the model that captures the role of ‘ability’ in a meaningful way, and we use it to explore the trade-offs between diversity and ability in scientific problem solving.
+        </details>
+    </td></tr>
+    <tr><td>
+        Reijula, Samuli (2021) <b>Social categories in the making: construction or recruitment?</b> , <i>Synthese</i>, 199, 12315–12330.
+        <a href="https://link.springer.com/content/pdf/10.1007/s11229-021-03334-x.pdf" target="_blank">[pdf, open access]</a>
+        <details>
+        <summary>Abstract</summary>
+        Real kinds, both natural and social categories, are characterized by rich inductive potential. They have relatively stable sets of conceptually independent projectable properties. Somewhat surprisingly, even some purely social categories (e.g., ethnicity, gender, political orientation) show such multiple projectability. The article explores the origin of the inductive richness of social categories and concepts. I argue that existing philosophical accounts provide only a partial explanation, and mechanisms of boundary formation and stabilization must be brought into view for a more comprehensive account of inductively rich social categories.
+        </details>
+    </td></tr>
+    <tr><td>
+        Reijula, Samuli (2021) <b>Hacking, Ian (1936-)</b>, <i>Routledge Encyclopedia of Philosophy.</i>
+        <a href="https://www.rep.routledge.com/articles/biographical/hacking-ian-1936/v-1" target="_blank">[link]</a>
+        <a href="https://philpapers.org/archive/REIHI.pdf" target="_blank">[pdf]</a>
+        <details>
+        <summary>Abstract</summary>
+        Ian Hacking (born in 1936, Vancouver, British Columbia) is most well-known for his work in the philosophy of the natural and social sciences, but his contributions to philosophy are broad, spanning many areas and traditions. In his detailed case studies of the development of probabilistic and statistical reasoning, Hacking pioneered the naturalistic approach in the philosophy of science. Hacking’s research on social constructionism, transient mental illnesses, and the looping effect of the human kinds make use of historical materials to shed light on how developments in the social, medical, and behavioural sciences have shaped our contemporary conceptions of identity and agency. Hacking’s other contributions to philosophy include his work on the philosophy of mathematics (Hacking, 2014), philosophy of statistics, philosophy of logic, inductive logic (Hacking, 1965, 1979, 2001) and natural kinds (Hacking, 1991, 2007a).
+        </details>
+    </td></tr>
+    <tr><td>
+        Aydinonat, Emrah, Samuli Reijula and Petri Ylikoski (2021). <b>Argumentative landscapes: the functions of models in social epistemology.</b> <i>Synthese</i>, 199, 369-395.
+        <a href="https://link.springer.com/article/10.1007/s11229-020-02661-9" target="_blank">[link]</a>
+        <a href="http://philsci-archive.pitt.edu/17163/" target="_blank">[pdf]</a>
+        <details>
+        <summary>Abstract</summary>
+        We argue that the appraisal of models in social epistemology requires conceiving of them as argumentative devices, taking into account the argumentative context and adopting a family-of-models perspective. We draw up such an account and show how it makes it easier to see the value and limits of the use of models in social epistemology. To illustrate our points, we document and explicate the argumentative role of epistemic landscape models in social epistemology and highlight their limitations. We also claim that our account could be fruitfully used in appraising other models in philosophy and science.
+        </details>
+    </td></tr>
+</table>
 
 ### 2020
 
