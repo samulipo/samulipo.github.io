@@ -24,25 +24,60 @@ permalink: /publications/
 
 ## 2023
 
-Rolin, Kristina, Inkeri Koskinen, Jaakko Kuorikoski and Samuli Reijula (2023). **Social and cognitive diversity in science: introduction** , *Synthese* 202:36. <a href="https://t.co/Ilq36gNS4p" target="_blank">[pdf, open access]</a>
-
-Pesonen, Renne and Samuli Pöyhönen (2023). **Älykästä paskapuhetta - tekoälymallit ihmisälyn peilinä** (Fluent bullshit - AI models as a mirror to human intelligence), *Tieteessä Tapahtuu,* 3/2023. 
-<a href="https://journal.fi/tt/article/view/131066/79967" target="_blank">[pdf, open access]</a>
-
-Reijula, Samuli, Jaakko Kuorikoski, Miles MacLeod (2023). **The division of cognitive labor and the structure of interdisciplinary problems**, *Synthese* 201:214.
-<a href="https://doi.org/10.1007/s11229-023-04193-4" target="_blank">[pdf, open access]</a>
+<table class="pubs">
+    <tr><td>
+        Rolin, Kristina, Inkeri Koskinen, Jaakko Kuorikoski and Samuli Reijula (2023). <b>Social and cognitive diversity in science: introduction</b> , <i>Synthese</i> 202:36. <a href="https://t.co/Ilq36gNS4p" target="_blank">[pdf, open access]</a>
+        <details>
+        <summary>Abstract</summary>
+        In this introduction to the Topical Collection on Social and Cognitive Diversity in Science, we map the questions that have guided social epistemological approaches to diversity in science. Both social and cognitive diversity of different types is claimed to be epistemically beneficial. The challenge is to understand how an increase in a group’s diversity can bring about epistemic benefits and whether there are limits beyond which diversity can no longer improve a group’s epistemic performance. The contributions to the Topical Collection discuss various proposals to maintain an appropriate amount of cognitive diversity in science, for instance, by recruiting and retaining practitioners from underrepresented social groups, providing incentives for explorative and risky research, encouraging interdisciplinary collaborations and stakeholder participation in research, requiring industry scientists to share their evidence, and developing strategies to encounter politically motivated attempts to manufacture doubt. To be successful, efforts to promote diversity in science should anticipate risks related to institutional interventions, navigate trade-offs between different types of epistemically good outcomes, and identify hidden costs that such policies may cause for various actors. Such efforts need to be assessed not only from an epistemic perspective but also from the point of view of fairness and the political legitimacy of scientific institutions.
+        </details>
+    </td></tr>
+    <tr><td>
+        Pesonen, Renne and Samuli Pöyhönen (2023). <b>Älykästä paskapuhetta - tekoälymallit ihmisälyn peilinä</b> (Fluent bullshit - AI models as a mirror to human intelligence), <i>Tieteessä Tapahtuu<i>, 3/2023. 
+        <a href="https://journal.fi/tt/article/view/131066/79967" target="_blank">[pdf, open access]</a>
+        <details>
+        <summary>Abstract</summary>
+        Onko tekoälyllä älykkyyttä? Luultavasti on, sillä sen käymää keskustelua ei enää juuri erota ihmisten käymästä keskustelusta. Ihmistenkään järkeily ei nimittäin useimmiten huikaise älykkyyden tasollaan. Kielimallit haastavat romantisoidut käsitykset ihmisjärjestä ja luovuudesta.
+        </details>
+    </td></tr>
+        Reijula, Samuli, Jaakko Kuorikoski, Miles MacLeod (2023). <b>The division of cognitive labor and the structure of interdisciplinary problems</b>, <i>Synthese</i> 201:214.
+        <a href="https://doi.org/10.1007/s11229-023-04193-4" target="_blank">[pdf, open access]</a>
+        <details>
+        <summary>Abstract</summary>
+        Interdisciplinarity is strongly promoted in science policy across the world. It is seen as a necessary condition for providing practical solutions to many pressing complex problems for which no single disciplinary approach is adequate alone. In this article we model multi- and interdisciplinary research as an instance of collective problem solving. Our goal is to provide a basic representation of this type of problem solving and chart the epistemic benefits and costs of researchers engaging in different forms of cognitive coordination. Our findings suggest that typical forms of interdisciplinary collaboration are unlikely to find optimal solutions to complex problems within short time frames and can lead to methodological conservatism. This provides some grounds for both reflecting on current science policy and envisioning more effective scientific practices with respect to interdisciplinary problem solving.
+        </details>
+    </td></tr>
+</table>
 
 ### 2022
 
-Reijula, Samuli and Jaakko Kuorikoski (2022). **Modeling cognitive diversity in group problem solving**, in J. Culbertson, A. Perfors, H. Rabagliati & V. Ramenzoni (Eds.), *Proceedings of the 44th Annual Conference of the Cognitive Science Society.*
-<a href="https://escholarship.org/content/qt84g365px/qt84g365px.pdf" target="_blank">[pdf]</a>
-
-Reijula, Samuli (2022) **Terapeuttinen puhe on kaikkialla (Therapeutic discourse is everywhere; book review)** , *Tieteessä Tapahtuu 1/2022*.
-<a href="https://www.tieteessatapahtuu.fi/numerot/1-2022/terapeuttinen-puhe-kaikkialla-artikkelikokoelma-tarkastelee-sen-vaikutuksia" target="_blank">[link, OA]</a>
-
-Reijula, Samuli & Ralph Hertwig (2022). **Self-nudging and the citizen choice architect**. *Behavioral Public Policy*, 6(1), 119-149. <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/selfnudging-and-the-citizen-choice-architect/F526628F7F3C7B436FA2BCBFC1FC3C76" target="_blank">[link]</a>
-<a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">[pdf]</a>
-
+<table class="pubs">
+    <tr><td>
+        Reijula, Samuli and Jaakko Kuorikoski (2022). <b>Modeling cognitive diversity in group problem solving</b>, in J. Culbertson, A. Perfors, H. Rabagliati & V. Ramenzoni (Eds.), <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society.</i>
+        <a href="https://escholarship.org/content/qt84g365px/qt84g365px.pdf" target="_blank">[pdf]</a>
+        <details>
+        <summary>Abstract</summary>
+        According to the diversity-beats-ability theorem, groups of diverse problem solvers can outperform groups of high-ability problem solvers (Hong and Page 2004). This striking claim about the power of cognitive diversity is highly influential within and outside academia, from democratic theory to management of teams in professional organizations. Our replication and analysis of the models used by Hong and Page suggests, however, that both the binary string model and its one-dimensional variant are inadequate for exploring the trade-off between cognitive diversity and ability. Diversity may sometimes beat ability, but the models fail to provide reliable evidence of if and when it does so. We suggest ways in which these important model templates can be improved.
+        </details>
+    </td></tr>
+     <tr><td>
+        Reijula, Samuli (2022) <b>Terapeuttinen puhe on kaikkialla</b> (Therapeutic discourse is everywhere; book review) , <i>Tieteessä Tapahtuu</i> 1/2022.
+        <a href="https://www.tieteessatapahtuu.fi/numerot/1-2022/terapeuttinen-puhe-kaikkialla-artikkelikokoelma-tarkastelee-sen-vaikutuksia" target="_blank">[link, OA]</a>
+        <details>
+        <summary>Abstract</summary>
+        Akatemiatutkija ja teoreettisen filosofian yliopistonlehtori Samuli Reijula luki Terapeuttinen valta -teoksen, joka tarkastelee eri näkökulmista terapeuttisen kulttuurin vaikutuksia yhteiskunnassa.
+        </details>
+    </td></tr>
+     <tr><td>
+        Reijula, Samuli and Ralph Hertwig (2022). <b>Self-nudging and the citizen choice architect</b>. <i>Behavioral Public Policy</i>, 6(1), 119-149. <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/selfnudging-and-the-citizen-choice-architect/F526628F7F3C7B436FA2BCBFC1FC3C76" target="_blank">[link]</a>
+        <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">[pdf]</a>
+        <details>
+        <summary>Abstract</summary>
+        This article argues that nudges can often be turned into self-nudges: empowering interventions that enable people to design and structure their own decision environments – that is, to act as citizen choice architects. Self-nudging applies insights from behavioral science in a way that is practicable and cost-effective, but that sidesteps concerns about paternalism or manipulation. It has the potential to expand the scope of application of behavioral insights from the public to the personal sphere (e.g., homes, offices, families). It is a tool for reducing failures of self-control and enhancing personal autonomy; specifically, self-nudging can mean designing one's proximate choice architecture to alleviate the effects of self-control problems, engaging in education to understand the nature and causes of self-control problems and employing simple educational nudges to improve goal attainment in various domains. It can even mean self-paternalistic interventions such as winnowing down one's choice set by, for instance, removing options. Policy-makers could promote self-nudging by sharing knowledge about nudges and how they work. The ultimate goal of the self-nudging approach is to enable citizen choice architects’ efficient self-governance, where reasonable, and the self-determined arbitration of conflicts between their mutually exclusive goals and preferences.
+        </details>
+    </td></tr>
+    </td></tr>
+</table>
 
 ### 2021
 
