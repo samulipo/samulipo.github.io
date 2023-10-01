@@ -8,12 +8,16 @@
 /* for formatting the pubs table */
 
 .pubs tr td {
-  border: 0px;
   border-bottom: 1px solid #e8e8e8;
 }
 .pubs tr {
   margin-bottom: 20px;
+}
+
+.pubs {
+  padding: 0px;
   background-color: transparent;
+  border: 0px;
 }
 
 /* For width 400px and larger: */
