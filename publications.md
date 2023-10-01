@@ -5,14 +5,18 @@ permalink: /publications/
 ---
 
 ### Preprints
-
-Hormio, Säde and Samuli Reijula. **Universities as anarchic knowledge institutions** <a href="https://osf.io/preprints/socarxiv/qr89d" target="_blank">[pdf]</a> <br><details>
- <summary>Abstract</summary>
- Universities are knowledge institutions. Compared to several other knowledge institutions (e.g., schools, government research organisations, think tanks), research universities have unusual, anarchic organisational features. We argue that such anarchic features are not a weakness. Rather, they reflect the special standing of research universities among knowledge institutions. We contend that the distributed, self-organising mode of knowledge production maintains a diversity of approaches, topics and solutions needed in frontier research, which involves generating relevant knowledge under uncertainty. Organisational disunity and inconsistencies should sometimes be protected by institutional structures and procedures in order for research universities to best serve their purpose as knowledge institutions. The quality control for the knowledge produced comes from knowledge fields, clusters of knowledge and research that exist beyond the confines of individual organisations. The diversity of epistemic contributions is therefore kept in check by the order imposed by the internal logic of science as a social practice. Our argument provides a new defence for the autonomy of research conducted at universities.
-</details>
-
-
-Kuorikoski, Jaakko and Samuli Reijula. **Making it count. An inferentialist account of computer simulation** <a href="https://osf.io/preprints/socarxiv/v9bmr" target="_blank">[pdf]</a>
+<table>
+    <tr>
+        Hormio, Säde and Samuli Reijula. **Universities as anarchic knowledge institutions** <a href="https://osf.io/preprints/socarxiv/qr89d" target="_blank">[pdf]</a>
+        <details>
+        <summary>Abstract</summary>
+        Universities are knowledge institutions. Compared to several other knowledge institutions (e.g., schools, government research organisations, think tanks), research universities have unusual, anarchic organisational features. We argue that such anarchic features are not a weakness. Rather, they reflect the special standing of research universities among knowledge institutions. We contend that the distributed, self-organising mode of knowledge production maintains a diversity of approaches, topics and solutions needed in frontier research, which involves generating relevant knowledge under uncertainty. Organisational disunity and inconsistencies should sometimes be protected by institutional structures and procedures in order for research universities to best serve their purpose as knowledge institutions. The quality control for the knowledge produced comes from knowledge fields, clusters of knowledge and research that exist beyond the confines of individual organisations. The diversity of epistemic contributions is therefore kept in check by the order imposed by the internal logic of science as a social practice. Our argument provides a new defence for the autonomy of research conducted at universities.
+        </details>
+    </tr>
+    <tr>
+        Kuorikoski, Jaakko and Samuli Reijula. **Making it count. An inferentialist account of computer simulation** <a href="https://osf.io/preprints/socarxiv/v9bmr" target="_blank">[pdf]</a>
+    </tr>
+</table>
 
 ## 2023
 
