@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 ### Preprints
+
 <table class="pubs">
     <tr><td>
         Hormio, Säde and Samuli Reijula. <b>Universities as anarchic knowledge institutions</b> <a href="https://osf.io/preprints/socarxiv/qr89d" target="_blank">[pdf]</a>
@@ -22,7 +23,7 @@ permalink: /publications/
     </td></tr>
 </table>
 
-## 2023
+### 2023
 
 <table class="pubs">
     <tr><td>
@@ -33,7 +34,7 @@ permalink: /publications/
         </details>
     </td></tr>
     <tr><td>
-        Pesonen, Renne and Samuli Pöyhönen (2023). <b>Älykästä paskapuhetta - tekoälymallit ihmisälyn peilinä</b> (Fluent bullshit - AI models as a mirror to human intelligence), <i>Tieteessä Tapahtuu<i>, 3/2023. 
+        Pesonen, Renne and Samuli Pöyhönen (2023). <b>Älykästä paskapuhetta - tekoälymallit ihmisälyn peilinä</b> (Fluent bullshit - AI models as a mirror to human intelligence), <i>Tieteessä Tapahtuu</i>, 3/2023. 
         <a href="https://journal.fi/tt/article/view/131066/79967" target="_blank">[pdf, open access]</a>
         <details>
         <summary>Abstract</summary>
