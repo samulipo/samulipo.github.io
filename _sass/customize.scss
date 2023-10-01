@@ -7,14 +7,13 @@
 
 /* for formatting the pubs table */
 
-.pubs th {
-  margin-bottom: 20px;
-  color: transparent;
-  background-color: transparent;
-}
-.pubs td {
+.pubs tr td {
   border: 0px;
   border-bottom: 1px solid #e8e8e8;
+}
+.pubs tr {
+  margin-bottom: 20px;
+  background-color: transparent;
 }
 
 /* For width 400px and larger: */
