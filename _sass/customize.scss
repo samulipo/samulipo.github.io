@@ -6,12 +6,15 @@
 }
 
 /* for formatting the pubs table */
-.pubs th, td {
-  width: 100%;
-  border: 0px;
-  border-bottom: 1px solid #ddd;
+
+.pubs th {
+  margin-bottom: 20px;
+  color: transparent;
   background-color: transparent;
-  padding-bottom: 10px;
+}
+.pubs td {
+  border: 0px;
+  border-bottom: 1px solid #e8e8e8;
 }
 
 /* For width 400px and larger: */
