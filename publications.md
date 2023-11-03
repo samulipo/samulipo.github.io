@@ -8,14 +8,6 @@ permalink: /publications/
 
 <table class="pubs">
     <tr><td>
-        Hormio, Säde and Samuli Reijula. <b>Universities as anarchic knowledge institutions</b> <a href="https://osf.io/preprints/socarxiv/qr89d" target="_blank">[pdf]</a>
-        <br><span class="keyword">Keywords: <i>higher education; institutional epistemology; knowledge production; knowledge field; frontier research</i></span>
-        <details>
-        <summary>Abstract</summary>
-        Universities are knowledge institutions. Compared to several other knowledge institutions (e.g., schools, government research organisations, think tanks), research universities have unusual, anarchic organisational features. We argue that such anarchic features are not a weakness. Rather, they reflect the special standing of research universities among knowledge institutions. We contend that the distributed, self-organising mode of knowledge production maintains a diversity of approaches, topics and solutions needed in frontier research, which involves generating relevant knowledge under uncertainty. Organisational disunity and inconsistencies should sometimes be protected by institutional structures and procedures in order for research universities to best serve their purpose as knowledge institutions. The quality control for the knowledge produced comes from knowledge fields, clusters of knowledge and research that exist beyond the confines of individual organisations. The diversity of epistemic contributions is therefore kept in check by the order imposed by the internal logic of science as a social practice. Our argument provides a new defence for the autonomy of research conducted at universities.
-        </details>
-    </td></tr>
-    <tr><td>
         Kuorikoski, Jaakko and Samuli Reijula. <b>Making it count. An inferentialist account of computer simulation</b> <a href="https://osf.io/preprints/socarxiv/v9bmr" target="_blank">[pdf]</a>
         <br><span class="keyword">Keywords: <i>inferentialism; scientific representation; computer simulation; similarity</i></span>
         <details>
@@ -28,6 +20,14 @@ permalink: /publications/
 ### 2023
 
 <table class="pubs">
+    <tr><td>
+        Hormio, Säde and Samuli Reijula (forthcoming in <i>Social Epistemology</i>). <b>Universities as anarchic knowledge institutions</b> <a href="https://osf.io/preprints/socarxiv/qr89d" target="_blank">[pdf]</a>
+        <br><span class="keyword">Keywords: <i>higher education; institutional epistemology; knowledge production; knowledge field; frontier research</i></span>
+        <details>
+        <summary>Abstract</summary>
+        Universities are knowledge institutions. Compared to several other knowledge institutions (e.g., schools, government research organisations, think tanks), research universities have unusual, anarchic organisational features. We argue that such anarchic features are not a weakness. Rather, they reflect the special standing of research universities among knowledge institutions. We contend that the distributed, self-organising mode of knowledge production maintains a diversity of approaches, topics and solutions needed in frontier research, which involves generating relevant knowledge under uncertainty. Organisational disunity and inconsistencies should sometimes be protected by institutional structures and procedures in order for research universities to best serve their purpose as knowledge institutions. The quality control for the knowledge produced stems from knowledge fields, clusters of knowledge and research that exist beyond the confines of individual organisations. The diversity of epistemic contributions is therefore kept in check by the order imposed by the internal logic of science as a social practice. Our argument provides a new defence for the autonomy of research conducted at universities.
+        </details>
+    </td></tr>
     <tr><td>
         Rolin, Kristina, Inkeri Koskinen, Jaakko Kuorikoski and Samuli Reijula (2023). <b>Social and cognitive diversity in science: introduction</b> , <i>Synthese</i> 202:36. <a href="https://t.co/Ilq36gNS4p" target="_blank">[pdf, open access]</a>
         <br><span class="keyword">Keywords: <i>cognitive diversity; social diversity; social epistemology of science</i></span>

@@ -21,7 +21,7 @@ In June 2022, together with Säde Hormio and Raul Hakli, I organized the first <
 Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden), I organize a series of workshops <a href="https://www.nordicscisci.net" target="_blank">Nordic Network for the Science of Science</a> (funded by NOS-HS, 2022-2023).
 
 ### Recent publications
-
+- <a href="https://osf.io/preprints/socarxiv/qr89d" target="_blank">Universities as anarchic knowledge institutions</a>, forthcoming in *Social Epistemology*. (w/ Säde Hormio) (2023-11)
 - <a href="https://t.co/Ilq36gNS4p" target="_blank">Social and cognitive diversity in science: introduction</a>, *Synthese* (open access). (w/ Kristina Rolin, Inkeri Koskinen, Jaakko Kuorikoski) (2023-07)
 - <a href="https://journal.fi/tt/article/view/131066/79967" target="_blank">Älykästä paskapuhetta - tekoälymallit ihmisälyn peilinä (Fluent bullshit - AI models as a mirror to human intelligence)</a>, *Tieteessä Tapahtuu* (open access). (w/ Renne Pesonen) (2023-06)
 - <a href="https://doi.org/10.1007/s11229-023-04193-4" target="_blank">The division of cognitive labor and the structure of interdisciplinary problems</a>, *Synthese* (open access). (w/ Jaakko Kuorikoski and Miles MacLeod) (2023-06)
