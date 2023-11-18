@@ -6,10 +6,11 @@ permalink: /presentations/
 
 # Upcoming talks
 
-- 2023-12: TBA. Workshop on Computational Models in Social Epistemology. Ruhr University Bochum.
+- 2023-12: *The many functions of diversity in scientific problem solving.* Workshop on Computational Models in Social Epistemology. Ruhr University Bochum.
 - 2023-12: TBA. Mini-conference & book launch - Research Handbook on Nudge and Society. El-Erian Institute, University of Cambridge. (w/ Ralph Hertwig)
-- 2023-12: TBA. The theoretical foundations of interdisciplinarity symposium, Collegium for Advanced Studies, University of Helsinki.
-- 2023-10: TBA. Strategic Organization Design, University of Southern Denmark.
+- 2023-12: *The division of cognitive labor and the structure of interdisciplinary problems.* The theoretical foundations of interdisciplinarity symposium, Collegium for Advanced Studies, University of Helsinki.
+- 2023-11: *Self-nudging and the citizen choice architect.* Design matters. Conference on ‘Emerging Technologies and Behavioural-driven Designs.’ Erasmus University, Rotterdam.
+- 2023-10: *The division of cognitive labor and the structure of interdisciplinary problems.* Strategic Organization Design, University of Southern Denmark.
 
 # Recent Talks
 
