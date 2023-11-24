@@ -21,6 +21,15 @@ permalink: /publications/
 
 <table class="pubs">
     <tr><td>
+        Reijula, Samuli and Ralph Hertwig (2023). <b>Self-nudging and the citizen choice architect</b>. In Sunstein & Reisch (eds.) <i>Research Handbook on Nudges and Society</i>, 263-291. <a href="https://www.e-elgar.com/shop/gbp/research-handbook-on-nudges-and-society-9781035303021.html" target="_blank">[link]</a> 
+        <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">[pdf]</a> (Originally published 2022 in <i>Behavioral Public Policy</i>) 
+        <br><span class="keyword">Keywords: <i>nudge; boost; choice architecture; self-control; agency; overconsumption</i></span>
+        <details>
+        <summary>Abstract</summary>
+        This article argues that nudges can often be turned into self-nudges: empowering interventions that enable people to design and structure their own decision environments – that is, to act as citizen choice architects. Self-nudging applies insights from behavioral science in a way that is practicable and cost-effective, but that sidesteps concerns about paternalism or manipulation. It has the potential to expand the scope of application of behavioral insights from the public to the personal sphere (e.g., homes, offices, families). It is a tool for reducing failures of self-control and enhancing personal autonomy; specifically, self-nudging can mean designing one's proximate choice architecture to alleviate the effects of self-control problems, engaging in education to understand the nature and causes of self-control problems and employing simple educational nudges to improve goal attainment in various domains. It can even mean self-paternalistic interventions such as winnowing down one's choice set by, for instance, removing options. Policy-makers could promote self-nudging by sharing knowledge about nudges and how they work. The ultimate goal of the self-nudging approach is to enable citizen choice architects’ efficient self-governance, where reasonable, and the self-determined arbitration of conflicts between their mutually exclusive goals and preferences.
+        </details>
+    </td></tr>
+    <tr><td>
         Hormio, Säde and Samuli Reijula (forthcoming in <i>Social Epistemology</i>). <b>Universities as anarchic knowledge institutions</b> <a href="https://osf.io/preprints/socarxiv/qr89d" target="_blank">[pdf]</a>
         <br><span class="keyword">Keywords: <i>higher education; institutional epistemology; knowledge production; knowledge field; frontier research</i></span>
         <details>
