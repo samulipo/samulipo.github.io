@@ -22,7 +22,8 @@ permalink: /publications/
 <table class="pubs">
     <tr><td>
         Reijula, Samuli and Ralph Hertwig (2023). <b>Self-nudging and the citizen choice architect</b>. In Sunstein & Reisch (eds.) <i>Research Handbook on Nudges and Society</i>, 263-291. <a href="https://www.e-elgar.com/shop/gbp/research-handbook-on-nudges-and-society-9781035303021.html" target="_blank">[link]</a> 
-        <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">[pdf]</a> (Originally published 2022 in <i>Behavioral Public Policy</i>) 
+        <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">[pdf]</a> 
+        <br>(Originally published 2022 in <i>Behavioral Public Policy</i>) 
         <br><span class="keyword">Keywords: <i>nudge; boost; choice architecture; self-control; agency; overconsumption</i></span>
         <details>
         <summary>Abstract</summary>
@@ -46,7 +47,7 @@ permalink: /publications/
         </details>
     </td></tr>
     <tr><td>
-        Pesonen, Renne and Samuli Pöyhönen (2023). <b>Älykästä paskapuhetta - tekoälymallit ihmisälyn peilinä</b> (Fluent bullshit - AI models as a mirror to human intelligence), <i>Tieteessä Tapahtuu</i>, 3/2023. 
+        Pesonen, Renne and Samuli Reijula (2023). <b>Älykästä paskapuhetta - tekoälymallit ihmisälyn peilinä</b> (Fluent bullshit - AI models as a mirror to human intelligence), <i>Tieteessä Tapahtuu</i>, 3/2023. 
         <a href="https://journal.fi/tt/article/view/131066/79967" target="_blank">[pdf, open access]</a>
         <br><span class="keyword">Keywords: <i>kielimallit; tekoäly; älykkyys; luovuus; rajoitettu rationaalisuus</i></span>
         <details>
