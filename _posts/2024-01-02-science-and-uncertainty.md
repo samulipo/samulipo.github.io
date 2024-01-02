@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI as a mirror for human intelligence
+title: Interview - Science, uncertainty and trust
 categories: news media
 ---
 
