@@ -8,6 +8,7 @@ permalink: /contact/
 {: .centered_text}
 <a href="https://scholar.google.fi/citations?user=piH1k6EAAAAJ&hl=en" target="_blank">google scholar</a>     
 <a href="https://philpapers.org/profile/34787" target="_blank">philpapers</a>   
+bluesky: <a href="https://bsky.app/profile/samulireijula.bsky.social" target="_blank">@samulireijula.bsky.social</a>  
 twitter: <a href="https://twitter.com/samulipo" target="_blank">samulipo</a>  
 github: <a href="https://github.com/samulipo/" target="_blank">samulipo</a>  
 <a href="https://www.researchgate.net/profile/Samuli_Reijula" target="_blank">researchgate</a>        
