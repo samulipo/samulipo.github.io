@@ -6,6 +6,7 @@ permalink: /presentations/
 
 # Upcoming talks
 
+- 2024-02: TBA: REPIN/Centre de recherches historiques, Ecole des Hautes Etudes en Sciences Sociales, Paris.
 - 2023-12: *The many functions of diversity in scientific problem solving.* Workshop on Computational Models in Social Epistemology. Ruhr University Bochum.
 - 2023-12: TBA. Mini-conference & book launch - Research Handbook on Nudge and Society. El-Erian Institute, University of Cambridge. (w/ Ralph Hertwig)
 - 2023-12: *The division of cognitive labor and the structure of interdisciplinary problems.* The theoretical foundations of interdisciplinarity symposium, Collegium for Advanced Studies, University of Helsinki.
