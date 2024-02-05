@@ -55,6 +55,16 @@ permalink: /publications/
         Onko tekoälyllä älykkyyttä? Luultavasti on, sillä sen käymää keskustelua ei enää juuri erota ihmisten käymästä keskustelusta. Ihmistenkään järkeily ei nimittäin useimmiten huikaise älykkyyden tasollaan. Kielimallit haastavat romantisoidut käsitykset ihmisjärjestä ja luovuudesta.
         </details>
     </td></tr>
+     <tr><td>
+        Kokkonen, Tomi & Samuli Reijula (2023). <b>Tieteenfilosofia</b> (in Finnish. ”Philosophy of science”). In. S. Syrjämäki, T. Kannisto, & L. Järvilehto (eds.). <i>Logos Encyclopedia</i>, Eurooppalaisen filosofian seura ry.
+        <a href="https://www.filosofia.fi/fi/ensyklopedia/tieteenfilosofia" target="_blank">[link, open access]</a>
+        <br><span class="keyword">Keywords: <i>tieteenfilosofia, tieteellinen päättely, tieteellinen realismi, selittäminen, ymmärtäminen, tiede ja arvot, tieteenfilosofia Suomessa</i></span>
+        <details>
+        <summary>Abstract</summary>
+        Sanalla ”tiede” voidaan viitata useaan eri kohteeseen. Ensinnäkin sillä voidaan tarkoittaa  tieteellisen tiedon kokonaisuutta. Toiseksi se voi viitata niihin episteemisiin periaatteisiin, joihin tieteellinen tiedon tuottaminen perustuu, ja näiden episteemisten periaatteiden mukaisiin metodologisiin periaatteisiin. Kolmanneksi se voi tarkoittaa tiedeyhteisöä ja sen instituutioita, jotka ylläpitävät ja kehittävät metodologisia periaatteita ja tuottavat tieteellistä tietoa. Tieteenfilosofia tutkii tiedettä näissä kaikissa kolmessa mielessä.
+        Tieteenfilosofia tarkastelee muun muassa seuraavanlaisia kysymyksiä: Kuinka tiede eroaa pseudotieteestä? Kuvaavatko tieteelliset teoriat todellisuuden rakenteita? Ovatko tieteelliset faktat tutkijayhteisön tuottamia konstruktioita? Kuinka havainnot tukevat teoriaa? Edistyykö tiede tasaisesti vähän kerrallaan vai vallankumousten kautta? Millä tavoin tieteelliset teoriat selittävät ja lisäävät ymmärrystä maailmasta? Kuinka tiedeyhteisön toiminta tulisi järjestää, jotta tiedontuotanto olisi mahdollisimman luotettavaa?
+        </details>
+    </td></tr>
     <tr><td>
         Reijula, Samuli, Jaakko Kuorikoski, Miles MacLeod (2023). <b>The division of cognitive labor and the structure of interdisciplinary problems</b>, <i>Synthese</i> 201:214.
         <a href="https://doi.org/10.1007/s11229-023-04193-4" target="_blank">[pdf, open access]</a>
