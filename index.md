@@ -47,4 +47,4 @@ Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden
 
 ### CV
 
-<a href="/assets/samuliCV_2022-03.pdf" target="_blank">Samuli Reijula, Curriculum vitae 03/2022</a>
+<a href="/assets/reijula_cv_2024-01.pdf" target="_blank">Samuli Reijula, Curriculum vitae 2024-01</a>
