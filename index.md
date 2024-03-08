@@ -18,7 +18,7 @@ I am also interested in **cognitive diversity**, coping with **uncertainty**, **
 
 In June 2022, together with Säde Hormio and Raul Hakli, I organized the first <a href="https://blogs.helsinki.fi/institutional-epistemology/" target="_blank">Institutional epistemology workshop</a> at the University of Helsinki. <a href="https://www.institutionalepistemology.net" target="_blank">INES2023</a> took place in June 2023.
 
-Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden), I organize a series of workshops <a href="https://www.nordicscisci.net" target="_blank">Nordic Network for the Science of Science</a> (funded by NOS-HS, 2022-2023).
+Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden), I organize a series of workshops <a href="https://www.nordicscisci.net" target="_blank">Nordic Network for the Science of Science</a> (funded by NOS-HS, 2022-2023). In 2024, the nordic network transformed into the **European Network for the Science of Science (EUROSCISCI)**. 
 
 ### Recent publications
 - <a href="<i>Social Epistemology</i>" target="_blank">Universities as anarchic knowledge institutions</a>,  *Social Epistemology*. (w/ Säde Hormio) (2023-12)
