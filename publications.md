@@ -8,7 +8,7 @@ permalink: /publications/
 
 <table class="pubs">
     <tr><td>
-        Pääkkönen Juho, Matti Nelimerkka and Samuli Reijula<b>The emergence of computational social science: Intellectual integration or persistent fragmentation?</b> <a href="https://osf.io/preprints/socarxiv/g6m34" target="_blank">[SocArxiv]</a>
+        Pääkkönen Juho, Matti Nelimerkka and Samuli Reijula. <b>The emergence of computational social science: Intellectual integration or persistent fragmentation?</b> <a href="https://osf.io/preprints/socarxiv/g6m34" target="_blank">[SocArxiv]</a>
         <br><span class="keyword">Keywords: <i>computational social science; intellectual integration;  interdisciplinarity; co-citation analysis; cohesion</i></span>
         <details>
         <summary>Abstract</summary>

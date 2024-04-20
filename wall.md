@@ -5,6 +5,10 @@ permalink: /wall/
 ---
 # (random thoughts in both languages)
 
+### trying out bsky embedding 
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:btuqjrilfffatbvck7xaaasn/app.bsky.feed.post/3kpeofpvpyq2h" data-bluesky-cid="bafyreighz3jjaobg4xhwe4amcelsbc536ehkpwctdxmljgrfgm7ytrw7ri"><p lang="en">Tentative findings from tinkering with Microsoft Academic Graph : If you have a philosophy paper with 10 citations, it’s in the top 19% of all existing phi papers. 30 cites moves you to top 9%; 50 cites -&gt; top 6%; More than 322 -&gt; top 1% #philsky #philsci #bibliometrics (not that we care, right?)</p>&mdash; Samuli Reijula (<a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn?ref_src=embed">@samulireijula.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn/post/3kpeofpvpyq2h?ref_src=embed">Apr 5, 2024 at 11:17</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
 ### 2024-02-29 wall
 
 Reading about fediverse, I realized I don't have to wait for web 3.0 to own my social media posts. I'll just posts copies here. I'm not expecting a broad readership (any, actually), but it does feel like some kind of statement to cross-post.
