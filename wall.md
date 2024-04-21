@@ -1,8 +1,10 @@
 ---
 layout: page
-title: random thoughts
+title: wall
 permalink: /wall/
 ---
+(a very manual way to self-host social media posts & random thoughts)
+
 ### 2024-04-20 philosophy bibliometrics part 1
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:btuqjrilfffatbvck7xaaasn/app.bsky.feed.post/3kpeofpvpyq2h" data-bluesky-cid="bafyreighz3jjaobg4xhwe4amcelsbc536ehkpwctdxmljgrfgm7ytrw7ri"><p lang="en">Tentative findings from tinkering with Microsoft Academic Graph : If you have a philosophy paper with 10 citations, it’s in the top 19% of all existing phi papers. 30 cites moves you to top 9%; 50 cites -&gt; top 6%; More than 322 -&gt; top 1% #philsky #philsci #bibliometrics (not that we care, right?)</p>&mdash; Samuli Reijula (<a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn?ref_src=embed">@samulireijula.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn/post/3kpeofpvpyq2h?ref_src=embed">Apr 5, 2024 at 11:17</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
@@ -123,7 +125,7 @@ Jännä ilmiö: moikkailun viimeinen käyttöpäivä. Yliopistolla törmää kä
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:btuqjrilfffatbvck7xaaasn/app.bsky.feed.post/3kiacnfccrm2u" data-bluesky-cid="bafyreidww3fyqo6wv6qwgmyqstvpin2m556xzycj7pfs3ontblxe6y7474"><p lang="en">this is a really good book. one of the few that I read every year, well, parts of it. the cover is misleading, it&#x27;s actually a meditation manual for academics. mindfulness before all the hype. thanks to whoever it was who recommended it. hard to find though!<br><br><a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn/post/3kiacnfccrm2u?ref_src=embed">[image or embed]</a></p>&mdash; Samuli Reijula (<a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn?ref_src=embed">@samulireijula.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn/post/3kiacnfccrm2u?ref_src=embed">Jan 5, 2024 at 14:40</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 
-### 2024-12-04 next year in moscow
+### 2024-01-04 next year in moscow
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:btuqjrilfffatbvck7xaaasn/app.bsky.feed.post/3ki6h2n4cgv2p" data-bluesky-cid="bafyreiaw56c4wh3njxvlc4rbvuyacdbqvuq6x7fmj3ybnylvfzgdunpdkm"><p lang="fi">uutisissa muistutus millaista on olla oppositiossa venäjällä. valtavia henkilökohtaisia uhrauksia niiltä jotka edelleen päättää avoimesti pysyä demokratian ja oikeusvaltion ihanteiden puolella www.economist.com/audio/podcas...<br><br><a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn/post/3ki6h2n4cgv2p?ref_src=embed">[image or embed]</a></p>&mdash; Samuli Reijula (<a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn?ref_src=embed">@samulireijula.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn/post/3ki6h2n4cgv2p?ref_src=embed">Jan 4, 2024 at 20:54</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
@@ -131,6 +133,10 @@ Jännä ilmiö: moikkailun viimeinen käyttöpäivä. Yliopistolla törmää kä
 
 ![kallaveden jäällä, vuosi ehkä 1984!](/assets/kallaveden_jaalla.jpg)
 kallaveden jäällä, vuosi ehkä 1984! 
+
+### 2023-12-22 lante
+
+![villa lante](/assets/villa_lante.jpg)
 
 
 ### 2023-12-07 universities as anarchic
@@ -141,6 +147,10 @@ kallaveden jäällä, vuosi ehkä 1984!
 ### 2023-11-27 government metascience units?
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:btuqjrilfffatbvck7xaaasn/app.bsky.feed.post/3kf6gj5e4ad2e" data-bluesky-cid="bafyreiaq3dtakgdlajo3kx6jutpa734wddewdsh2mm2z57lqpqcy7x2jlm"><p lang="en">Roughly a decade ago we saw the rise of government nudge units. Now it’s time for #metascience units?<br><br><a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn/post/3kf6gj5e4ad2e?ref_src=embed">[image or embed]</a></p>&mdash; Samuli Reijula (<a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn?ref_src=embed">@samulireijula.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn/post/3kf6gj5e4ad2e?ref_src=embed">Nov 27, 2023 at 16:28</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+### 2023-12-18 
+
+Juteltiin Amanda Häkkisen / tsv kanssa tutkimuksesta, epävarmuudesta, avoimuudesta [avointiede.fi/fi/aj…](https://avointiede.fi/fi/ajankohtaista/tutkimuksen-epavarmuus-osa-tieteen-prosessia-haastattelussa-samuli-reijula)
 
 
 ### 2023-11-21 human problem solving
