@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-<img class="pull-right" src="/assets/tunturit_circle.jpg"  alt="Samuli Reijula" title="Samuli Reijula"/>
+<img class="pull-right" src="/assets/kilppari.jpg"  alt="Samuli Reijula" title="Samuli Reijula"/>
 
 **Samuli Reijula (né Pöyhönen)**
 
