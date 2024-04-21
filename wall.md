@@ -3,9 +3,10 @@ layout: page
 title: random thoughts
 permalink: /wall/
 ---
-### 2024-04-20 trying out bsky embedding 
+### 2024-04-20 philosophy bibliometrics part 1
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:btuqjrilfffatbvck7xaaasn/app.bsky.feed.post/3kpeofpvpyq2h" data-bluesky-cid="bafyreighz3jjaobg4xhwe4amcelsbc536ehkpwctdxmljgrfgm7ytrw7ri"><p lang="en">Tentative findings from tinkering with Microsoft Academic Graph : If you have a philosophy paper with 10 citations, it’s in the top 19% of all existing phi papers. 30 cites moves you to top 9%; 50 cites -&gt; top 6%; More than 322 -&gt; top 1% #philsky #philsci #bibliometrics (not that we care, right?)</p>&mdash; Samuli Reijula (<a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn?ref_src=embed">@samulireijula.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn/post/3kpeofpvpyq2h?ref_src=embed">Apr 5, 2024 at 11:17</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
 
 ### 2024-03-27 republic of rose island
 
@@ -25,6 +26,11 @@ permalink: /wall/
 ### 2024-03-20 hausman's book
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:btuqjrilfffatbvck7xaaasn/app.bsky.feed.post/3ko4cadzn7o2i" data-bluesky-cid="bafyreiau6omfigfucguxjb4zhkktgir2qptnkzd5msez3jt2atbaqn33kq"><p lang="en">just finished reading this. damn, should have done that a decade ago. such a good book, philEcon at its best www.cambridge.org/core/books/p...<br><br><a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn/post/3ko4cadzn7o2i?ref_src=embed">[image or embed]</a></p>&mdash; Samuli Reijula (<a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn?ref_src=embed">@samulireijula.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn/post/3ko4cadzn7o2i?ref_src=embed">Mar 20, 2024 at 8:53</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+
+### 2024-03-16 kuinka tekoälyjärjestelmät toimivat
+
+sikahyvä sarja, taitaa tosin olla paywallin takana. itse käytin n. 15v kognitiotieteen opinnoissa ja sen jälkeen tämän materiaalin keräilyyn päähäni pala palalta. tässä se olisi parissa tunnissa: kuinka tekoälyjärjestelmät toimivat. https://www.economist.com/podcasts/2024/03/06/how-human-intelligence-inspired-ai
 
 
 ### 2024-03-16 hinton on domination by smart machines
@@ -56,6 +62,11 @@ permalink: /wall/
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:btuqjrilfffatbvck7xaaasn/app.bsky.feed.post/3kmz7ig2uys26" data-bluesky-cid="bafyreiabrgmvu5je53t2n3rzdco627plu53xxmbvyk4g6vio2ipsrl7nve"><p lang="en">A thought: Multiple discoveries are strikingly common in science. How can that be? View discovery as a recombination process, and it becomes less surprising: what the discoverers do is they (only) complete the almost finished puzzle by finding the final missing piece #recombinant_ideation #philsci</p>&mdash; Samuli Reijula (<a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn?ref_src=embed">@samulireijula.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn/post/3kmz7ig2uys26?ref_src=embed">Mar 6, 2024 at 10:01</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 
+### 2024-03-03 merkel ja obama
+
+samalla tavalla kuin farkkujen lahkeiden leveyden määrittää muoti kun olit kaksikymmentä-x vuotta, jotkut poliittiset kuvat menee myös tosi syvään. mulle: merkel ja obama brandenburgin portilla 2016 4ever.
+
+
 ### 2024-03-01 universities are weird but for a reason
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:btuqjrilfffatbvck7xaaasn/app.bsky.feed.post/3kmnk3tvruu2z" data-bluesky-cid="bafyreihblltweghjr2fgz5okcklm3hkitccmzcri736s3zwftnom2okukm"><p lang="en">universities are weird but for a reason (#recombinant ideation) #philsci  www.tandfonline.com/doi/full/10....<br><br><a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn/post/3kmnk3tvruu2z?ref_src=embed">[image or embed]</a></p>&mdash; Samuli Reijula (<a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn?ref_src=embed">@samulireijula.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn/post/3kmnk3tvruu2z?ref_src=embed">Mar 1, 2024 at 18:39</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
@@ -72,6 +83,14 @@ Reading about fediverse, I realized I don't have to wait for web 3.0 to own my s
 I move the few posts from the blog section here. Easier that way.
 
 EDIT: Bsky has an embed function. Things got easier.
+
+### 2024-02-08 äänestysikä -> 16
+
+Miksei äänestysikä ole 16? Varmaan voisi tulla mukaan myös kohinaa mutta miettikää millaisin perustein (tai siis ilman) siellä toisessa ääripäässä ääniä annetaan
+
+### 2024-02-08 moikkailu vanhenee
+
+Jännä ilmiö: moikkailun viimeinen käyttöpäivä. Yliopistolla törmää käytävillä ihmisiin joiden kanssa on tehnyt asioita joitakin vuosia sitten mutta ei sen jälkeen. Jotkut tuntuvat toimivan niin että vuosi-kaksi tapaamisten jälkeen moikkaillaan mutta sen jälkeen vastaan tulee vaan tyhjä katse. Hä? Tosi outoa mun mielestä.
 
 
 ### 2024-02-05 sähköautot ja hajatettu sähköjärjestelmä
@@ -107,6 +126,11 @@ EDIT: Bsky has an embed function. Things got easier.
 ### 2024-12-04 next year in moscow
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:btuqjrilfffatbvck7xaaasn/app.bsky.feed.post/3ki6h2n4cgv2p" data-bluesky-cid="bafyreiaw56c4wh3njxvlc4rbvuyacdbqvuq6x7fmj3ybnylvfzgdunpdkm"><p lang="fi">uutisissa muistutus millaista on olla oppositiossa venäjällä. valtavia henkilökohtaisia uhrauksia niiltä jotka edelleen päättää avoimesti pysyä demokratian ja oikeusvaltion ihanteiden puolella www.economist.com/audio/podcas...<br><br><a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn/post/3ki6h2n4cgv2p?ref_src=embed">[image or embed]</a></p>&mdash; Samuli Reijula (<a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn?ref_src=embed">@samulireijula.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:btuqjrilfffatbvck7xaaasn/post/3ki6h2n4cgv2p?ref_src=embed">Jan 4, 2024 at 20:54</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+### 2023-12-30 kallaveden jäällä
+
+![kallaveden jäällä, vuosi ehkä 1984!](/assets/kallaveden_jaalla.jpg)
+kallaveden jäällä, vuosi ehkä 1984! 
 
 
 ### 2023-12-07 universities as anarchic
