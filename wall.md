@@ -3,7 +3,8 @@ layout: page
 title: wall
 permalink: /wall/
 ---
-(a very manual way to self-host social media posts & random thoughts)
+A very manual way to self-host social media posts & random thoughts. Intellectual stamp collecting, maybe a ![commonplace book](https://en.wikipedia.org/wiki/Commonplace_book)
+
 
 ### 2024-04-20 philosophy bibliometrics part 1
 
