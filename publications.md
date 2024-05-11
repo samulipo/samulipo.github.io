@@ -8,7 +8,7 @@ permalink: /publications/
 
 <table class="pubs">
     <tr><td>
-        Jonard, Nicolas, Samuli Reijula and Luigi Marengo (forthcoming in COGSCI 2024). <b>Group problem solving: Diversity versus diffusion</b> <a href="https://osf.io/preprints/psyarxiv/35w76" target="_blank">[PsyAriv]</a>
+        Jonard, Nicolas, Samuli Reijula and Luigi Marengo (forthcoming in COGSCI 2024). <b>Group problem solving: Diversity versus diffusion</b> <a href="https://osf.io/preprints/psyarxiv/35w76" target="_blank">[PsyArXiv]</a>
         <br><span class="keyword">Keywords: <i>group problem solving; cognitive diversity; structural isolation; agent-based simulation</i></span>
         <details>
         <summary>Abstract</summary>
@@ -19,7 +19,7 @@ permalink: /publications/
 
 <table class="pubs">
     <tr><td>
-        Pääkkönen Juho, Matti Nelimerkka and Samuli Reijula. <b>The emergence of computational social science: Intellectual integration or persistent fragmentation?</b> <a href="https://osf.io/preprints/socarxiv/g6m34" target="_blank">[SocArxiv]</a>
+        Pääkkönen Juho, Matti Nelimerkka and Samuli Reijula (under review). <b>The emergence of computational social science: Intellectual integration or persistent fragmentation?</b> <a href="https://osf.io/preprints/socarxiv/g6m34" target="_blank">[SocArxiv]</a>
         <br><span class="keyword">Keywords: <i>computational social science; intellectual integration;  interdisciplinarity; co-citation analysis; cohesion</i></span>
         <details>
         <summary>Abstract</summary>
