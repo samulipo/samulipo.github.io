@@ -8,6 +8,17 @@ permalink: /publications/
 
 <table class="pubs">
     <tr><td>
+        Jonard, Nicolas, Samuli Reijula and Luigi Marengo (forthcoming in COGSCI 2024). <b>Group problem solving: Diversity versus diffusion</b> <a href="https://osf.io/preprints/psyarxiv/35w76" target="_blank">[PsyAriv]</a>
+        <br><span class="keyword">Keywords: <i>group problem solving; cognitive diversity; structural isolation; agent-based simulation</i></span>
+        <details>
+        <summary>Abstract</summary>
+        Several recent contributions to the research on group problem solving suggest that reducing the connectivity between agents in a social network may be epistemically beneficial. This notion stems from the idea that collective problem-solving behavior may benefit from the transient diversity in agents' beliefs due to increased individual exploration and decreased social influence. At the same time, however, lower connectivity hinders the diffusion of good solutions between network members. Our simulation findings shed light on this trade-off. We identify conditions under which the less-is-more effect is likely to manifest. Our findings suggest that a community consisting of semi-isolated groups could provide an answer to the tension between diversity and diffusion.
+        </details>
+    </td></tr>
+</table>
+
+<table class="pubs">
+    <tr><td>
         Pääkkönen Juho, Matti Nelimerkka and Samuli Reijula. <b>The emergence of computational social science: Intellectual integration or persistent fragmentation?</b> <a href="https://osf.io/preprints/socarxiv/g6m34" target="_blank">[SocArxiv]</a>
         <br><span class="keyword">Keywords: <i>computational social science; intellectual integration;  interdisciplinarity; co-citation analysis; cohesion</i></span>
         <details>
