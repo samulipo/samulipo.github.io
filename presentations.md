@@ -6,10 +6,10 @@ permalink: /presentations/
 
 # Upcoming talks
 
-- 2024-11: Transient diversity between research groups. Philosophy of Science Association, Now Orleans.
+- 2024-11: Transient diversity between research groups. Philosophy of Science Association, New Orleans.
 - 2024-07: Group problem solving: Diversity versus diffusion. COGSCI 2024, Rotterdam.
-- 2024-05: Euroscisci network meeting. 16TH Annual Conference of the International Network of Analytical Sociology, Leipzig.
-- 2024-02: TBA: REPIN/Centre de recherches historiques, Ecole des Hautes Etudes en Sciences Sociales, Paris.
+- 2024-05: Euroscisci network meeting. 16th Annual Conference of the International Network of Analytical Sociology, Leipzig.
+- 2024-02: Taking the power back? Nudging, self-nudging, and internal conflict: REPIN/Centre de recherches historiques, Ecole des Hautes Etudes en Sciences Sociales, Paris.
 
 # Recent Talks
 - 2023-12: *The many functions of diversity in scientific problem solving.* Workshop on Computational Models in Social Epistemology. Ruhr University Bochum.
