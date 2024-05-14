@@ -28,14 +28,6 @@ Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden
 - <a href="https://t.co/Ilq36gNS4p" target="_blank">Social and cognitive diversity in science: introduction</a>, *Synthese* (open access). (w/ Kristina Rolin, Inkeri Koskinen, Jaakko Kuorikoski) (2023-07)
 - <a href="https://journal.fi/tt/article/view/131066/79967" target="_blank">Älykästä paskapuhetta - tekoälymallit ihmisälyn peilinä (Fluent bullshit - AI models as a mirror to human intelligence)</a>, *Tieteessä Tapahtuu* (open access). (w/ Renne Pesonen) (2023-06)
 - <a href="https://doi.org/10.1007/s11229-023-04193-4" target="_blank">The division of cognitive labor and the structure of interdisciplinary problems</a>, *Synthese* (open access). (w/ Jaakko Kuorikoski and Miles MacLeod) (2023-06)
-- <a href="https://escholarship.org/content/qt84g365px/qt84g365px.pdf" target="_blank">Modeling cognitive diversity in group problem solving</a>, in J. Culbertson, A. Perfors, H. Rabagliati & V. Ramenzoni (Eds.), *Proceedings of the 44th Annual Conference of the Cognitive Science Society.* (2022-04) (w/ Jaakko Kuorikoski)
-- <a href="https://www.tieteessatapahtuu.fi/numerot/1-2022/terapeuttinen-puhe-kaikkialla-artikkelikokoelma-tarkastelee-sen-vaikutuksia" target="_blank">Terapeuttinen puhe on kaikkialla (Therapeutic discourse is everywhere; book review)</a>, *Tieteessä Tapahtuu 1/2022*. (2022-02)
-- <a href="https://link.springer.com/content/pdf/10.1007/s11229-021-03334-x.pdf" target="_blank">Social categories in the making: construction or recruitment?</a> *Synthese*. (2021-07)
-- <a href="https://philpapers.org/archive/REIHI.pdf" target="_blank">Hacking, Ian (1936-)</a>, *Routledge Encyclopedia of Philosophy.* (2021-05)
-- <a href="http://philsci-archive.pitt.edu/18645/" target="_blank">The diversity-ability trade-off in scientific problem solving</a>, *Philosophy of Science* (PSA 2020/2021). (w/ Jaakko Kuorikoski) (2021-04)
-- <a href="http://philsci-archive.pitt.edu/17067/" target="_blank">Argumentative landscapes: the functions of models in social epistemology</a>, *Synthese*. (w/ Emrah Aydinonat and Petri Ylikoski) (2020-04)
-- <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">Self-nudging and the citizen choice architect</a>, *Behavioral Public Policy* (w/ Ralph Hertwig). (2020-03)
-- <a href="https://tuhat.helsinki.fi/ws/portalfiles/portal/136646649/reijula_ja_ylikoski2020_institutionaalinen_tietoteoria.pdf" target="_blank">Tutkijan vapaus institutionaalisen tietoteorian näkökulmasta</a>, in ed. K. Ekholm, E. Väliverronen 2020: Tieteen vapaus & tutkijan sananvapaus. Vastapaino, Finland. (w/ Petri Ylikoski)
 
 ### News
 
