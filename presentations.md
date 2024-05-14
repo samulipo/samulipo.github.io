@@ -6,14 +6,17 @@ permalink: /presentations/
 
 # Upcoming talks
 
+- 2024-11: Transient diversity between research groups. Philosophy of Science Association, Now Orleans.
+- 2024-07: Group problem solving: Diversity versus diffusion. COGSCI 2024, Rotterdam.
+- 2024-05: Euroscisci network meeting. 16TH Annual Conference of the International Network of Analytical Sociology, Leipzig.
 - 2024-02: TBA: REPIN/Centre de recherches historiques, Ecole des Hautes Etudes en Sciences Sociales, Paris.
+
+# Recent Talks
 - 2023-12: *The many functions of diversity in scientific problem solving.* Workshop on Computational Models in Social Epistemology. Ruhr University Bochum.
-- 2023-12: TBA. Mini-conference & book launch - Research Handbook on Nudge and Society. El-Erian Institute, University of Cambridge. (w/ Ralph Hertwig)
+- 2023-12: Chapter presentation. Mini-conference & book launch - Research Handbook on Nudge and Society. El-Erian Institute, University of Cambridge. (w/ Ralph Hertwig)
 - 2023-12: *The division of cognitive labor and the structure of interdisciplinary problems.* The theoretical foundations of interdisciplinarity symposium, Collegium for Advanced Studies, University of Helsinki.
 - 2023-11: *Self-nudging and the citizen choice architect.* Design matters. Conference on ‘Emerging Technologies and Behavioural-driven Designs.’ Erasmus University, Rotterdam.
 - 2023-10: *The division of cognitive labor and the structure of interdisciplinary problems.* Strategic Organization Design, University of Southern Denmark.
-
-# Recent Talks
 
 - 2023-09: *Calculemus! Robot scientists and the mechanization of scientific reasoning?* European Philosophy of Science Association, Belgrade (w/ Jaakko Kuorikoski) (<a href="/assets/reijula_calculemus.pdf" target="_blank">Poster</a>)
 - 2023-07: *The division of cognitive labor and the structure of interdisciplinary problems.* ISSI workshop "Reflecting on Interdisciplinary Teams", online talk.
