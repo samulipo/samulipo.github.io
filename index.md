@@ -21,6 +21,7 @@ In June 2022, together with Säde Hormio and Raul Hakli, I organized the first <
 Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden), I organize a series of workshops <a href="https://www.nordicscisci.net" target="_blank">Nordic Network for the Science of Science</a> (funded by NOS-HS, 2022-2023). In 2024, the nordic network transformed into the <a href="https://www.euroscisci.net" target="_blank">European Network for the Science of Science (EUROSCISCI)</a>. 
 
 ### Recent publications
+- **Persistent evidential discordance**, forthcoming in the *British Journal for the Philosophy of Science* (w/ Sofia Blanco Sequeiros) (2024-05)
 - <a href="https://osf.io/preprints/psyarxiv/35w76" target="_blank">Group problem solving: Diversity versus diffusion</a>, forthcoming in COGSCI 2024, Jonard, Nicolas, Samuli Reijula and Luigi Marengo (2024-05)
 - <a href="https://osf.io/preprints/socarxiv/g6m34" target="_blank">The emergence of computational social science: Intellectual integration or persistent fragmentation?</a>, preprint, Pääkkönen Juho, Matti Nelimerkka and Samuli Reijula (2024-03)
 - <a href="<i>Social Epistemology</i>" target="_blank">Universities as anarchic knowledge institutions</a>,  *Social Epistemology*. (w/ Säde Hormio) (2023-12)
