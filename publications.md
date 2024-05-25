@@ -43,6 +43,14 @@ permalink: /publications/
 
 <table class="pubs">
     <tr><td>
+        Reijula, Samuli and Sofia Blanco Sequeiros (forthcoming). <b>Persistent evidential discordance</b>, <i>the British Journal for the Philosophy of Science</i>.  
+        <br><span class="keyword">Keywords: <i>evidence; discordant evidence; line of evidence; inscription; metadata; replication</i></span>
+        <details>
+        <summary>Abstract</summary>
+        Successful replication is a hallmark of scientific truth. Discordant evidence refers to the situation where findings from different studies of the same phenomenon do not agree. Although eviden-tial discordance can spur scientific discovery, it also gives scientists a reason to rationally disa-gree and thereby compromises the formation of scientific consensus. Discordance indicates that facts about the phenomenon of interest remain unsettled and that a finding may not be reliably replicable. We single out persistent evidential discordance as a particularly difficult problem for the epistemology of science, and distinguish between different causes of evidential discordance – non-systematic error, noise, and bias. Unlike discordance brought about by non-systematic error or noise, persistent discordance often cannot be rationally resolved by temporarily sus-pending judgment and collecting more data within existing lines of inquiry. We suggest that the analysis of enriched lines of evidence (Boyd 2018) provides a useful approach to diagnosing and evaluating episodes of persistent evidential discordance. Attention to the line of evidence, which extends from raw data to an evidential claim supporting or disconfirming a hypothesis, can help researchers to locate the source of discordance between inconsistent findings. We argue that reference to metadata, information about how the data were generated and processed, can be a key step in the process of resolving normative questions of correctness, i.e., whether a line of evidence provides a legitimate answer to a particular research question. We illustrate our argu-ment with two cases: the alleged discovery of gravitational waves in the late 1960s, and the so-cial priming controversy in experimental psychology.
+        </details>
+    </td></tr>
+    <tr><td>
         Reijula, Samuli and Ralph Hertwig (2023). <b>Self-nudging and the citizen choice architect</b>. In Sunstein & Reisch (eds.) <i>Research Handbook on Nudges and Society</i>, 263-291. <a href="https://www.e-elgar.com/shop/gbp/research-handbook-on-nudges-and-society-9781035303021.html" target="_blank">[link]</a> 
         <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">[pdf]</a> 
         <br>(Originally published 2022 in <i>Behavioral Public Policy</i>) 
