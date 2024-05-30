@@ -42,7 +42,7 @@ permalink: /publications/
 ### 2024
 <table class="pubs">
     <tr><td>
-        Reijula, Samuli and Sofia Blanco Sequeiros (forthcoming). <b>Persistent evidential discordance</b>, <i>the British Journal for the Philosophy of Science</i>.  
+        Reijula, Samuli and Sofia Blanco Sequeiros (forthcoming). <b>Persistent evidential discordance</b>, <i>the British Journal for the Philosophy of Science</i>.  <a href="https://www.journals.uchicago.edu/doi/10.1086/731543" target="_blank">[pdf]</a>
         <br><span class="keyword">Keywords: <i>evidence; discordant evidence; line of evidence; inscription; metadata; replication</i></span>
         <details>
         <summary>Abstract</summary>
