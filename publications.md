@@ -49,6 +49,15 @@ permalink: /publications/
         Successful replication is a hallmark of scientific truth. Discordant evidence refers to the situation where findings from different studies of the same phenomenon do not agree. Although eviden-tial discordance can spur scientific discovery, it also gives scientists a reason to rationally disa-gree and thereby compromises the formation of scientific consensus. Discordance indicates that facts about the phenomenon of interest remain unsettled and that a finding may not be reliably replicable. We single out persistent evidential discordance as a particularly difficult problem for the epistemology of science, and distinguish between different causes of evidential discordance – non-systematic error, noise, and bias. Unlike discordance brought about by non-systematic error or noise, persistent discordance often cannot be rationally resolved by temporarily sus-pending judgment and collecting more data within existing lines of inquiry. We suggest that the analysis of enriched lines of evidence (Boyd 2018) provides a useful approach to diagnosing and evaluating episodes of persistent evidential discordance. Attention to the line of evidence, which extends from raw data to an evidential claim supporting or disconfirming a hypothesis, can help researchers to locate the source of discordance between inconsistent findings. We argue that reference to metadata, information about how the data were generated and processed, can be a key step in the process of resolving normative questions of correctness, i.e., whether a line of evidence provides a legitimate answer to a particular research question. We illustrate our argu-ment with two cases: the alleged discovery of gravitational waves in the late 1960s, and the so-cial priming controversy in experimental psychology.
         </details>
     </td></tr>
+    <tr><td>
+        Hormio, Säde and Samuli Reijula. (2024). <b>Ideal Institutional Epistemology</b>, <i>Social Epistemology Review and Reply Collective</i>.  <a href="https://wp.me/p1Bfg0-8Q2" target="_blank">[link]</a>
+        <br><span class="keyword">Keywords: <i>institutional epistemology; university</i></span>
+        <details>
+        <summary>Abstract</summary>
+        This is our response to <a href="https://wp.me/p1Bfg0-8Du" target="_blank">The Contemporary Research University: Freedom and Force</a>, Professor Sarah Rider's critical reply to our article <b>Universities as anarchic knowledge institutions.</b>
+        </details>
+    </td></tr>
+
 </table>
 
 ### 2023
