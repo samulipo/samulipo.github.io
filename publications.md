@@ -57,6 +57,14 @@ permalink: /publications/
         This is our response to <a href="https://wp.me/p1Bfg0-8Du" target="_blank">The Contemporary Research University: Freedom and Force</a>, Professor Sarah Rider's critical reply to our article <b>Universities as anarchic knowledge institutions.</b>
         </details>
     </td></tr>
+    <tr><td>
+        Vesterinen, Tuomas and Samuli Reijula. (2024). <b>Tieteiden filosofi: Ian Hacking (1936–2023)</b>, <i>Niin & Näin</i>, 24, 59-63.
+        <br><span class="keyword">Keywords: <i>Ian Hacking; obituary; looping effect; style of reasoning</i></span>
+        <details>
+        <summary>Abstract</summary>
+        Yksi 1900-luvun loppupuolen vaikutusvaltaisimmista ja monipuolisimmista filosofeista, kanadalainen Ian Hacking, menehtyi 10. toukokuuta 2023. Hackingin julkaisut avasivat uusia tutkimusalueita erityisesti tieteenfilosofiassa, mutta hänen vaikutuksensa ulottui myös laajemmin ihmistieteisiin, tieteen historian tutkimukseen sekä logiikan ja tilastotieteen filosofiaan. Hackingin tuotanto kattaa suuren määrän artikkeleita ja 13 kirjaa filosofian eri osa-alueilta. Hacking oli myös julkinen intellektuelli: vuosien 1986 ja 2013 välillä Hacking kirjoitti London Review of Books -lehteen 28 laajalle yleisölle suunnattua esseetä. Hackingin tyylille oli ominaista filosofisen tarkastelun kohdistaminen pelkän tieteellisen teoretisoinnin ja päättelyn sijasta tieteen käytäntöihin sekä kyky ylittää perinteisiä filosofian jakolinjoja, erityisesti mannermaisen ja analyyttisen filosofian välillä. Tämä teki hänestä tunnetun myös filosofian ulkopuolella.</b>
+        </details>
+    </td></tr>
 
 </table>
 
