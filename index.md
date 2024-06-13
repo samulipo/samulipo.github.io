@@ -23,9 +23,8 @@ Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden
 ### Recent publications
 - <a href="https://www.journals.uchicago.edu/doi/10.1086/731543" target="_blank">Persistent evidential discordance</a>, forthcoming in the *British Journal for the Philosophy of Science* (w/ Sofia Blanco Sequeiros) (2024-05)
 - <a href="https://osf.io/preprints/psyarxiv/35w76" target="_blank">Group problem solving: Diversity versus diffusion</a>, forthcoming in COGSCI 2024, Jonard, Nicolas, Samuli Reijula and Luigi Marengo (2024-05)
-- **Tieteiden filosofi: Ian Hacking (1936–2023)**, <i>Niin & Näin</i>, 24, 59-63
+- <a href="/assets/vesterinen_ja_reijula2024,ian_hacking.pdf" target="_blank">Tieteiden filosofi: Ian Hacking (1936–2023)</a>, <i>Niin & Näin</i>, 24, 59-63 w/ Tuomas Vesterinen
 - <a href="https://wp.me/p1Bfg0-8Q2" target="_blank">Ideal Institutional Epistemology</a>, *Social Epistemology Review and Reply Collective* w/ Säde Hormio (2024-05)
-- **Tieteiden filosofi: Ian Hacking (1936–2023)**, <i>Niin & Näin</i>, 24, 59-63
 - <a href="https://osf.io/preprints/socarxiv/g6m34" target="_blank">The emergence of computational social science: Intellectual integration or persistent fragmentation?</a>, preprint, Pääkkönen Juho, Matti Nelimerkka and Samuli Reijula (2024-03)
 - <a href="<i>Social Epistemology</i>" target="_blank">Universities as anarchic knowledge institutions</a>,  *Social Epistemology*. (w/ Säde Hormio) (2023-12)
 - <a href="https://osf.io/preprints/socarxiv/24dwn/" target="_blank">Self-nudging and the citizen choice architect</a>, reprinted in Sunstein & Reisch (eds.) *Research Handbook on Nudges and Society*. (w/ Ralph Hertwig). (2023-11)

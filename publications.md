@@ -58,7 +58,7 @@ permalink: /publications/
         </details>
     </td></tr>
     <tr><td>
-        Vesterinen, Tuomas and Samuli Reijula. (2024). <b>Tieteiden filosofi: Ian Hacking (1936–2023)</b>, <i>Niin & Näin</i>, 24, 59-63.
+        Vesterinen, Tuomas and Samuli Reijula. (2024). <b>Tieteiden filosofi: Ian Hacking (1936–2023)</b>, <i>Niin & Näin</i>, 24, 59-63. <a href="/assets/vesterinen_ja_reijula2024,ian_hacking.pdf" target="_blank">[pdf]</a>
         <br><span class="keyword">Keywords: <i>Ian Hacking; obituary; looping effect; style of reasoning</i></span>
         <details>
         <summary>Abstract</summary>
