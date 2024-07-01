@@ -3,11 +3,6 @@ layout: page
 title: teaching
 permalink: /teaching/
 ---
-<script>
-    document.addEventListener('DOMContentLoaded', (event) => {
-        alert('JS test');
-    });
-</script>
 ### Current teaching
 
 - Autumn 2023: "Building blocks for institutional epistemology" w/ Petri Ylikoski. University of Helsinki (5 cr) 
