@@ -8,27 +8,13 @@ permalink: /publications/
 
 <table class="pubs">
     <tr><td>
-        Jonard, Nicolas, Samuli Reijula and Luigi Marengo (forthcoming in COGSCI 2024). <b>Group problem solving: Diversity versus diffusion</b> <a href="https://osf.io/preprints/psyarxiv/35w76" target="_blank">[PsyArXiv]</a>
-        <br><span class="keyword">Keywords: <i>group problem solving; cognitive diversity; structural isolation; agent-based simulation</i></span>
-        <details>
-        <summary>Abstract</summary>
-        Several recent contributions to the research on group problem solving suggest that reducing the connectivity between agents in a social network may be epistemically beneficial. This notion stems from the idea that collective problem-solving behavior may benefit from the transient diversity in agents' beliefs due to increased individual exploration and decreased social influence. At the same time, however, lower connectivity hinders the diffusion of good solutions between network members. Our simulation findings shed light on this trade-off. We identify conditions under which the less-is-more effect is likely to manifest. Our findings suggest that a community consisting of semi-isolated groups could provide an answer to the tension between diversity and diffusion.
-        </details>
-    </td></tr>
-</table>
-
-<table class="pubs">
-    <tr><td>
-        Pääkkönen Juho, Matti Nelimerkka and Samuli Reijula (under review). <b>The emergence of computational social science: Intellectual integration or persistent fragmentation?</b> <a href="https://osf.io/preprints/socarxiv/g6m34" target="_blank">[SocArxiv]</a>
+        Pääkkönen Juho, Matti Nelimarkka and Samuli Reijula (under review). <b>The emergence of computational social science: Intellectual integration or persistent fragmentation?</b> <a href="https://osf.io/preprints/socarxiv/g6m34" target="_blank">[SocArxiv]</a>
         <br><span class="keyword">Keywords: <i>computational social science; intellectual integration;  interdisciplinarity; co-citation analysis; cohesion</i></span>
         <details>
         <summary>Abstract</summary>
         Has the emerging field of computational social science grown increasingly intellectually integrated with the passage of time, or does the field remain fragmented into several distinct epistemic communities? Because research-based literature is still inconclusive in this regard, the authors exploited scientific-citations and co-citation data to study the development of computational social science's intellectual structure. The findings suggest that network science has maintained centrality over the years. Contrary to common perceptions however, the field has not become more integrated over time. Rather, the network of co-citation among the field's key authors exhibits ever more extensive clustering and greater average path length over 2000-2020, indicating that the discipline is fracturing into various sub-communities, with loose connections to each other.
         </details>
     </td></tr>
-</table>
-
-<table class="pubs">
     <tr><td>
         Kuorikoski, Jaakko and Samuli Reijula. <b>Making it count. An inferentialist account of computer simulation</b> <a href="https://osf.io/preprints/socarxiv/v9bmr" target="_blank">[pdf]</a>
         <br><span class="keyword">Keywords: <i>inferentialism; scientific representation; computer simulation; similarity</i></span>
@@ -41,6 +27,14 @@ permalink: /publications/
 
 ### 2024
 <table class="pubs">
+    <tr><td>
+        Jonard, Nicolas, Samuli Reijula and Luigi Marengo (2024). <b>Group problem solving: Diversity versus diffusion</b>, in L. K. Samuelson, S. L. Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.),<i>Proceedings of the 46th Annual Conference of the Cognitive Science Society</i> <a href="https://escholarship.org/uc/item/0zq5j37r" target="_blank">[eScholarship]</a> <a href="https://osf.io/preprints/psyarxiv/35w76" target="_blank">[PsyArXiv]</a>
+        <br><span class="keyword">Keywords: <i>group problem solving; cognitive diversity; structural isolation; agent-based simulation</i></span>
+        <details>
+        <summary>Abstract</summary>
+        Several recent contributions to the research on group problem solving suggest that reducing the connectivity between agents in a social network may be epistemically beneficial. This notion stems from the idea that collective problem-solving behavior may benefit from the transient diversity in agents' beliefs due to increased individual exploration and decreased social influence. At the same time, however, lower connectivity hinders the diffusion of good solutions between network members. Our simulation findings shed light on this trade-off. We identify conditions under which the less-is-more effect is likely to manifest. Our findings suggest that a community consisting of semi-isolated groups could provide an answer to the tension between diversity and diffusion.
+        </details>
+    </td></tr>
     <tr><td>
         Reijula, Samuli and Sofia Blanco Sequeiros (forthcoming). <b>Persistent evidential discordance</b>, <i>the British Journal for the Philosophy of Science</i>.  <a href="https://www.journals.uchicago.edu/doi/10.1086/731543" target="_blank">[pdf]</a> <a href="https://philsci-archive.pitt.edu/23569/" target="_blank">[pdf, open access]</a>
         <br><span class="keyword">Keywords: <i>evidence; discordant evidence; line of evidence; inscription; metadata; replication</i></span>
