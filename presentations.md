@@ -7,6 +7,7 @@ permalink: /presentations/
 # Upcoming talks
 
 - 2024-11: Transient diversity between research groups. Philosophy of Science Association, New Orleans.
+- 2024-09: Behavioral policy for self-governance. <a href="https://tint-helsinki.fi/?p=1299" target="_blank">Agency, Preference and Welfare workshop</a>, University of Helsinki
 - 2024-07: Group problem solving: Diversity versus diffusion. COGSCI 2024, Rotterdam.
 - 2024-05: Euroscisci network meeting. 16th Annual Conference of the International Network of Analytical Sociology, Leipzig.
 - 2024-02: Taking the power back? Nudging, self-nudging, and internal conflict: REPIN/Centre de recherches historiques, Ecole des Hautes Etudes en Sciences Sociales, Paris.
