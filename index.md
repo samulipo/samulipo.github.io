@@ -34,6 +34,7 @@ Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden
 
 ### News
 
+- [Interview in philosophy magazine Paatos]({% post_url 2024-09-27-engineers-philosophers %}) (2024-09)
 - [Visiting CMU in Oct-Nov 2024]({% post_url 2024-09-14-visiting-cmu %}) (2024-09)
 - [On the idea of Bildung university]({% post_url 2024-09-14-bildung-university %}) (2024-09)
 - "Persistential evidential discordance" accepted in the BJPS (2024-05)
