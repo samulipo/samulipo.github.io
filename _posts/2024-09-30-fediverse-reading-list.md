@@ -16,4 +16,10 @@ Bluesky docs on [A Self-Authenticating Social Protocol](https://bsky.social/abou
 
 ...
 
+### podcasts
+
+Waveform podcast: [Protocol Wars - The Fediverse Explained!](https://www.youtube.com/watch?v=-R9CWq5CBlk)
+
+* this was an excellent intro
+
 <!--more-->
