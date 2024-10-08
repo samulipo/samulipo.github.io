@@ -18,7 +18,7 @@ I have a couple of reasons why I care. First, I've realised I have a long histor
 
 ## Middleware
 
-One interesting aspect of decentralized architecture is that different functions in the network can be taken care of by different service provides. For example, the work of filtering content for viewers can be done by parties separate from those who maintain the instances themselves. This enocourages people to build different views/filters on the content. Ultimately, we're not subject to one Algorithm, but instead, everyone gets to decide what shows up in their timeline. Bluesky has implemented this as Feeds, and I like it a lot. 
+One interesting aspect of decentralized architecture is that different functions in the network can be taken care of by different service provides. For example, the work of filtering content for viewers can be done by parties separate from those who maintain the instances themselves. This has interesting implications on moderation and the way people's timelines are generated. It enocourages people to build different views on the content posted on the network. Importantly, we're not subject to one Algorithm, but instead, everyone gets to decide what shows up in their timeline. Bluesky has implemented this as Feeds, and I like it a lot. 
 
 # Resources 
 
