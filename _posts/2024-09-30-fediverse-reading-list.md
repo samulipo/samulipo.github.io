@@ -18,9 +18,13 @@ Email is a useful analogy: Just as we don't all use the same email service, but 
 
 ## Middleware
 
-An important aspect of decentralized architecture is that different functions in the network can be taken care of by different service provides. For example, the work of filtering content for readers/viewers can be done by parties separate from those who host the data, and the apps people use to access the content. This has interesting implications on moderation and the way people's timelines are generated. It encourages people to build different views on the content posted on the network. In other words, we're not subject to one Algorithm, but instead, everyone gets to decide what shows up in their timeline. Bluesky has implemented this as Feeds, and I like it a lot. 
+An important aspect of decentralized architecture is that different functions in the network can be taken care of by different service provides. For example, the work of filtering content for readers/viewers can be done by parties separate from those who host the data, and the apps people use to access the content. This has interesting implications on moderation and the way people's timelines are generated. It encourages people to build different views on the content posted on the network. In other words, we're not subject to one opaque Algorithm, but instead, everyone gets to decide what shows up in their timeline. Bluesky has implemented this as Feeds, and I like it a lot. 
 
-## Resources 
+## Incomplete thoughs
+
+Mastodon seems to built on the premise that we all have our communities, and you're supposed to join the instance corresponding to that community. But I've got many, and I think most exciting things happen in the boundaries between those. Mastodon does not seem to be ideal for that kind of boundary crossing.
+
+# Resources 
 
 Masnick 2019. [Protocols, not platforms: A technological approach to free speech](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech)
 
@@ -31,6 +35,9 @@ Journal of democracy issue on ["The future of platform power"](https://www.journ
 Bluesky docs on [A Self-Authenticating Social Protocol](https://bsky.social/about/blog/3-6-2022-a-self-authenticating-social-protocol)
 
 ...
+
+
+
 
 ### Podcasts & video
 

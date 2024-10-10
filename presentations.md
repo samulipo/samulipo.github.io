@@ -6,18 +6,20 @@ permalink: /presentations/
 
 # Upcoming talks
 
-- 2024-11: Transient diversity between research groups. Philosophy of Science Association, New Orleans.
+- 2024-11: Transient diversity between research groups. Philosophy of Science Association, New Orleans
+- 2024-11: Modeling cognitive diversity in group problem solving. Pittsburgh Formal Epistemology Workshop
 - 2024-09: Behavioral policy for self-governance. <a href="https://tint-helsinki.fi/?p=1299" target="_blank">Agency, Preference and Welfare workshop</a>, University of Helsinki
-- 2024-07: Group problem solving: Diversity versus diffusion. COGSCI 2024, Rotterdam.
-- 2024-05: Euroscisci network meeting. 16th Annual Conference of the International Network of Analytical Sociology, Leipzig.
-- 2024-02: Taking the power back? Nudging, self-nudging, and internal conflict: REPIN/Centre de recherches historiques, Ecole des Hautes Etudes en Sciences Sociales, Paris.
+- 2024-07: Group problem solving: Diversity versus diffusion. COGSCI 2024, Rotterdam
+
 
 # Recent Talks
-- 2023-12: *The many functions of diversity in scientific problem solving.* Workshop on Computational Models in Social Epistemology. Ruhr University Bochum.
-- 2023-12: Chapter presentation. Mini-conference & book launch - Research Handbook on Nudge and Society. El-Erian Institute, University of Cambridge. (w/ Ralph Hertwig)
-- 2023-12: *The division of cognitive labor and the structure of interdisciplinary problems.* The theoretical foundations of interdisciplinarity symposium, Collegium for Advanced Studies, University of Helsinki.
-- 2023-11: *Self-nudging and the citizen choice architect.* Design matters. Conference on ‘Emerging Technologies and Behavioural-driven Designs.’ Erasmus University, Rotterdam.
-- 2023-10: *The division of cognitive labor and the structure of interdisciplinary problems.* Strategic Organization Design, University of Southern Denmark.
+- 2024-05: Euroscisci network meeting. 16th Annual Conference of the International Network of Analytical Sociology, Leipzig
+- 2024-02: Taking the power back? Nudging, self-nudging, and internal conflict: REPIN/Centre de recherches historiques, Ecole des Hautes Etudes en Sciences Sociales, Paris
+- 2023-12: *The many functions of diversity in scientific problem solving.* Workshop on Computational Models in Social Epistemology. Ruhr University Bochum
+- 2023-12: Chapter presentation. Mini-conference & book launch - Research Handbook on Nudge and Society. El-Erian Institute, University of Cambridge (w/ Ralph Hertwig)
+- 2023-12: *The division of cognitive labor and the structure of interdisciplinary problems.* The theoretical foundations of interdisciplinarity symposium, Collegium for Advanced Studies, University of Helsinki
+- 2023-11: *Self-nudging and the citizen choice architect.* Design matters. Conference on ‘Emerging Technologies and Behavioural-driven Designs.’ Erasmus University, Rotterdam
+- 2023-10: *The division of cognitive labor and the structure of interdisciplinary problems.* Strategic Organization Design, University of Southern Denmark
 
 - 2023-09: *Calculemus! Robot scientists and the mechanization of scientific reasoning?* European Philosophy of Science Association, Belgrade (w/ Jaakko Kuorikoski) (<a href="/assets/reijula_calculemus.pdf" target="_blank">Poster</a>)
 - 2023-07: *The division of cognitive labor and the structure of interdisciplinary problems.* ISSI workshop "Reflecting on Interdisciplinary Teams", online talk.
