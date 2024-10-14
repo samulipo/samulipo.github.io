@@ -8,7 +8,7 @@ permalink: /presentations/
 
 - 2024-11: Transient diversity between research groups. Philosophy of Science Association, New Orleans
 - 2024-11: Modeling cognitive diversity in group problem solving. Pittsburgh Formal Epistemology Workshop
-- 2024-10: Debate: Elements of digital humanities. University of Helsinki.
+- 2024-10: Debate: Elements of digital humanities. University of Helsinki
 - 2024-09: Behavioral policy for self-governance. <a href="https://tint-helsinki.fi/?p=1299" target="_blank">Agency, Preference and Welfare workshop</a>, University of Helsinki
 - 2024-07: Group problem solving: Diversity versus diffusion. COGSCI 2024, Rotterdam
 
