@@ -20,7 +20,12 @@ Email is a useful analogy: Just as we don't all use the same email service, but 
 
 An important aspect of decentralized architecture is that different functions in the network can be taken care of by different service provides. For example, the work of filtering content for readers/viewers can be done by parties separate from those who host the data, and the apps people use to access the content. This has interesting implications on moderation and the way people's timelines are generated. It encourages people to build different views on the content posted on the network. In other words, we're not subject to one opaque Algorithm, but instead, everyone gets to decide what shows up in their timeline. Bluesky has implemented this as Feeds, and I like it a lot. 
 
+No ads (unless you use a service that has them), no microtargeting - no fear that by watching a random video one second too long you trigger a tsunami of similar content in your timeline. 
+
+
 ## Incomplete thoughs
+
+One benefit of decentralization is that there can be actual people who run the server you use. So if you run into trouble, you can actually ask someone (ever contacted Facebook customer service when you have a problem?). 
 
 Mastodon seems to built on the premise that we all have our communities, and you're supposed to join the instance corresponding to that community. But I've got many, and I think most exciting things happen in the boundaries between those. Mastodon does not seem to be ideal for that kind of boundary crossing.
 
