@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-<img class="pull-right" src="/assets/reijula-2023-09.jpg"  alt="Samuli Reijula. Photo by Veikko Somerpuro" title="Samuli Reijula. Photo by Veikko Somerpuro"/>
+<img class="pull-right" src="/assets/reijula-2024-10.jpg"  alt="Samuli Reijula staring at the ceiling" title="Samuli Reijula staring at the ceiling"/>
 
 **Samuli Reijula (né Pöyhönen)**
 
