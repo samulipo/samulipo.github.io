@@ -8,6 +8,16 @@ permalink: /publications/
 
 <table class="pubs">
     <tr><td>
+        Pesonen, Renne and Samuli Reijula (under review). <b>Would you pass the Turing Test? Mirroring human intelligence with large language models</b> [PsyArxiv]
+        <br><span class="keyword">Keywords: <i>large language models; intelligence; understanding; creativity</i></span>
+        <details>
+        <summary>Abstract</summary>
+        Can large language models be considered intelligent? Arguments against this proposition often assume that genuine intelligence cannot exist without consciousness, understanding, or creative thinking. We discuss each of these roadblocks to machine intelligence and conclude that, in light of findings and conceptualizations in scientific research on these topics, none of them rule out the possibility of viewing current AI systems based on large language models as intelligent. We argue that consciousness is not relevant for AI, while creativity and understanding should be considered functional traits that, in principle, can be implemented in a machine. Many arguments in circulation that claim current AI systems necessarily lack these traits either rely on human exceptionalism or mistaken understanding of human intelligence. Arguments that highlight alleged flaws in current systems—such as a lack of reliability, agency, or understanding—may be important, but they often obscure the many qualitative similarities between human cognition and current AI models. We further suggest that a critical examination of high-performance AI systems can serve as a mirror through which we can reflect on our own intelligence. Many arguments against the prospects of AI may prove disconcerting for naively optimistic assessments of capacities of the human mind.
+        </details>
+    </td></tr>
+
+<table class="pubs">
+    <tr><td>
         Pääkkönen Juho, Matti Nelimarkka and Samuli Reijula (under review). <b>The emergence of computational social science: Intellectual integration or persistent fragmentation?</b> <a href="https://osf.io/preprints/socarxiv/g6m34" target="_blank">[SocArxiv]</a>
         <br><span class="keyword">Keywords: <i>computational social science; intellectual integration;  interdisciplinarity; co-citation analysis; cohesion</i></span>
         <details>
