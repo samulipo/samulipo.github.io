@@ -8,7 +8,7 @@ permalink: /publications/
 
 <table class="pubs">
     <tr><td>
-        Pesonen, Renne and Samuli Reijula (under review). <b>Would you pass the Turing Test? Mirroring human intelligence with large language models</b> [PsyArxiv]
+        Pesonen, Renne and Samuli Reijula (under review). <b>Would you pass the Turing Test? Mirroring human intelligence with large language models</b> <a href="https://osf.io/preprints/osf/er8dg" target="_blank">[PsyArxiv]</a>
         <br><span class="keyword">Keywords: <i>large language models; intelligence; understanding; creativity</i></span>
         <details>
         <summary>Abstract</summary>

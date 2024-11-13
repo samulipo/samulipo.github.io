@@ -21,6 +21,7 @@ In June 2022, together with Säde Hormio and Raul Hakli, I organized the first <
 Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden), I organize a series of workshops <a href="https://www.nordicscisci.net" target="_blank">Nordic Network for the Science of Science</a> (funded by NOS-HS, 2022-2023). In 2024, the nordic network transformed into the <a href="https://www.euroscisci.net" target="_blank">European Network for the Science of Science (EUROSCISCI)</a>. 
 
 ### News
+- [A new preprint (w/ Renne Pesonen): *Would you pass the Turing Test? Mirroring human intelligence with large language models*](./publications.md)
 - [A reading list on fediverse]({% post_url 2024-09-30-fediverse-reading-list %}) (2024-09)
 - [Interview in philosophy magazine Paatos]({% post_url 2024-09-27-engineers-philosophers %}) (2024-09)
 - [Visiting CMU in Oct-Nov 2024]({% post_url 2024-09-14-visiting-cmu %}) (2024-09)
