@@ -8,7 +8,7 @@ permalink: /contact/
 {: .centered_text}
 <a href="https://scholar.google.fi/citations?user=piH1k6EAAAAJ&hl=en" target="_blank">google scholar</a>     
 <a href="https://philpapers.org/profile/34787" target="_blank">philpapers</a>   
-bluesky: <a href="https://bsky.app/profile/samulireijula.bsky.social" target="_blank">@samulireijula.bsky.social</a>  
+bluesky: <a href="https://bsky.app/profile/samulireijula.net" target="_blank">@samulireijula.net</a>  
 mastodon: <a rel="me" href="https://fediscience.org/@samulireijula">fediscience.org/@samulireijula</a>
 twitter: <a href="https://twitter.com/samulipo" target="_blank">samulipo</a>  
 github: <a href="https://github.com/samulipo/" target="_blank">samulipo</a>  

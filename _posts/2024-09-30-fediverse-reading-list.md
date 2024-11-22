@@ -22,12 +22,44 @@ An important aspect of decentralized architecture is that different functions in
 
 No ads (unless you use a service that has them), no microtargeting - no fear that by watching a random video one second too long you trigger a tsunami of similar content in your timeline. 
 
+## ActivityPub (= Mastodon world)
+
+...
+
+## AT Protocol (Bluesky)
+
+...
+
+## Truth and trust
+
+# Maine
+Episteemisen eroosion/rappeutumisen vastaan taistelu edellyttää ehkä tieteestä tutun käytännön käyttöönottoa, uuteen teknologiaan nojaten
+
+Tutkija kerryttää uskottavuuttaan ja mainetta vuosikymmeniä. Ja varjelee sitä. Siksi on puhuttava totta. 
+
+Tätä me yleisemminkin halutaan: jos puheenvuorot allekirjoitetaan luotettavasti, … 
+
+Lisää tämä jakso sinne fediverse-postaukseen
+
+Signing is a rudimentary accountability mechanism
+
+(ks. Kevin kellyn blogipost)
+
 
 ## Incomplete thoughs
 
 One benefit of decentralization is that there can be actual people who run the server you use. So if you run into trouble, you can actually ask someone (ever contacted Facebook customer service when you have a problem?). 
 
 Mastodon seems to built on the premise that we all have our communities, and you're supposed to join the instance corresponding to that community. But I've got many, and I think most exciting things happen in the boundaries between those. Mastodon does not seem to be ideal for that kind of boundary crossing.
+
+
+# fediverse about interoperability
+
+The right of exit and the freedom of reach (the principle that anyone can talk to anyone who wants to talk to them) are both key to technological self-determination. (Doctorow [Pluralistic: What the fediverse \(does/n’t\) solve \(23 Dec 2022\) – Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2022/12/23/semipermeable-membranes/#free-as-in-puppies))
+
+#fediverse
+
+
 
 # Resources 
 
@@ -39,6 +71,7 @@ Journal of democracy issue on ["The future of platform power"](https://www.journ
 
 Bluesky docs on [A Self-Authenticating Social Protocol](https://bsky.social/about/blog/3-6-2022-a-self-authenticating-social-protocol)
 
+Clear [summary](https://whtwnd.com/alexia.bsky.cyrneko.eu/3l727v7zlis2i) by @alexia.bsky.cyrneko.eu
 ...
 
 

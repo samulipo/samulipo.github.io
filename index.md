@@ -22,7 +22,7 @@ Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden
 
 ### News
 - [A new preprint (w/ Renne Pesonen): *Would you pass the Turing Test? Mirroring human intelligence with large language models*](./publications.md) (2024-11)
-- My opinion piece "[Public authorities should leave X](https://suomenkuvalehti.fi/mielipide/julkishallinto-pois-pikaviestipalvelu-xsta-kirjoittaa-samuli-reijula/)" published in Suomen Kuvalehti
+- My opinion piece "[Public authorities should leave X](https://suomenkuvalehti.fi/mielipide/julkishallinto-pois-pikaviestipalvelu-xsta-kirjoittaa-samuli-reijula/)" published in Suomen Kuvalehti (2024-11)
 - [A reading list on fediverse]({% post_url 2024-09-30-fediverse-reading-list %}) (2024-09)
 - [Interview in philosophy magazine Paatos]({% post_url 2024-09-27-engineers-philosophers %}) (2024-09)
 - [Visiting CMU in Oct-Nov 2024]({% post_url 2024-09-14-visiting-cmu %}) (2024-09)
