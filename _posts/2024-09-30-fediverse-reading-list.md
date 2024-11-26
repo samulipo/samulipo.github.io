@@ -30,20 +30,13 @@ No ads (unless you use a service that has them), no microtargeting - no fear tha
 
 ...
 
-## Truth and trust
+## Reputation, trust and truth
 
-# Maine
-Episteemisen eroosion/rappeutumisen vastaan taistelu edellyttää ehkä tieteestä tutun käytännön käyttöönottoa, uuteen teknologiaan nojaten
+Deepfakes are a race we will not win, if detecting them has to be based on content only. I think fighting epistemic erosion may require introducing accountability practices familiar from other domains. In science (and media, I guess), for example, reputation building is a career-long project. Reputation is often described as the capital of the scientific community. Being recognized as truthful is a necessary condition for having a good reputation. Being listed as an author of an article both gives you credit, but also assigns a responsibility. If claims made in the article are false, it's you, the authors who are to blame. 
 
-Tutkija kerryttää uskottavuuttaan ja mainetta vuosikymmeniä. Ja varjelee sitä. Siksi on puhuttava totta. 
+Something similar can be implemented on social media: Bluesky posts are already immutable objects signed with your identity. If, in addition, there's scarcity of identities - you cannot generate more at will - we end in a credit economy similar to the one described above: your activities on social media contribute to your reputation, and reputation is what you care about. If you post deepfakes as real content, that's going wreck your reputation. Reliabley sigatures on content is a rudimentary accountability mechanism, I think we need it.
 
-Tätä me yleisemminkin halutaan: jos puheenvuorot allekirjoitetaan luotettavasti, … 
-
-Lisää tämä jakso sinne fediverse-postaukseen
-
-Signing is a rudimentary accountability mechanism
-
-(ks. Kevin kellyn blogipost)
+That said, all this comes at a cost to anonymity. It would still be possible to have anonymous accounts, as long as there's limited supply to generating them. 
 
 
 ## Incomplete thoughs
@@ -53,12 +46,9 @@ One benefit of decentralization is that there can be actual people who run the s
 Mastodon seems to built on the premise that we all have our communities, and you're supposed to join the instance corresponding to that community. But I've got many, and I think most exciting things happen in the boundaries between those. Mastodon does not seem to be ideal for that kind of boundary crossing.
 
 
-# fediverse about interoperability
+## Right of exit and freedom of reach (doctorow)
 
 The right of exit and the freedom of reach (the principle that anyone can talk to anyone who wants to talk to them) are both key to technological self-determination. (Doctorow [Pluralistic: What the fediverse \(does/n’t\) solve \(23 Dec 2022\) – Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2022/12/23/semipermeable-membranes/#free-as-in-puppies))
-
-#fediverse
-
 
 
 # Resources 
