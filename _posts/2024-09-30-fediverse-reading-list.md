@@ -6,7 +6,7 @@ categories: fediverse reading_list
 
 I've become increasingly interested in the fediverse. Thinking in terms of protocols instead of privately owned platforms could give us ways to address some of the epistemic challenges associated with the new AI-structured information landscape. My plan is to write something on this later on, but I'll start by gradually compiling a reading list on both technical and more conceptual thinking on the fediverse. I've been asking recommendations on social media on what to read.
 
-The Fediverse is a new name for an old idea. From the beginning, the internet has been a network of networks, made possible by agreeing on shared protocols used for communication between machines (TCP/IP and so on). It's only in the past two decades or so that we've become used to the social web being based on closed, proprietary platforms like Facebook or Twitter. The idea behind the Fediverse is to bring the social web back to a decentralized model: protocols like ActivityPub or Bluesky's AT Protocol make inter-service sharing possible.
+The Fediverse is a new name for an old idea. From the beginning, the internet has been a network of networks, made possible by agreeing (only) on shared protocols used for communication between machines (TCP/IP and so on). It's only in the past two decades or so that we've become used to the social web being based on closed, proprietary platforms like Facebook or Twitter. The idea behind the Fediverse is to bring the social web back to a decentralized model: protocols like ActivityPub or Bluesky's AT Protocol make inter-service sharing possible.
 
 <!--more-->
 
@@ -32,11 +32,13 @@ No ads (unless you use a service that has them), no microtargeting - no fear tha
 
 ## Reputation, trust and truth
 
-Deepfakes are a race we will not win, if detecting them has to be based on content only. I think fighting epistemic erosion may require introducing accountability practices familiar from other domains. In science (and media, I guess), for example, reputation building is a career-long project. Reputation is often described as the capital of the scientific community. Being recognized as truthful is a necessary condition for having a good reputation. Being listed as an author of an article both gives you credit, but also assigns a responsibility. If claims made in the article are false, it's you, the authors who are to blame. 
+Deepfakes are a race we will not win, if detecting them has to be based on content only. As the detection algorithms become more advanced, so do the deepfakes. The amount of work needed to distinguish between real and fake will exceed our resources. That's why I think fighting epistemic erosion may require re-introducing some familiar accountability practices. Like an electronic version of the wax seal. 
 
-Something similar can be implemented on social media: Bluesky posts are already immutable objects signed with your identity. If, in addition, there's scarcity of identities - you cannot generate more at will - we end in a credit economy similar to the one described above: your activities on social media contribute to your reputation, and reputation is what you care about. If you post deepfakes as real content, that's going wreck your reputation. Reliabley sigatures on content is a rudimentary accountability mechanism, I think we need it.
+In science (and media, I suppose), reputation building is a career-long project. Reputation is often described as the capital of the scientific community. Being recognized as truthful is a necessary condition for establishing trust, and for having a good reputation within the community. Being listed as an author of an article both gives you credit, but it also assigns a responsibility. If claims made in the article are false, it's you, it's the authors who are to blame. 
 
-That said, all this comes at a cost to anonymity. It would still be possible to have anonymous accounts, as long as there's limited supply to generating them. 
+Something similar can be implemented on social media: Bluesky posts are already immutable objects signed with your user identity. If, in addition, there's scarcity of identities - meaning you cannot generate more at will and at negligible cost - we could create a credit economy similar to the one in science: your activities on social media contribute to your reputation, and all of us must care about our reputation. If you post deepfakes as real content, that's going wreck your reputation and credibility. Reliable sigatures on content is a rudimentary accountability mechanism, I think we need it.
+
+That said, all this comes at a cost to anonymity, which also is important in some situations. And it can be fun. But I guess we could still have anonymous accounts, as long as there's a limited supply for generating them. 
 
 
 ## Incomplete thoughs
