@@ -225,7 +225,7 @@ Reijula, Samuli & Jaakko Kuorikoski (2019). **Modeling epistemic communities**, 
 
 Kyanoush Seyed Yahosseini, Samuli Reijula, Lucas Molleman & Mehdi Moussaıd (2018)
 **Social information can undermine individual performance in exploration-exploitation tasks.** *COGSCI 2018: 40th Annual Conference of the Cognitive Science Society*, 2470-2475.
-<a href="https://psyarxiv.com/upv8k" target="_blank">[pdf]</a>
+<a href="https://escholarship.org/uc/item/11t25951" target="_blank">[pdf]</a>
 
 Reijula, Samuli; Timo Ehrig; Konstantinos Katsikopoulos; Jaakko Kuorikoski; Shyam Sunder (2018). **Nudge, Boost or Design? Limitations of behavioral policy under social interaction.** *The Journal of Behavioral Economics for Policy*, 2(1), 99-105.
 <a href="https://osf.io/preprints/socarxiv/zh3qw" target="_blank">[pdf]</a>
