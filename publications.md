@@ -34,7 +34,16 @@ permalink: /publications/
 </table>
 
 ### 2024
+
 <table class="pubs">
+     <tr><td>
+        Reijula, Samuli (2024). <b>Ongelmanratkaisua moniäänisissä ryhmissä (Problem solving in diverse groups)</b>, <i>Tietoasiantuntija 5/2024</i> <a href="https://www.journals.uchicago.edu/doi/10.1086/731543" target="_blank">[pdf]</a>
+        <br><span class="keyword">Keywords: <i>ongelmanratkaisu; diversiteetti</i></span>
+        <details>
+        <summary>Abstract</summary>
+        Suuri osa ihmiskunnan kohtaamista aidosti tärkeistä ongelmista on sellaisia, ettei yksittäinen ihminen niitä pysty ratkaisemaan. Ryhmäongelmanratkaisua koskevan tutkimuksen mukaan ryhmän diversiteetti, sen jäsenten erilaisuus, vaikuttaa merkittävällä tavalla ryhmän suoriutumiseen ongelmanratkaisutehtävissä. Joidenkin tutkimustulosten mukaan diversiteetti saattaa olla jopa ryhmän yksittäisten jäsenten kyvykkyyttä tärkeämpää. Diversiteetin etujen saavuttaminen kuitenkin edellyttää ryhmädynamiikan huolellista hallintaa
+        </details>
+    </td></tr>
     <tr><td>
         Jonard, Nicolas, Samuli Reijula and Luigi Marengo (2024). <b>Group problem solving: Diversity versus diffusion</b>, in L. K. Samuelson, S. L. Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.),<i>Proceedings of the 46th Annual Conference of the Cognitive Science Society</i> <a href="https://escholarship.org/uc/item/0zq5j37r" target="_blank">[eScholarship]</a> <a href="https://osf.io/preprints/psyarxiv/35w76" target="_blank">[PsyArXiv]</a>
         <br><span class="keyword">Keywords: <i>group problem solving; cognitive diversity; structural isolation; agent-based simulation</i></span>
