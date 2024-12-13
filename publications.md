@@ -37,7 +37,7 @@ permalink: /publications/
 
 <table class="pubs">
      <tr><td>
-        Reijula, Samuli (2024). <b>Ongelmanratkaisua moniäänisissä ryhmissä (Problem solving in diverse groups)</b>, <i>Tietoasiantuntija 5/2024</i> <a href="https://www.journals.uchicago.edu/doi/10.1086/731543" target="_blank">[pdf]</a>
+        Reijula, Samuli (2024). <b>Ongelmanratkaisua moniäänisissä ryhmissä (Problem solving in diverse groups)</b>, <i>Tietoasiantuntija 5/2024</i> <a href="https://www.tietojohtaminen.com/sites/default/files/tietoasiantuntija_5_2024_reijula_ongelmanratkaisua_moniaanisissa_ryhmissa.pdf" target="_blank">[pdf]</a>
         <br><span class="keyword">Keywords: <i>ongelmanratkaisu; diversiteetti</i></span>
         <details>
         <summary>Abstract</summary>
