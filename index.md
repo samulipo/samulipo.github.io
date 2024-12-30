@@ -16,7 +16,7 @@ I'm currently (2020-2025) on research leave as an Academy of Finland research fe
 
 I am also interested in **cognitive diversity**, coping with **uncertainty**, **epistemology of simulation modeling**, foundations of **scientific classification**, as well as issues related to the **(cognitive) science of science**, **scientific discovery**, **science policy**, **evidence-based policy**, <a href="https://www.scienceofboosting.org/" target="_blank">boosting</a>, and <a href="https://en.wikipedia.org/wiki/Bildung" target="_blank">Bildung</a> in all its forms.
 
-In June 2022, together with Säde Hormio and Raul Hakli, I organized the first <a href="https://blogs.helsinki.fi/institutional-epistemology/" target="_blank">Institutional epistemology workshop</a> at the University of Helsinki. <a href="https://www.institutionalepistemology.net" target="_blank">INES2023</a> took place in June 2023.
+In June 2022, together with Säde Hormio and Raul Hakli, I organized the first <a href="https://social-epistemology.com/2024/05/27/ideal-institutional-epistemology-sade-hormio-and-samuli-reijula/" target="_blank">Institutional epistemology</a> workshop at the University of Helsinki. <a href="https://www.institutionalepistemology.net" target="_blank">INES2023</a> took place in June 2023.
 
 Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden), I organize a series of workshops <a href="https://www.nordicscisci.net" target="_blank">Nordic Network for the Science of Science</a> (funded by NOS-HS, 2022-2023). In 2024, the nordic network transformed into the <a href="https://www.euroscisci.net" target="_blank">European Network for the Science of Science (EUROSCISCI)</a>. 
 
@@ -37,7 +37,6 @@ Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden
 
 ### Recent publications
 - <a href="https://www.tietojohtaminen.com/sites/default/files/tietoasiantuntija_5_2024_reijula_ongelmanratkaisua_moniaanisissa_ryhmissa.pdf" target="_blank">Ongelmanratkaisua moniäänisissä ryhmissä</a> (Problem solving in diverse groups), *Tietoasiantuntija* 5/2024 (2024-12)
-- <a href="https://www.journals.uchicago.edu/doi/10.1086/731543" target="_blank">Persistent evidential discordance</a>, forthcoming in the *British Journal for the Philosophy of Science* (w/ Sofia Blanco Sequeiros) (2024-05)
 - <a href="https://www.journals.uchicago.edu/doi/10.1086/731543" target="_blank">Persistent evidential discordance</a>, forthcoming in the *British Journal for the Philosophy of Science* (w/ Sofia Blanco Sequeiros) (2024-05)
 - <a href="https://osf.io/preprints/psyarxiv/35w76" target="_blank">Group problem solving: Diversity versus diffusion</a>, forthcoming in COGSCI 2024, Jonard, Nicolas, Samuli Reijula and Luigi Marengo (2024-05)
 - <a href="/assets/vesterinen_ja_reijula2024,ian_hacking.pdf" target="_blank">Tieteiden filosofi: Ian Hacking (1936–2023)</a>, <i>Niin & Näin</i>, 24, 59-63 w/ Tuomas Vesterinen
