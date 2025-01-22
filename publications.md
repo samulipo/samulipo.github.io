@@ -93,7 +93,7 @@ permalink: /publications/
         </details>
     </td></tr>
     <tr><td>
-        Hormio, Säde and Samuli Reijula (2023). <b>Universities as anarchic knowledge institutions</b>, <i>Social Epistemology</i> <a href="https://www.tandfonline.com/doi/full/10.1080/02691728.2023.2283444?scroll=top&needAccess=true" target="_blank">[pdf, open access]</a>
+        Hormio, Säde and Samuli Reijula (2023). <b>Universities as anarchic knowledge institutions</b>, <i>Social Epistemology</i>,38(2), 119–134. <a href="https://www.tandfonline.com/doi/full/10.1080/02691728.2023.2283444?scroll=top&needAccess=true" target="_blank">[pdf, open access]</a>
         <br><span class="keyword">Keywords: <i>higher education; institutional epistemology; knowledge production; knowledge field; frontier research</i></span>
         <details>
         <summary>Abstract</summary>
