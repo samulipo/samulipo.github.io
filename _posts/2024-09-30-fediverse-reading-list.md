@@ -60,7 +60,7 @@ Masnick 2019. [Protocols, not platforms: A technological approach to free speech
 
 Fukuyama et al. [Middleware for dominant digital platforms: A technological solution to a threat to democracy](https://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/cpc-middleware_ff_v2.pdf)
 
-Jason Burton 2023 Algorithmic Amplification for Collective Intelligence](https://knightcolumbia.org/content/algorithmic-amplification-for-collective-intelligence)
+Jason Burton 2023 [Algorithmic Amplification for Collective Intelligence](https://knightcolumbia.org/content/algorithmic-amplification-for-collective-intelligence)
 * excellent piece on the epistemic consequences of social media algorithms. great reference list too.
 
 Journal of democracy issue on ["The future of platform power"](https://www.journalofdemocracy.org/issue/july-2021/)
