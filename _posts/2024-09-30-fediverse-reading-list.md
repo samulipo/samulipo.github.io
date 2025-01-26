@@ -60,6 +60,9 @@ Masnick 2019. [Protocols, not platforms: A technological approach to free speech
 
 Fukuyama et al. [Middleware for dominant digital platforms: A technological solution to a threat to democracy](https://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/cpc-middleware_ff_v2.pdf)
 
+Jason Burton 2023 Algorithmic Amplification for Collective Intelligence](https://knightcolumbia.org/content/algorithmic-amplification-for-collective-intelligence)
+* excellent piece on the epistemic consequences of social media algorithms. great reference list too.
+
 Journal of democracy issue on ["The future of platform power"](https://www.journalofdemocracy.org/issue/july-2021/)
 
 Bluesky docs on [A Self-Authenticating Social Protocol](https://bsky.social/about/blog/3-6-2022-a-self-authenticating-social-protocol)
@@ -78,3 +81,5 @@ Waveform podcast: [Protocol Wars - The Fediverse Explained!](https://www.youtube
 [Make Identity Central Again, with Bluesky’s Jay Graber](https://flipboard.video/w/ophhJTECuL7fcBNbUitV3q?start=34s)
 * Bluesky CEO interviewed, explains how bsky is implementing these ideas
 
+
+(updated 2025-01-22)
