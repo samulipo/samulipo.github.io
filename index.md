@@ -21,6 +21,7 @@ In June 2022, together with Säde Hormio and Raul Hakli, I organized the first <
 Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden), I organize a series of workshops <a href="https://www.nordicscisci.net" target="_blank">Nordic Network for the Science of Science</a> (funded by NOS-HS, 2022-2023). In 2024, the nordic network transformed into the <a href="https://www.euroscisci.net" target="_blank">European Network for the Science of Science (EUROSCISCI)</a>. 
 
 ### News
+- A short [opinion piece on inheritance tax](https://www.hs.fi/mielipide/art-2000011075979.html), with Säde Hormio (2025-03)
 - [A new preprint (w/ Renne Pesonen): *Would you pass the Turing Test? Mirroring human intelligence with large language models*](./publications.md) (2024-11)
 - My opinion piece "[Public authorities should leave X](https://suomenkuvalehti.fi/mielipide/julkishallinto-pois-pikaviestipalvelu-xsta-kirjoittaa-samuli-reijula/)" published in Suomen Kuvalehti (2024-11)
 - [A reading list on fediverse]({% post_url 2024-09-30-fediverse-reading-list %}) (2024-09)
@@ -36,6 +37,7 @@ Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden
 - More news [here](log.md).
 
 ### Recent publications
+- [*Would you pass the Turing Test? Mirroring human intelligence with large language models*](./publications.md) w/ Renne Pesonen (2024-11)
 - <a href="https://www.tietojohtaminen.com/sites/default/files/tietoasiantuntija_5_2024_reijula_ongelmanratkaisua_moniaanisissa_ryhmissa.pdf" target="_blank">Ongelmanratkaisua moniäänisissä ryhmissä</a> (Problem solving in diverse groups), *Tietoasiantuntija* 5/2024 (2024-12)
 - <a href="https://www.journals.uchicago.edu/doi/10.1086/731543" target="_blank">Persistent evidential discordance</a>, forthcoming in the *British Journal for the Philosophy of Science* (w/ Sofia Blanco Sequeiros) (2024-05)
 - <a href="https://osf.io/preprints/psyarxiv/35w76" target="_blank">Group problem solving: Diversity versus diffusion</a>, forthcoming in COGSCI 2024, Jonard, Nicolas, Samuli Reijula and Luigi Marengo (2024-05)
