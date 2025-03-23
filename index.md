@@ -21,6 +21,8 @@ In June 2022, together with Säde Hormio and Raul Hakli, I organized the first <
 Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden), I organize a series of workshops <a href="https://www.nordicscisci.net" target="_blank">Nordic Network for the Science of Science</a> (funded by NOS-HS, 2022-2023). In 2024, the Nordic network transformed into the <a href="https://www.euroscisci.net" target="_blank">European Network for the Science of Science (EUROSCISCI)</a>. 
 
 ### News
+
+- An article in Mustread on DEI policies and the value of diversity: "[Monimuotoisuuden kohtalonhetket: Trumpin hallinto ajaa alas DEI-politiikkaa]((https://www.mustread.fi/artikkelit/monimuotoisuuden-kohtalonhetket-trumpin-hallinto-ajaa-alas-dei-politiikkaa/)" (2025-03)
 - A short [opinion piece on inheritance tax](https://www.hs.fi/mielipide/art-2000011075979.html), with Säde Hormio (2025-03)
 - [A new preprint (w/ Renne Pesonen): *Would you pass the Turing Test? Mirroring human intelligence with large language models*](./publications.md) (2024-11)
 - My opinion piece "[Public authorities should leave X](https://suomenkuvalehti.fi/mielipide/julkishallinto-pois-pikaviestipalvelu-xsta-kirjoittaa-samuli-reijula/)" published in Suomen Kuvalehti (2024-11)
