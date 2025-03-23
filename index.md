@@ -22,7 +22,7 @@ Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden
 
 ### News
 
-- An article in Mustread on DEI policies and the value of diversity: "[Monimuotoisuuden kohtalonhetket: Trumpin hallinto ajaa alas DEI-politiikkaa](https://www.mustread.fi/artikkelit/monimuotoisuuden-kohtalonhetket-trumpin-hallinto-ajaa-alas-dei-politiikkaa/)" (2025-03)
+- An [article in Mustread](https://www.mustread.fi/artikkelit/monimuotoisuuden-kohtalonhetket-trumpin-hallinto-ajaa-alas-dei-politiikkaa/) on DEI policies and the value of diversity: "Monimuotoisuuden kohtalonhetket: Trumpin hallinto ajaa alas DEI-politiikkaa" (2025-03)
 - A short [opinion piece on inheritance tax](https://www.hs.fi/mielipide/art-2000011075979.html), with Säde Hormio (2025-03)
 - [A new preprint (w/ Renne Pesonen): *Would you pass the Turing Test? Mirroring human intelligence with large language models*](./publications.md) (2024-11)
 - My opinion piece "[Public authorities should leave X](https://suomenkuvalehti.fi/mielipide/julkishallinto-pois-pikaviestipalvelu-xsta-kirjoittaa-samuli-reijula/)" published in Suomen Kuvalehti (2024-11)
