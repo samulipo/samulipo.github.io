@@ -91,3 +91,15 @@ $brand-color:      #ffffff;
 		transform: scale(1.05);
 	}
 }
+
+/* Css for blog post list tweaks on landing page */
+.post-divider {
+  text-align: center;
+  font-size: 1.5em;
+  margin: 0 0 0 0;
+  color: #999;
+}
+
+.post-list > li:not(:last-child) {
+  margin-bottom: 5px;
+}

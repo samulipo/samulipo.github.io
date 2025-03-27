@@ -25,6 +25,9 @@ layout: default
           {{ post.excerpt }}
         {%- endif -%}
       </li>
+      {% unless forloop.last %}
+        <div class="post-divider">* * *</div>
+      {% endunless %}
       {%- endfor -%}
     </ul>
 
