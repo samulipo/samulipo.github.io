@@ -6,9 +6,9 @@ categories: fediverse reading_list
 
 I've become increasingly interested in the fediverse. Thinking in terms of protocols instead of privately owned platforms could give us ways to address some of the epistemic challenges associated with the new AI-structured information landscape. My plan is to write something on this later on, but I'll start by gradually compiling a reading list on both technical and more conceptual thinking on the fediverse. I've been asking people for recommendations on what to read.
 
-The Fediverse is a new name for an old idea. From the beginning, the internet has been a network of networks, made possible by agreeing (only) on shared protocols used for communication between machines (the TCP/IP stack). Only in the past two decades or so we've become used to the social web being based on closed, proprietary platforms like Facebook or X/Twitter. The idea behind the Fediverse is to bring the social web back to a decentralized model: protocols like ActivityPub or Bluesky's AT Protocol make inter-service sharing possible.
-
 <!--more-->
+
+The Fediverse is a new name for an old idea. From the beginning, the internet has been a network of networks, made possible by agreeing (only) on shared protocols used for communication between machines (the TCP/IP stack). Only in the past two decades or so we've become used to the social web being based on closed, proprietary platforms like Facebook or X/Twitter. The idea behind the Fediverse is to bring the social web back to a decentralized model: protocols like ActivityPub or Bluesky's AT Protocol make inter-service sharing possible.
 
 I have a couple of reasons why I care. First, I've realised I have a long history with text-based social media - I was involved in the dial-up modems and bulletin board scene in the 90s. More importantly, I think this is an interesting case of how institutions (& technology) matter for epistemology. Social web for the free world.
 

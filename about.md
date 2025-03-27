@@ -1,12 +1,12 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
+title: about
+permalink: /about/
+show_title: false
 ---
 <img class="pull-right" src="/assets/reijula-2024-10.jpg"  alt="Samuli Reijula looking at the ceiling" title="Samuli Reijula looking at the ceiling"/>
 
-**Samuli Reijula (né Pöyhönen)**
+<h1 class="post-title">Samuli Reijula (né Pöyhönen)</h1>
 
 I am a philosopher and cognitive scientist interested in how science works, how it could, and how it should work.
 
@@ -22,8 +22,7 @@ Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden
 
 ### News
 
-- An [article in Mustread](https://www.mustread.fi/artikkelit/monimuotoisuuden-kohtalonhetket-trumpin-hallinto-ajaa-alas-dei-politiikkaa/) on DEI policies and the value of diversity: "Monimuotoisuuden kohtalonhetket: Trumpin hallinto ajaa alas DEI-politiikkaa" (2025-03)
-- A short [opinion piece on inheritance tax](https://www.hs.fi/mielipide/art-2000011075979.html), with Säde Hormio (2025-03)
+
 - [A new preprint (w/ Renne Pesonen): *Would you pass the Turing Test? Mirroring human intelligence with large language models*](./publications.md) (2024-11)
 - My opinion piece "[Public authorities should leave X](https://suomenkuvalehti.fi/mielipide/julkishallinto-pois-pikaviestipalvelu-xsta-kirjoittaa-samuli-reijula/)" published in Suomen Kuvalehti (2024-11)
 - [A reading list on fediverse]({% post_url 2024-09-30-fediverse-reading-list %}) (2024-09)

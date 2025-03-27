@@ -39,6 +39,7 @@ plugins:
 
 google_analytics: G-HZL0D881P8
 
+show_excerpts: true
 excerpt_separator: <!--more-->
 
 
