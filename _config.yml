@@ -25,7 +25,7 @@ header_pages:
   - publications.md
   - presentations.md
   - teaching.md
-  - log.md
+  - blog.md
   - wall.md
   - contact.md
 
@@ -36,12 +36,16 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate
 
 google_analytics: G-HZL0D881P8
 
 show_excerpts: true
 excerpt_separator: <!--more-->
 
+# pagination
+paginate: 5
+paginate_path: "/blog/page:num"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -58,3 +62,4 @@ excerpt_separator: <!--more-->
 # for image gallery, 2023-09-15, see https://dmnfarrell.github.io/software/jekyll-galleries
 imagesurl: "/assets/gallery/images/"
 thumbsurl: "/assets/gallery/thumbnails/"
+

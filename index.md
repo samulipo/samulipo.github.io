@@ -2,6 +2,7 @@
 layout: home
 title: Samuli Reijula
 show_title: false
+paginate: true
 ---
 
 <img class="pull-right" src="/assets/reijula-2024-10.jpg"  alt="Samuli Reijula looking at the ceiling" title="Samuli Reijula looking at the ceiling"/>
