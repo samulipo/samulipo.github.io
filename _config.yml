@@ -12,7 +12,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Philosopher of science @ Uni Helsinki. cognitive_science; computational_social_science; institutional_epistemology; evidence_based_policy; models_and_simulations; conceptual_change
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.samulireijula.net" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: samulipo
+#twitter_username: samulipo
 github_username:  samulipo
 author: Samuli Reijula
 

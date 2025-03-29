@@ -5,7 +5,7 @@ categories: AI LLM intelligence cogsci preprint
 ---
 In this preprint Renne Pesonen and I argue that often arguments against machine intelligence are actually motivated by intuitions against **machine agency**.
 
-In our view, the striking thing about LLMs is that they are an existence proof of structurally simple (but large!) systems that can perform many of the tasks we think require intelligence. The fact that they might do those things in a "wrong", non-human, way is beside the point: Something we thought could only be brought about by the (yet( unexplained powers of the human mind is now done by a shallow system. This should give us pause, some epistemic humility and antidote to human cognitive exceptionalism.
+In our view, the striking thing about LLMs is that they are an existence proof of structurally simple (but large!) systems that can perform many of the tasks we think require intelligence. The fact that they might do those things in a "wrong", non-human, way is beside the point: Something we thought could only be brought about by the (so far) unexplained powers of the human mind is now done by a shallow system. This should give us pause, some epistemic humility and antidote to human cognitive exceptionalism.
 
 Preprint available [here](https://osf.io/preprints/osf/er8dg_v1) and [here](https://philarchive.org/rec/PESWYP)
 <!--more-->
