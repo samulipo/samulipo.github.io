@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Fediverse reading list
-categories: fediverse reading_list
+categories: [thoughts]
+tags: [institutional epistemology, fediverse, twitter, bluesky]
 ---
 
 I've become increasingly interested in the fediverse. Thinking in terms of protocols instead of privately owned platforms could give us ways to address some of the epistemic challenges associated with the new AI-structured information landscape. My plan is to write something on this later on, but I'll start by gradually compiling a reading list on both technical and more conceptual thinking on the fediverse. I've been asking people for recommendations on what to read.
@@ -54,6 +55,12 @@ The right of exit and the freedom of reach (the principle that anyone can talk t
 
 
 # Resources 
+
+[Kleppmann, M., Frazee, P., Gold, J., Graber, J., Holmgren, D., Ivy, D., ... & Volpert, J. (2024, December). Bluesky and the at protocol: Usable decentralized social media. In Proceedings of the ACM Conext-2024 Workshop on the Decentralization of the Internet (pp. 1-7).](https://arxiv.org/abs/2402.03239)
+* looking forward to reading this one. good refs.
+
+[Bluesky CEO Jay Graeber interview at SXSW](https://www.youtube.com/watch?v=B7OwcXCE5Rg)
+* Super clear explanation of how fediverse principles guide bluesky development
 
 Masnick 2019. [Protocols, not platforms: A technological approach to free speech](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech)
 * Although it's getting old, this is still a gem, I've read it several times
