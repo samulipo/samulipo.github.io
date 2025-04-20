@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unpopular ideas on AI and epistemic humility
-categories: AI LLM intelligence cogsci preprint
+categories: [AI, LLM, intelligence, cogsci, preprint]
 ---
 In this preprint Renne Pesonen and I argue that often arguments against machine intelligence are actually motivated by intuitions against **machine agency**.
 

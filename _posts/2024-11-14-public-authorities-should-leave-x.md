@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Opinion. Public authorities should leave X (SK)
-categories: opinion fediverse 
+categories: [opinion, fediverse] 
 ---
 *My opinion piece “[Public authorities should leave X](https://suomenkuvalehti.fi/mielipide/julkishallinto-pois-pikaviestipalvelu-xsta-kirjoittaa-samuli-reijula/)” published in Suomen Kuvalehti.* 
 <!--more-->

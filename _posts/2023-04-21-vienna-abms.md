@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Workshop materials - Agent-based models in social epistemology
-categories: news code programming simulation ABMs
+categories: [news, code, programming, simulation, ABMs]
 ---
 
 Materials from the computational methods workshop at the 2022 Summer school of the Vienna doctoral school of philosophy, finally on github.

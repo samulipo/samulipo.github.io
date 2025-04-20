@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI as a mirror for human intelligence
-categories: news publication AI
+categories: [news, publication, AI]
 ---
 Inspired by dinner debates around New Year's (2023), Renne Pesonen and I wrote an <a href="https://journal.fi/tt/article/view/131066/79967" target="_blank">essay</a> (in Finnish) on large language models. 
 

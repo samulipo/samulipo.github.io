@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On the idea of Bildung university
-categories: presentation university
+categories: [presentation, university]
 ---
 
 This week I gave a short [presentation](/assets/reijula_sivistysyliopiston_idea.pdf) on the idea of Bildung university ('sivistysyliopisto' in Finnish). The notion of Bildung doesn't quite translate to English but we have a word for it in Finnish, 'sivistys'. Here Bildung university refers to the modern concept of research university from early 19th century, first embodied by the University of Berlin (founded in 1810). 

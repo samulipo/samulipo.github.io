@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Opinion. Inheritance tax debate needs attention on values (HS)
-categories: thoughts
+categories: [thoughts]
 ---
 *A short [opinion piece in Helsingin Sanomat on inheritance tax](https://www.hs.fi/mielipide/art-2000011075979.html), with [Säde Hormio](https://shormio.wordpress.com/suomeksi/)*
 <!--more-->
