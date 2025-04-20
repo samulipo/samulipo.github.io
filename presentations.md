@@ -10,7 +10,8 @@ permalink: /presentations/
 - 2025-08 *Diversity and ability in democratic and epistocratic decision making* (w/ Säde Hormio), EPSA25, 10th biennial meeting of the European Philosophy of Science Association, Groningen 
 - 2025-07 *Belief Perseverance in Science: Who keeps citing retracted papers?*, IC2S2, 11th International Conference on Computational Social Science, Norrköping
 - 2025-06 *Belief Perseverance in Science: Who keeps citing retracted papers?*, ICSSI, International Conference on the Science of Science and Innovation, Copenhagen
- 
+- 2025-06 *TBA*, INES2025, Institutional Epistemology Workshop, University of Helsinki
+
 
 # Recent Talks
 - 2025-03: *Explanation, Prediction, and Understanding in Computational Social Science* (w/ Jaakko Kuorikoski), HSSH Brown Bag Seminar, University of Helsinki
