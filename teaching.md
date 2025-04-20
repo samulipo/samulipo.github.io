@@ -5,17 +5,19 @@ permalink: /teaching/
 ---
 ### Current teaching
 
-- Autumn 2023: "Building blocks for institutional epistemology" w/ Petri Ylikoski. University of Helsinki (5 cr) 
-- Spring 2024:  "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
+- Spring 2025: "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
 
 ### Courses taught
 
-- s2023: "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
+- Spring 2024:  "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
 
-- s2022: "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
+- Autumn 2023: "Building blocks for institutional epistemology" w/ Petri Ylikoski. University of Helsinki (5 cr) 
+- Spring 2023: "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
 
-- f2021: Uncertainty reading group, University of Helsinki (5 cr)
-- 2021: "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
+- Spring 2022: "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
+
+- Autumn 2021: Uncertainty reading group, University of Helsinki (5 cr)
+- Spring 2021: "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
 
 - 2020: Proseminar 1 & 2 (FILK-213 & 214) (bachelor-level writing seminar), University of Helsinki (5 cr / 4 cr)
 - 2020: "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
