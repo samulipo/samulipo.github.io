@@ -33,6 +33,20 @@ permalink: /publications/
     </td></tr>
 </table>
 
+### 2025 
+
+<table class="pubs">
+    <tr><td>
+        Kuorikoski, Jaakko and Samuli Reijula (2025). <b>Virheellinen ymmärrys rekrytoinnin objektiivisuudesta uhkaa tiedettä</b>. <i>Tieteessä Tapahtuu 2/2025, 34-37.</i><a href="" target="_blank"> [link]</a>
+         <br><span class="keyword">Keywords: <i>science policy; higher education; recruitment; objectivity; metrics; peer review</i></span>
+        <details>
+        <summary>Abstract</summary> 
+        Läpinäkyvyys ja objektiivisuus ovat tärkeitä arvoja henkilöstön rekrytoinnissa ja arvioinnissa. Viime aikojen uudistukset akateemisessa rekrytoinnissa eivät kuitenkaan ole kaikilta osin onnistuneita.
+        </details>
+    </td></tr>
+</table>
+
+
 ### 2024
 
 <table class="pubs">
