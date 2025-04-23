@@ -6,11 +6,15 @@ layout: default
     {%- if page.title and page.show_title != false -%}
       <h1 class="page-heading">{{ page.title }}</h1>
     {%- endif -%}
-  
+    
+    A mix of social media posts, news, random thoughts. Intellectual stamp collecting, maybe a <a href="https://en.wikipedia.org/wiki/Commonplace_book" target="_blank">commonplace book</a>.
+    <div class="post-divider">* * *</div>
+
+
     {{ content }}
-  
     {%- if site.posts.size > 0 -%}
-      <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+      <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
+      
       <ul class="post-list">
         {%- for post in paginator.posts -%}
         <li>
