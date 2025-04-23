@@ -7,7 +7,7 @@ permalink: /projects/
 
 # Institutional Epistemology workshop series 
 
-Since 2022, Säde Hormio, Raul Hakli and myself have been the core organizing team of Institutional Epistemology workshops (2022 and 2023). More information <a href="https://www.institutionalepistemology.net" target="_blank">here</a>. 
+Since 2022, Säde Hormio, Raul Hakli and myself have been the core organizing team of Institutional Epistemology workshops (2022 and 2023). INES 2025 is coming up in June 2025.More information <a href="https://www.institutionalepistemology.net" target="_blank">here</a>. 
 
 
 # Nordic Network for the Science of Science
