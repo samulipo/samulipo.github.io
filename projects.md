@@ -9,11 +9,17 @@ permalink: /projects/
 
 Since 2022, Säde Hormio, Raul Hakli and myself have been the core organizing team of Institutional Epistemology workshops (2022 and 2023). INES 2025 is coming up in June 2025.More information <a href="https://www.institutionalepistemology.net" target="_blank">here</a>. 
 
+<br>
+<hr>
+<br>
 
 # Nordic Network for the Science of Science
 
 In 2022-2023, together with Pantelis Analytis and Jacob Habinek, I organized a series of European workshops on the science of science. More <a href="https://www.nordicscisci.net" target="_blank">here</a>. 
 
+<br>
+<hr>
+<br>
 
 # Modeling the republic of science: Collaborative problem solving and collective rationality in scientific inquiry (2020-2025)
 <img class="pos-center" src="/assets/epsa_presis_2019.png"  alt="EPSA poster" title="EPSA poster"/>
