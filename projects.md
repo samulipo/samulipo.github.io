@@ -5,15 +5,17 @@ permalink: /projects/
 ---
 
 
-# Institutional Epistemology workshop series 
+# Institutional Epistemology workshops (INES)
 
 Since 2022, Säde Hormio, Raul Hakli and I have been the core organizing team of Institutional Epistemology workshops (2022 and 2023). INES 2025 is coming up in June 2025. More information <a href="https://www.institutionalepistemology.net" target="_blank">here</a>. 
+
+Some of our keynote speakers: Elizabeth Anderson, Helen Beebee, Jessica Brown, Cailin O'Connor, Gloria Origgi, Kristina Rolin, Daniel Steel, Alison Wylie and Kevin Zollman.
 
 <br>
 <hr>
 <br>
 
-# European network for the Science of Science
+# European network for the Science of Science (EUROSCISCI)
 
 In 2022-2023, together with Pantelis Analytis and Jacob Habinek, I organized a series of European workshops on the science of science. More <a href="https://www.nordicscisci.net" target="_blank">here</a>. In 2024 the network metamorphosed into the <a href="https://www.euroscisci.net" target="_blank">European Network for the Science of Science, EUROSCISCI</a>.
 
@@ -22,11 +24,13 @@ In 2022-2023, together with Pantelis Analytis and Jacob Habinek, I organized a s
 <br>
 
 # Modeling the republic of science: Collaborative problem solving and collective rationality in scientific inquiry (2020-2025)
-<img class="pos-center" src="/assets/epsa_presis_2019.png"  alt="EPSA poster" title="EPSA poster"/>
 
 In 2020-2025 my research is funded by the Academy of Finland. The personal <a href="https://www.aka.fi/en/about-us/whats-new/press-releases/20202/academy-of-finland-funds-21-new-academy-research-fellows-in-social-sciences-and-humanities2/" target="_blank">academy-fellow research project</a> focuses on understanding collaboration in scientific research.
 
-### Abstract
+<img class="pos-center" src="/assets/epsa_presis_2019.png"  alt="EPSA poster" title="EPSA poster"/>
+
+
+#### Abstract
 
 *“Art is I, science is we” – Claude Bernard*
 
@@ -36,7 +40,7 @@ Although the recent modeling work in the philosophy of science has provided insi
 
 My project addresses these shortcomings by combining philosophical analysis with computational modeling. First, it introduces two model templates for studying scientific collaboration (restless bandits; binary string model). Second, by providing an account of the epistemology of computational modeling, it positions the modeling-based results with respect to the broader philosophical and interdisciplinary literature on scientific collaboration. The questions addressed by the project include: Which patterns of communal information exchange are desirable – can too much communication between scientists be epistemically harmful? When do diverse problem-solving groups outperform more skilled but less diverse ones? How does non-modularity of research problems hinder success in multidisciplinary research teams?
 
-### Publications
+#### Publications
 
 Reijula, Samuli, Jaakko Kuorikoski, Miles MacLeod (2023). **The division of cognitive labor and the structure of interdisciplinary problems**, *Synthese* 201:214.
 <a href="https://doi.org/10.1007/s11229-023-04193-4" target="_blank">[pdf, open access]</a>
