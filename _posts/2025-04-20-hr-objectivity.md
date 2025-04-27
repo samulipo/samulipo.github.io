@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Misunderstanding objectivity in academic recruitment is harmful to science
+title: Objectivity is misunderstood in new academic recruitment policies
 categories: [media, finnish]
 tags: [objectivity, science_policy, higher_education]
 ---
