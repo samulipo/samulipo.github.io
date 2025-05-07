@@ -59,7 +59,7 @@ permalink: /publications/
         </details>
     </td></tr>
     <tr><td>
-        Jonard, Nicolas, Samuli Reijula and Luigi Marengo (2024). <b>Group problem solving: Diversity versus diffusion</b>, in L. K. Samuelson, S. L. Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.),<i>Proceedings of the 46th Annual Conference of the Cognitive Science Society</i> <a href="https://escholarship.org/uc/item/0zq5j37r" target="_blank">[eScholarship]</a> <a href="https://osf.io/preprints/psyarxiv/35w76" target="_blank">[PsyArXiv]</a>
+        Jonard, Nicolas, Samuli Reijula and Luigi Marengo (2024). <b>Group problem solving: Diversity versus diffusion</b>, in L. K. Samuelson, S. L. Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.),<i>Proceedings of the 46th Annual Conference of the Cognitive Science Society</i> <a href="https://escholarship.org/uc/item/0zq5j37r" target="_blank">[eScholarship]</a> <a href="https://osf.io/preprints/psyarxiv/35w76_v1" target="_blank">[PsyArXiv]</a>
         <br><span class="keyword">Keywords: <i>group problem solving; cognitive diversity; structural isolation; agent-based simulation</i></span>
         <details>
         <summary>Abstract</summary>
