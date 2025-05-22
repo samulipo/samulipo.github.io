@@ -9,7 +9,7 @@ permalink: /presentations/
 - 2025-08 *Is synthetic data an oxymoron?*, EPSA25, 10th biennial meeting of the European Philosophy of Science Association, Groningen 
 - 2025-08 *Diversity and ability in democratic and epistocratic decision making* (w/ Säde Hormio), EPSA25, 10th biennial meeting of the European Philosophy of Science Association, Groningen 
 - 2025-07 *Belief Perseverance in Science: Who keeps citing retracted papers?*, IC2S2, 11th International Conference on Computational Social Science, Norrköping
-- 2025-06 *TBA*, INES2025, Institutional Epistemology Workshop, University of Helsinki
+- 2025-06 *Should I stop reading? Bullshit content and the duty to tune out*, [INES2025, Institutional Epistemology Workshop](https://www.institutionalepistemology.net), University of Helsinki
 - 2025-06 *Belief Perseverance in Science: Who keeps citing retracted papers?*, ICSSI, International Conference on the Science of Science and Innovation, Copenhagen
 - 2026-06 *Evidence-based science policy?* [Philosophy of science advice workshop](https://scientificadvice.eu/events/philosophy-of-science-advice-workshop/), Helsinki
 
