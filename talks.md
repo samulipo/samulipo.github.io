@@ -1,7 +1,7 @@
 ---
 layout: page
-title: presentations
-permalink: /presentations/
+title: talks
+permalink: /talks/
 ---
 
 # Upcoming talks

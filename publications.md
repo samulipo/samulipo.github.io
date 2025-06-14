@@ -4,6 +4,8 @@ title: publications
 permalink: /publications/
 ---
 
+*These are my research papers. If you're interested in writings to more general audiences, please check out the* [outreach](/outreach.md) *page*.
+
 ### Preprints
 
 <table class="pubs">
@@ -37,7 +39,7 @@ permalink: /publications/
 
 <table class="pubs">
     <tr><td>
-        Kuorikoski, Jaakko and Samuli Reijula (2025). <b>Virheellinen ymmärrys rekrytoinnin objektiivisuudesta uhkaa tiedettä</b>. <i>Tieteessä Tapahtuu 2/2025, 34-37.</i><a href="" target="_blank"> [link]</a>
+        Kuorikoski, Jaakko and Samuli Reijula (2025). <b>Virheellinen ymmärrys rekrytoinnin objektiivisuudesta uhkaa tiedettä</b>. <i>Tieteessä Tapahtuu 2/2025, 34-37.</i><a href="https://journal.fi/tt/article/view/160836" target="_blank"> [link]</a>
          <br><span class="keyword">Keywords: <i>science policy; higher education; recruitment; objectivity; metrics; peer review</i></span>
         <details>
         <summary>Abstract</summary> 

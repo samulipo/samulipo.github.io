@@ -20,13 +20,12 @@ author: Samuli Reijula
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-  - about.md
   - projects.md 
   - publications.md
-  - presentations.md
+  - talks.md
   - teaching.md
+  - outreach.md
   - blog.md
-  - wall.md
   - contact.md
 
 # Build settings
