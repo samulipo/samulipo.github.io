@@ -6,7 +6,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: reijulab
+title: reijula
 email: samuli.reijula@helsinki.fi
 description: >- # this means to ignore newlines until "baseurl:"
   Philosopher of science @ Uni Helsinki. cognitive_science; computational_social_science; institutional_epistemology; evidence_based_policy; models_and_simulations; conceptual_change

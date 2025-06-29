@@ -4,7 +4,7 @@ title: On positionality statements (In Finnish)
 categories: [news, media, finnish]
 tags: [positionality statement, diversity, standpoint]
 ---
-*I talked to a journalist from Helsingin Sanomat about positionality statements in science. My email response turned into a micro essay, so I'll post it here.*
+*I talked to a journalist from Helsingin Sanomat about positionality statements in science [(here)](https://www.hs.fi/tiede/art-2000009479838.html). My email response turned into a micro essay, so I'll post it here.*
 
 <!--more-->
 On yleisesti hyväksyttyä että tutkijan henkilöhistoria, koulutus ja monet muut tekijät vaikuttavat tämän tutkimusnäkökulmaan. Tutkijan itsereflektio on siksi tarpeellista ja mm. tästä syystä tiedeyhteisön diversiteetti (moniäänisyys) on tärkeä seikka: eri näkökulmista tutkittavaa ilmiötä tai ilmiökenttää tarkastelevat tutkijat voivat täydentää ja rakentavasti kritisoida toistensa 1) kysymyksenasetteluja, 2) menetelmiä, 3) aineistoja, ja näiden pohjalta tehtyjä 4) johtopäätöksiä. Tieteellinen luovuus ja tutkimusprosessille ominainen kollektiivinen virheenkorjaus (kollegojen kritiikin, vertaisarvioinnin kautta) hyötyvät tiedeyhteisön moninaisuudesta ja sen tunnistamisesta.

@@ -1,0 +1,262 @@
+- year: 2025
+  date: 2025-04-20
+  authors: "Kuorikoski, Jaakko and Samuli Reijula"
+  title: "Virheellinen ymmärrys rekrytoinnin objektiivisuudesta uhkaa tiedettä"
+  title_english: "Misconceptions about objectivity in recruitment pose a threat to science."
+  journal: "Tieteessä Tapahtuu"
+  issue: "2/2025"
+  pages: "34-37"
+  pdf: "https://journal.fi/tt/article/view/160836"
+  blog_url: "/media/finnish/2025/04/20/hr-objectivity.html"
+  image: "/assets/virhYmm.png"
+
+- year: 2025
+  date: 2025-04-04
+  authors: "Casini, Lorenzo"
+  title: "An Interview with Dunja Seselja, Samuli Reijula, and Matteo Michelini"
+  journal: "The Reasoner"
+  issue: "19(2)"
+  pages: "April 2025"
+  pdf: "http://doi.org/10.54103/1757-0522/28587"
+  blog_url: "/media/2025/04/04/the-reasoner-interview.html"
+  image: "/assets/theReasoner.png"
+
+- year: 2025
+  date: 2025-03-21
+  authors: "Reijula, Samuli"
+  title: "Monimuotoisuuden kohtalonhetket: Trumpin hallinto ajaa alas DEI-politiikkaa"
+  title_english: "DEI and cognitive diversity"
+  journal: "Mustread"
+  issue: "2025-03-21"
+  pages: ""
+  pdf: "/assets/reijula_diversiteetti_2025-03-24.pdf"
+  link: "https://www.mustread.fi/artikkelit/monimuotoisuuden-kohtalonhetket-trumpin-hallinto-ajaa-alas-dei-politiikkaa/"
+  blog_url: "/thoughts/2025/03/24/mustread-diversity.html"
+  image: "/assets/mustread.png"
+
+- year: 2025
+  date: 2025-03-07
+  authors: "Hormio, Säde & Samuli Reijula"
+  title: "Perintöveron poistaminen veisi kohti epätasa-arvoisempaa Suomea"
+  title_english: "Inheritance tax debate needs attention on values"
+  journal: "Helsingin Sanomat"
+  issue: "2025-03-07"
+  pages: "mielipide"
+  link: "https://www.hs.fi/mielipide/art-2000011075979.html"
+  blog_url: "/thoughts/2025/03/07/opinion-piece-on-inheritance-tax.html"
+  image: "/assets/perintovero.png"
+
+- year: 2024
+  date: 2024-12-13
+  authors: "Samuli Reijula"
+  title: "Ongelmanratkaisua moniäänisissä ryhmissä"
+  title_english: "Problem solving in diverse groups"
+  journal: "Tietoasiantuntija"
+  issue: "5/2024"
+  pages: "13-15"
+  link: "https://www.tietojohtaminen.com/sites/default/files/tietoasiantuntija_5_2024_reijula_ongelmanratkaisua_moniaanisissa_ryhmissa.pdf"
+  image: "/assets/ongelmanratkaisua.png"
+
+- year: 2024
+  date: 2024-11-14
+  authors: "Samuli Reijula"
+  title: "Julkishallinto pois pikaviestipalvelu X:stä"
+  title_english: "Public authorities should leave X"
+  journal: "Suomen Kuvalehti"
+  issue: "2024-11-14"
+  pages: "mielipide"
+  link: "https://suomenkuvalehti.fi/mielipide/julkishallinto-pois-pikaviestipalvelu-xsta-kirjoittaa-samuli-reijula/"
+  blog_url: "http://127.0.0.1:4000/opinion/fediverse/2024/11/14/public-authorities-should-leave-x.html"
+  image: "/assets/pois_xsta.png"
+
+- year: 2024
+  date: 2024-08-30
+  authors: "Hallikainen, Jere"
+  title: "'Tietyntyyppistä filosofiaa': Haastattelussa Jaakko Kuorikoski, Samuli Reijula ja Kristina Rolin"
+  title_english: "An interview with the philosophy Magazine Paatos"
+  journal: "Paatos"
+  issue: "2024-08-30"
+  pages: "-"
+  link: "https://www.paatos.fi/2024/08/30/tietyntyyppista-filosofiaa-haastattelussa-jaakko-kuorikoski-samuli-reijula-ja-kristina-rolin/"
+  blog_url: "http://127.0.0.1:4000/interview/media/2024/09/27/engineers-philosophers.html"
+  image: "/assets/paatos.png"
+
+- year: 2024
+  date: 2024-06-01
+  authors: "Vesterinen, Tuomas and Samuli Reijula"
+  title: "Tieteiden filosofi: Ian Hacking (1936–2023)"
+  title_english: "Ian Hacking, a philosopher of the sciences"
+  journal: "Niin & Näin"
+  issue: "24"
+  pages: "59-63"
+  pdf: "/assets/vesterinen_ja_reijula2024,ian_hacking.pdf"
+  image: "/assets/hacking_obit.png"
+
+- year: 2024
+  date: 2024-01-29
+  authors: "Wancke, Nicklas / YLE"
+  title: "Kulttuuriykkönen: Väite muinaissuomalaisten tummasta ihonväristä kuohutti"
+  title_english: "Interview on Finnish national public radio on academic freedom and public reception of controversial research findings"
+  journal: "Kulttuuriykkönen, YLE"
+  issue: "2024-01-29"
+  pages: "-"
+  link: "https://areena.yle.fi/1-67456776"
+  image: "/assets/kulttuuriykk.png"
+
+
+
+- year: 2023
+  date: 2023-12-15
+  authors: "Häkkinen, Amanda"
+  title: "Tutkimuksen epävarmuus on osa tieteen prosessia – Haastattelussa Samuli Reijula"
+  title_english: "Interview - Science, uncertainty and trust"
+  journal: "Avointiede.fi"
+  issue: "2023-12-15"
+  pages: "-"
+  link: "https://avointiede.fi/fi/ajankohtaista/tutkimuksen-epavarmuus-osa-tieteen-prosessia-haastattelussa-samuli-reijula"
+  image: "/assets/avointiede.png"
+
+- year: 2023
+  date: 2023-06-15
+  authors: "Pesonen, Renne and Samuli Reijula "
+  title: "Tekoälymallit ihmisälyn peilinä – Myös ihmiset suoltavat usein sujuvaa paskapuhetta"
+  title_english: "Fluent bullshit - AI models as a mirror to human intelligence"
+  journal: "Tieteessä Tapahtuu"
+  issue: "3/2023"
+  pages: "37-41"
+  link: "https://journal.fi/tt/article/view/131066/79967"
+  blog_url: "http://127.0.0.1:4000/news/publication/ai/2023/09/15/intelligent-ai-bullshit.html"
+  image: "/assets/bs.png"
+
+- year: 2023
+  date: 2023-05-18
+  authors: "Kokkonen, Tomi & Samuli Reijula"
+  title: "Tieteenfilosofia"
+  title_english: "Philosophy of science (encyclopedia entry)"
+  journal: "Logos Encyclopedia"
+  issue: "2023-05-18"
+  pages: "-"
+  link: "https://www.filosofia.fi/fi/ensyklopedia/tieteenfilosofia"
+  image: "/assets/logos-tf.png"
+
+- year: 2023
+  date: 2023-03-03
+  authors: "Paukku, Timo"
+  title: "Tieteen uusi suuntaus kannustaa tutkijaa kertomaan taustansa, ja kriitikkojen mukaan se jopa vaarantaa tieteen luotettavuuden"
+  title_english: "Interviewed by Helsingin Sanomat on positionality statements in science"
+  journal: "Helsingin Sanomat"
+  issue: "2023-03-03"
+  pages: "-"
+  link: "https://www.hs.fi/tiede/art-2000009479838.html"
+  blog_url: "/news/media/finnish/2023/03/27/positiolausunnoista.html"
+  image: "/assets/positio.png"
+
+- year: 2022
+  date: 2022-11-13
+  authors: "Tojkander, Maria"
+  title: "Perustutkimusko hyödytöntä?"
+  title_english: "Interviewed by Tekniikan Maailma on the importance of basic research"
+  journal: "Tekniikan Maailma"
+  issue: "2022-11-13"
+  pages: "-"
+  link: "https://tekniikanmaailma.fi/lehti/20a-2022/miksi-perustutkimusta-tarvitaan/"
+  image: "/assets/perustutk.png"
+
+- year: 2022
+  date: 2022-02-24
+  authors: "Reijula, Samuli"
+  title: "Terapeuttinen puhe on kaikkialla"
+  title_english: "Therapeutic discourse is everywhere; book review"
+  journal: "Tieteessä tapahtuu"
+  issue: "1/2022"
+  pages: "-"
+  link: "https://www.tieteessatapahtuu.fi/numerot/1-2022/terapeuttinen-puhe-kaikkialla-artikkelikokoelma-tarkastelee-sen-vaikutuksia"
+  image: "/assets/terapiavalta.png"
+
+- year: 2021
+  date: 2021-04-14
+  authors: "Lyytinen, Jaakko"
+  title: "Tutkijat tyrmäävät HS:n pääkirjoituksen tiedekäsityksen – ”Asia on oikeastaan päinvastoin”"
+  title_english: "Interviewed by Helsingin Sanomat on whether social sciences are real science or ideology"
+  journal: "Helsingin Sanomat"
+  issue: "2021-04-14"
+  pages: "-"
+  link: "https://www.hs.fi/kulttuuri/art-2000007917387.html"
+  image: "/assets/hs-tiedekasitys.png"
+
+- year: 2020
+  date: 2020-09-28
+  authors: "Hertwig, Ralph and Samuli Reijula"
+  title: "Creating Citizen Choice Architects"
+  journal: "Behavioral Scientist"
+  issue: "2020-09-28"
+  pages: "-"
+  link: "https://behavioralscientist.org/creating-citizen-choice-architects"
+  image: "/assets/behavioral_scientist.png"
+
+- year: 2020
+  date:  2020-08-31
+  authors: "Komulainen, Pasi & Virve Pohjanpalo"
+  title: "Tahdonvoimalle tukea"
+  title_english: "How self-nudging helps circumvent lapses of self-control"
+  journal: "Yliopisto-lehti"
+  issue: "6/2020"
+  pages: "17"
+  pdf: "https://www.samulireijula.net/assets/reijula_yliopistolehti_2020-8.pdf"
+  image: "/assets/yo-lehti.png"
+
+- year: 2020
+  date:  2020-08-28
+  authors: "Reijula, Samuli and Natan Collett"
+  title: "Giving People The Tools To Nudge Themselves"
+  journal: "The Decision Lab"
+  issue: "2020-08-28"
+  pages: "-"
+  link: "https://thedecisionlab.com/insights/innovation/giving-people-the-tools-to-nudge-themselves"
+  image: "/assets/decision_lab.png"
+
+- year: 2020
+  date: 2020-05-26
+  authors: "Kuorikoski, Jaakko and Samuli Reijula"
+  title: "Laskennalliset mallit voivat lisätä julkisen päätöksenteon avoimuutta"
+  title_english: "Using computational models can increase the transparency of public decision-making (during a pandemic)."
+  journal: "Alusta!"
+  issue: "2020-05-26"
+  pages: "-"
+  link: "https://www.tuni.fi/alustalehti/2020/05/26/laskennalliset-mallit-voivat-lisata-julkisen-paatoksenteon-avoimuutta/"
+  blog_url: "https://www.samulireijula.net/news/publication/finnish/2020/05/26/mallit-ja-paatoksenteko.html"
+  image: "/assets/alusta_mallit.png"
+
+
+- year: 2019
+  date: 2019-09-03
+  authors: "Henno, Jacques"
+  title: "Les sciences comportementales au service des politiques publiques"
+  title_english: "Interviewed by Les Echos on the foundations of behavioral public policy"
+  journal: "Les Echos"
+  issue: "2019-09-03"
+  pages: "-"
+  link: "https://www.lesechos.fr/idees-debats/sciences-prospective/les-sciences-comportementales-au-service-des-politiques-publiques-1128551"
+  image: "/assets/lesEchos.png"
+
+- year: 2016
+  date: 2016-01-01
+  authors: "Pöyhönen, Samuli"
+  title: "Psykologia tieteenalana ja asiakastyönä"
+  title_english: "Book review: Vesa Talvitie, Arkipsykologiasta aivotutkimukseen – kysymyksiä psykologian filosofiasta"
+  journal: "Niin & Näin"
+  issue: "3/16"
+  pages: "132-134"
+  link: "/assets/arkipsykologiasta_aivotutkimukseen_arvio1.pdf"
+  image: "/assets/talvitie_arvio.png"
+
+- year: 2014
+  date: 2014-11-25
+  authors: "Niemelä, Kyösti"
+  title: "Luokituksilla on taustansa"
+  title_english: "Interviewed in Helsingin Sanomat on looping effects of human classifications"
+  journal: "Helsingin Sanomat"
+  issue: "2014-11-25"
+  pages: "-"
+  link: "https://www.hs.fi/tiede/art-2000002780183.html"
+  image: "/assets/luokituksilla.png"
