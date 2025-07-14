@@ -11,7 +11,7 @@ paginate: true
 
 **I am a philosopher and cognitive scientist interested in how science works, how it could, and how it should work.**
 
-I work as a university lecturer (permanent faculty position, roughly equivalent to US associate professor) in Theoretial Philosophy at the University of Helsinki. I’m also affiliated with the TINT Centre for Philosophy of Social Science, and a docent (habilitation / adjunct professor) in Practical philosophy, University of Helsinki.
+I work as a university lecturer (permanent faculty position, roughly equivalent to US associate professor) in [Theoretical Philosophy](https://www.helsinki.fi/en/faculty-arts/research/disciplines/philosophy-history-and-art/philosophy) at the University of Helsinki. I’m also affiliated with the [TINT Centre for Philosophy of Social Science](https://tint-helsinki.fi/), and a docent (habilitation / adjunct professor) in [Practical Philosophy](https://www.helsinki.fi/en/faculty-social-sciences/research/disciplines-and-research-units/practical-philosophy), University of Helsinki.
 
 The aim of my current research project is to **better understand scientific problem-solving**: Science is the humanity's most successful problem-solving system, and the primary source of epistemic authority in modern societies. 
 
