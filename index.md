@@ -11,6 +11,8 @@ paginate: true
 
 **I am a philosopher and cognitive scientist interested in how science works, how it could, and how it should work.**
 
+In 2019 I joined Theoretical philosophy at the University of Helsinki as a permanent university lecturer (roughly equivalent to US associate professor). I’m also affiliated with the TINT Centre for Philosophy of Social Science, and a docent (qualification for academic habilitation / adjuct professor) in Practical philosophy, University of Helsinki.
+
 The aim of my current research project is to **better understand scientific problem-solving**: Science is the humanity's most successful problem-solving system, and the primary source of epistemic authority in modern societies. 
 
 In my research, I view & model science as a distributed cognitive system, "problem-solving writ large." **How does that system function at different levels of analysis** ranging from individual scientists to research groups and scientific communities? 
