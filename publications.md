@@ -10,6 +10,14 @@ permalink: /publications/
 
 <table class="pubs">
     <tr><td>
+        Jonard, Nicolas, Samuli Reijula and Luigi Marengo (under review). <b>Theory Choice in Epistemic Networks: Five ways to avoid premature convergence</b> <a href="https://philsci-archive.pitt.edu/26427/" target="_blank">[PhilSciArchive]</a>
+        <br><span class="keyword">Keywords: <i>theory choice; transient diversity; computational philosophy; weak ties</i></span>
+        <details>
+        <summary>Abstract</summary> 
+        In this article, we study difficult theory-choice situations, where division of cognitive labor is needed. Network epistemology models suggest that reducing connectivity is needed to prevent premature convergence on bad theories. We compare how network density, community size, strength of prior beliefs, adaptive learning methods, and weak ties influence epistemic outcomes, and show that reducing connectivity is only one possible way to improve collective epistemic accuracy. Our findings suggest that gains in accuracy often come at a high cost in resources used, which should be considered when results from network epistemology models are used in applied settings.
+        </details>
+    </td></tr>
+    <tr><td>
         Pesonen, Renne and Samuli Reijula (under review). <b>Would you pass the Turing Test? Mirroring human intelligence with large language models</b> <a href="https://osf.io/preprints/osf/er8dg" target="_blank">[PsyArxiv]</a>
         <br><span class="keyword">Keywords: <i>large language models; intelligence; understanding; creativity</i></span>
         <details>
