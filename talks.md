@@ -5,16 +5,18 @@ permalink: /talks/
 ---
 
 # Upcoming talks
+2026-03-03 *TBA*, Eindhoven University of Technology
+2025-01-30 *Kuinka tutkijat etsivät ja seuraavat kirjallisuutta*, Suomen Filosofinen Yhdistys, Ajatuksen juhlakollokvio
+2025-11-10 *AI as a research tool*, Interactive Seminar: Exploring the Role of Artificial Intelligence in Russian Studies, University of Helsinki
+2025-11-10 *Epistemology of silicon sampling*, AI-Augmented Social Science: New Methods or Just Hype?, University of Helsinki
 
+# Recent Talks
 - 2025-08 *Is synthetic data an oxymoron?*, EPSA25, 10th biennial meeting of the European Philosophy of Science Association, Groningen 
 - 2025-08 *Diversity and ability in democratic and epistocratic decision making* (w/ Säde Hormio), EPSA25, 10th biennial meeting of the European Philosophy of Science Association, Groningen 
 - 2025-07 *Belief Perseverance in Science: Who keeps citing retracted papers?*, IC2S2, 11th International Conference on Computational Social Science, Norrköping
 - 2025-06 *Should I stop reading? Bullshit content and the duty to tune out*, [INES2025, Institutional Epistemology Workshop](https://www.institutionalepistemology.net), University of Helsinki
 - 2025-06 *Belief Perseverance in Science: Who keeps citing retracted papers?*, ICSSI, International Conference on the Science of Science and Innovation, Copenhagen
 - 2026-06 *Evidence-based science policy?* [Philosophy of science advice workshop](https://scientificadvice.eu/events/philosophy-of-science-advice-workshop/), Helsinki
-
-
-# Recent Talks
 - 2025-03: *Explanation, Prediction, and Understanding in Computational Social Science* (w/ Jaakko Kuorikoski), HSSH Brown Bag Seminar, University of Helsinki
 - 2024-11: *Transient diversity between research groups*. Philosophy of Science Association, New Orleans 
 - 2024-11: *Modeling cognitive diversity in group problem solving*. Pittsburgh Formal Epistemology Workshop
