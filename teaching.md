@@ -5,9 +5,14 @@ permalink: /teaching/
 ---
 ### Current teaching
 
-- Spring 2025: "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
+- Fall 2025: Introduction to philosophy of science (FILK-111), University of Helsinki (5 cr)
+
+- Spring 2026: Philosophy of science (intermediate) (FILK-227), University of Helsinki (5 cr)
+- Spring 2026: Bachelor's thesis seminar (FILK-213 & 214), University of Helsinki (5 cr)
 
 ### Courses taught
+
+- Spring 2025: "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
 
 - Spring 2024:  "Philosophy of science (intermediate)" (FILK-227), University of Helsinki (5 cr)
 
