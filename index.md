@@ -13,7 +13,9 @@ paginate: true
 
 I work as a university lecturer (permanent faculty position, roughly equivalent to US associate professor) in [Theoretical Philosophy](https://www.helsinki.fi/en/faculty-arts/research/disciplines/philosophy-history-and-art/philosophy) at the University of Helsinki. I’m also affiliated with the [TINT Centre for Philosophy of Social Science](https://tint-helsinki.fi/), and a docent (habilitation / adjunct professor) in [Practical Philosophy](https://www.helsinki.fi/en/faculty-social-sciences/research/disciplines-and-research-units/practical-philosophy), University of Helsinki.
 
-The aim of my current research project is to **better understand scientific problem-solving**: Science is the humanity's most successful problem-solving system, and the primary source of epistemic authority in modern societies. 
+In 2025-2029, I lead the research project [Scientist in the loop - Automation of scientific discovery (SCI-AI)](/projects), funded by the Research Council of Finland. The call for PhD and postdoc positions will open in early 2026.
+
+The general aim of my research is to **better understand scientific problem-solving**: Science is the humanity's most successful problem-solving system, and the primary source of epistemic authority in modern societies. 
 
 In my research, I view & model science as a distributed cognitive system, "problem-solving writ large." **How does that system function at different levels of analysis** ranging from individual scientists to research groups and scientific communities? 
 
