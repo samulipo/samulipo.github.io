@@ -7,8 +7,8 @@ permalink: /talks/
 # Upcoming talks
 - 2026-03-03 *TBA*, Eindhoven University of Technology
 - 2025-01-30 *Kuinka tutkijat etsivät ja seuraavat kirjallisuutta*, Suomen Filosofinen Yhdistys, Ajatuksen juhlakollokvio
-- 2025-11-10 *AI as a research tool*, Interactive Seminar: Exploring the Role of Artificial Intelligence in Russian Studies, University of Helsinki
 - 2025-11-10 *Epistemology of silicon sampling*, AI-Augmented Social Science: New Methods or Just Hype?, University of Helsinki
+- 2025-11-10 *Is AI changing the scientific method?*, Interactive Seminar: Exploring the Role of Artificial Intelligence in Russian Studies, University of Helsinki
 
 # Recent Talks
 - 2025-08 *Is synthetic data an oxymoron?*, EPSA25, 10th biennial meeting of the European Philosophy of Science Association, Groningen 
