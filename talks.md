@@ -6,7 +6,8 @@ permalink: /talks/
 
 # Upcoming talks
 - 2026-03-03 *TBA*, Eindhoven University of Technology
-- 2025-01-30 *Kuinka tutkijat etsivät ja seuraavat kirjallisuutta*, Suomen Filosofinen Yhdistys, Ajatuksen juhlakollokvio
+- 2026-01-30 *Kuinka tutkijat etsivät ja seuraavat kirjallisuutta*, Suomen Filosofinen Yhdistys, Ajatuksen juhlakollokvio
+- 2026-01-30 *Yliopisto, anarkistinen tietoinstituutio*, Nufit - Nuorten filosofiatapahtuma
 - 2025-11-10 *Epistemology of silicon sampling*, AI-Augmented Social Science: New Methods or Just Hype?, University of Helsinki
 - 2025-11-10 *Is AI changing the scientific method?*, Interactive Seminar: Exploring the Role of Artificial Intelligence in Russian Studies, University of Helsinki
 
