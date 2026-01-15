@@ -26,19 +26,23 @@ permalink: /publications/
         </details>
     </td></tr>
     <tr><td>
-        Pääkkönen Juho, Matti Nelimarkka and Samuli Reijula (under review). <b>The emergence of computational social science: Intellectual integration or persistent fragmentation?</b> <a href="https://osf.io/preprints/socarxiv/g6m34" target="_blank">[SocArxiv]</a>
-        <br><span class="keyword">Keywords: <i>computational social science; intellectual integration;  interdisciplinarity; co-citation analysis; cohesion</i></span>
-        <details>
-        <summary>Abstract</summary>
-        Has the emerging field of computational social science grown increasingly intellectually integrated with the passage of time, or does the field remain fragmented into several distinct epistemic communities? Because research-based literature is still inconclusive in this regard, the authors exploited scientific-citations and co-citation data to study the development of computational social science's intellectual structure. The findings suggest that network science has maintained centrality over the years. Contrary to common perceptions however, the field has not become more integrated over time. Rather, the network of co-citation among the field's key authors exhibits ever more extensive clustering and greater average path length over 2000-2020, indicating that the discipline is fracturing into various sub-communities, with loose connections to each other.
-        </details>
-    </td></tr>
-    <tr><td>
         Kuorikoski, Jaakko and Samuli Reijula. <b>Making it count. An inferentialist account of computer simulation</b> <a href="https://osf.io/preprints/socarxiv/v9bmr" target="_blank">[pdf]</a>
         <br><span class="keyword">Keywords: <i>inferentialism; scientific representation; computer simulation; similarity</i></span>
         <details>
         <summary>Abstract</summary>
         The dual problems of how an idealized model can represent and provide information about its target have become a central topic of in the philosophy of science. We argue that several current views are misguided in assuming that the epistemology of modeling and simulation must build on a philosophical theory of the representation relation (e.g. isomorphism, similarity). We extend Robert Brandom’s inferentialist account of meaning into scientific representation to argue that representational language is explicatory, not explanatory, in nature. We provide a broader philosophical rationale for inferential accounts of scientific representation, and an epistemologically modest account of the role of models in terms of inferential scorekeeping. We apply these views to the contested case of computer simulations to argue that, although the praxis of simulation modeling resembles that of scientific experimentation, simulations alone cannot lead to genuinely novel discoveries about the world, as they are merely tools for keeping our reasoning straight.
+        </details>
+    </td></tr>
+</table>
+
+### 2026 
+<table class="pubs">
+    <tr><td>
+        Pääkkönen Juho, Matti Nelimarkka and Samuli Reijula (forthcoming 2026). <b>The emergence of computational social science: Intellectual integration or persistent fragmentation?</b> <i>Quantitative Science Studies.</i> <a href="https://osf.io/preprints/socarxiv/g6m34" target="_blank">[pdf]</a>
+        <br><span class="keyword">Keywords: <i>computational social science; intellectual integration;  interdisciplinarity; co-citation analysis; cohesion</i></span>
+        <details>
+        <summary>Abstract</summary>
+        Has the emerging field of computational social science grown increasingly intellectually integrated with the passage of time, or does the field remain fragmented into several distinct epistemic communities? Because research-based literature is still inconclusive in this regard, the authors exploited scientific-citations and co-citation data to study the development of computational social science's intellectual structure. The findings suggest that network science has maintained centrality over the years. Contrary to common perceptions however, the field has not become more integrated over time. Rather, the network of co-citation among the field's key authors exhibits ever more extensive clustering and greater average path length over 2000-2020, indicating that the discipline is fracturing into various sub-communities, with loose connections to each other.
         </details>
     </td></tr>
 </table>
