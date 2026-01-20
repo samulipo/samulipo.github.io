@@ -19,7 +19,7 @@ Currently we cannot answer such questions, because systematic empirical studies 
 * *(B) to examine the implications of AI-augmented discovery for the epistemology of science,* and 
 * *(C) to use automated discovery as a mirror for exploring human creativity and intellect.*
 
-To reach these objectives, the project combines **philosophical analysis** with **computational models of problem solving** and **ethnographic fieldwork** that we conduct in three frontier AI labs (a self-driving lab in biology, a closed-loop behavioural science lab, and a virtual lab using digital twin technology in drug development and atmospheric research).
+To reach these objectives, the project combines **philosophical analysis** with **computational models of problem solving** and **qualitative research** that we conduct in three frontier AI labs (a self-driving lab in biology, a closed-loop behavioural science lab, and a virtual lab using digital twin technology in drug development and atmospheric research).
 
 <br>
 <hr>
