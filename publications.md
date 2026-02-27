@@ -38,7 +38,7 @@ permalink: /publications/
 ### 2026 
 <table class="pubs">
     <tr><td>
-        Pääkkönen Juho, Matti Nelimarkka and Samuli Reijula (forthcoming 2026). <b>The emergence of computational social science: Intellectual integration or persistent fragmentation?</b> <i>Quantitative Science Studies.</i> <a href="https://osf.io/preprints/socarxiv/g6m34" target="_blank">[pdf]</a>
+        Pääkkönen Juho, Matti Nelimarkka and Samuli Reijula (forthcoming 2026). <b>The emergence of computational social science: Intellectual integration or persistent fragmentation?</b> <i>Quantitative Science Studies.</i> <a href="https://direct.mit.edu/qss/article/doi/10.1162/QSS.a.463/135423" target="_blank">[link]</a><a href="https://osf.io/preprints/socarxiv/g6m34" target="_blank">[pdf]</a>
         <br><span class="keyword">Keywords: <i>computational social science; intellectual integration;  interdisciplinarity; co-citation analysis; cohesion</i></span>
         <details>
         <summary>Abstract</summary>
