@@ -5,7 +5,7 @@ permalink: /talks/
 ---
 
 # Upcoming talks
-- 2026-03-20 *Cognitive diversity in scientific problem solving* Cognitive science research seminar, University of Helsinki
+- 2026-03-20 *Cognitive diversity in scientific problem solving*, Cognitive science research seminar, University of Helsinki
 - 2026-03-03 *Theory Choice in Epistemic Networks: Five ways to avoid premature convergence*, Eindhoven University of Technology
 - 2026-01-30 *Kuinka tutkijat etsivät ja seuraavat kirjallisuutta*, Suomen Filosofinen Yhdistys, Ajatuksen juhlakollokvio
 - 2026-01-30 *Yliopisto, anarkistinen tietoinstituutio*, Nufit - Nuorten filosofiatapahtuma

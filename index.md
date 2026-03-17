@@ -5,7 +5,7 @@ show_title: false
 paginate: true
 ---
 
-<img class="pull-right" src="/assets/reijula-2026-03-17.jpeg"  alt="Samuli Reijula looking at the ceiling" title="Samuli Reijula looking at the ceiling"/>
+<img class="pull-right" src="/assets/reijula-2026-03-17.jpeg"  alt="Samuli Reijula looking at the ceiling" title="Photo (c) Unna Niemi"/>
 
 # Samuli Reijula
 
