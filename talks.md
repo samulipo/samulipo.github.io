@@ -5,14 +5,16 @@ permalink: /talks/
 ---
 
 # Upcoming talks
+
+- 2026-04-16 *AI in scientific discovery*, Legal Tech Lab, University of Helsinki
 - 2026-03-20 *Cognitive diversity in scientific problem solving*, Cognitive science research seminar, University of Helsinki
 - 2026-03-03 *Theory Choice in Epistemic Networks: Five ways to avoid premature convergence*, Eindhoven University of Technology
+
+# Recent Talks
 - 2026-01-30 *Kuinka tutkijat etsivät ja seuraavat kirjallisuutta*, Suomen Filosofinen Yhdistys, Ajatuksen juhlakollokvio
 - 2026-01-30 *Yliopisto, anarkistinen tietoinstituutio*, Nufit - Nuorten filosofiatapahtuma
 - 2025-11-10 *Epistemology of silicon sampling*, AI-Augmented Social Science: New Methods or Just Hype?, University of Helsinki
 - 2025-11-10 *Is AI changing the scientific method?*, Interactive Seminar: Exploring the Role of Artificial Intelligence in Russian Studies, University of Helsinki
-
-# Recent Talks
 - 2025-08 *Is synthetic data an oxymoron?*, EPSA25, 10th biennial meeting of the European Philosophy of Science Association, Groningen 
 - 2025-08 *Diversity and ability in democratic and epistocratic decision making* (w/ Säde Hormio), EPSA25, 10th biennial meeting of the European Philosophy of Science Association, Groningen 
 - 2025-07 *Belief Perseverance in Science: Who keeps citing retracted papers?*, IC2S2, 11th International Conference on Computational Social Science, Norrköping
