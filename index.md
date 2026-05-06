@@ -13,7 +13,7 @@ paginate: true
 
 My research is currently funded by an ERC Consolidator grant. More information the project here: [Scientist in the loop - Automation of scientific discovery (SCI-AI)](/projects).
 
-I work as a university lecturer in [Theoretical Philosophy](https://www.helsinki.fi/en/faculty-arts/research/disciplines/philosophy-history-and-art/philosophy) at the University of Helsinki. I’m also affiliated with the [TINT Centre for Philosophy of Social Science](https://tint-helsinki.fi/), and a docent (habilitation / adjunct professor) in [Practical Philosophy](https://www.helsinki.fi/en/faculty-social-sciences/research/disciplines-and-research-units/practical-philosophy), University of Helsinki.
+I work as a university lecturer in [Theoretical Philosophy](https://www.helsinki.fi/en/faculty-arts/research/disciplines/philosophy-history-and-art/philosophy) at the University of Helsinki. I’m also affiliated with the [TINT Centre for Philosophy of Social Science](https://tint-helsinki.fi/), [DIVSOL](https://www.helsinki.fi/en/diversity-society-and-life), and a docent (habilitation / adjunct professor) in [Practical Philosophy](https://www.helsinki.fi/en/faculty-social-sciences/research/disciplines-and-research-units/practical-philosophy), University of Helsinki.
 
 The general aim of my research is to **better understand scientific problem-solving**: Science is the humanity's most successful problem-solving system, and the primary source of epistemic authority in modern societies. 
 
