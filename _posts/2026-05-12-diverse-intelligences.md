@@ -27,7 +27,7 @@ Using modeling techniques from biology and economics, Kitcher's paper launched a
 
 Here's the agenda of the field (in the words of Steve Fuller, 1988):
 
-*"How should the pursuit of knowledge be organized, given that (...)  knowledge is pursued by many human beings, each working on a more or less well-defined body of knowledge and each equipped with roughly the same imperfect cognitive capacities, albeit with varying degrees of access to one another's activities?"*
+>"How should the pursuit of knowledge be organized, given that (...)  knowledge is pursued by many human beings, each working on a more or less well-defined body of knowledge and each equipped with roughly the same imperfect cognitive capacities, albeit with varying degrees of access to one another's activities?"
 
 But how is this related to diversity? I should clarify some of the central concepts I'm talking about.
 
