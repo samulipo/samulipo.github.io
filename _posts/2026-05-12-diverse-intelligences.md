@@ -79,6 +79,7 @@ Most of us have intuitions to the contrary, and I'm sure that the view we outlin
 
 Thinking meat, crazy, right? [(Terry Bisson 1991](https://web.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html), worth checking out ...)
 
+(Cross-posted to [leaflet.pub](https://leaflet.pub/5087daab-574a-4774-af61-53bdbaeba1e9))
 
 <!-- 
 * tähän voisi lisätä Tomasello-esimerkin:
