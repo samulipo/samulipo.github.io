@@ -10,19 +10,11 @@ permalink: /publications/
 
 <table class="pubs">
     <tr><td>
-        Jonard, Nicolas, Samuli Reijula and Luigi Marengo (under review). <b>Theory Choice in Epistemic Networks: Five ways to avoid premature convergence</b> <a href="https://philsci-archive.pitt.edu/26427/" target="_blank">[PhilSciArchive]</a>
-        <br><span class="keyword">Keywords: <i>theory choice; transient diversity; computational philosophy; weak ties</i></span>
+        Koskinen, Inkeri; Kuorikoski, Jaakko; Pesonen, Renne; Reijula Samuli; Rolin, Kristina. <b>Social epistemology of science as theoretical social science</b> <a href="https://philsci-archive.pitt.edu/28782/" target="_blank">[PhilsciArchive]</a>
+        <br><span class="keyword">Keywords: <i>Methods in Philosophy of Science; Methods in Social Epistemology; Case Study Methods; Modeling Methods; Naturalistic Approaches to Philosophy of Science</i></span>
         <details>
-        <summary>Abstract</summary> 
-        In this article, we study difficult theory-choice situations, where division of cognitive labor is needed. Network epistemology models suggest that reducing connectivity is needed to prevent premature convergence on bad theories. We compare how network density, community size, strength of prior beliefs, adaptive learning methods, and weak ties influence epistemic outcomes, and show that reducing connectivity is only one possible way to improve collective epistemic accuracy. Our findings suggest that gains in accuracy often come at a high cost in resources used, which should be considered when results from network epistemology models are used in applied settings.
-        </details>
-    </td></tr>
-    <tr><td>
-        Pesonen, Renne and Samuli Reijula (under review). <b>Would you pass the Turing Test? Mirroring human intelligence with large language models</b> <a href="https://osf.io/preprints/osf/er8dg" target="_blank">[PsyArxiv]</a>
-        <br><span class="keyword">Keywords: <i>large language models; intelligence; understanding; creativity</i></span>
-        <details>
-        <summary>Abstract</summary> 
-        Can large language models be considered intelligent? Arguments against this proposition often assume that genuine intelligence cannot exist without consciousness, understanding, or creative thinking. We discuss each of these roadblocks to machine intelligence and conclude that, in light of findings and conceptualizations in scientific research on these topics, none of them rule out the possibility of viewing current AI systems based on large language models as intelligent. We argue that consciousness is not relevant for AI, while creativity and understanding should be considered functional traits that, in principle, can be implemented in a machine. Many arguments in circulation that claim current AI systems necessarily lack these traits either rely on human exceptionalism or mistaken understanding of human intelligence. Arguments that highlight alleged flaws in current systems—such as a lack of reliability, agency, or understanding—may be important, but they often obscure the many qualitative similarities between human cognition and current AI models. We further suggest that a critical examination of high-performance AI systems can serve as a mirror through which we can reflect on our own intelligence. Many arguments against the prospects of AI may prove disconcerting for naively optimistic assessments of capacities of the human mind.
+        <summary>Abstract</summary>
+        Naturalistic social epistemology has gone mainstream, but two of its central methods, case studies and modelling, are poorly understood. Even though case studies and modelling can be seen as two distinct approaches to social epistemology, both can be seen as mutually complementary methods for investigating social mechanisms relevant to the epistemic functioning of science. We argue, therefore, that naturalistic social epistemology of science should be seen as continuous with theoretical social science.
         </details>
     </td></tr>
     <tr><td>
@@ -37,6 +29,22 @@ permalink: /publications/
 
 ### 2026 
 <table class="pubs">
+    <tr><td>
+        Jonard, Nicolas, Samuli Reijula and Luigi Marengo (forthcoming 2026). <b>Theory Choice in Epistemic Networks: Five ways to avoid premature convergence</b>, <i>Philosophy of Science</i> <a href="https://philsci-archive.pitt.edu/26427/" target="_blank">[PhilSciArchive]</a>
+        <br><span class="keyword">Keywords: <i>theory choice; transient diversity; computational philosophy; weak ties</i></span>
+        <details>
+        <summary>Abstract</summary> 
+        In this article, we study difficult theory-choice situations, where division of cognitive labor is needed. Network epistemology models suggest that reducing connectivity is needed to prevent premature convergence on bad theories. We compare how network density, community size, strength of prior beliefs, adaptive learning methods, and weak ties influence epistemic outcomes, and show that reducing connectivity is only one possible way to improve collective epistemic accuracy. Our findings suggest that gains in accuracy often come at a high cost in resources used, which should be considered when results from network epistemology models are used in applied settings.
+        </details>
+    </td></tr>
+    <tr><td>
+        Pesonen, Renne and Samuli Reijula (forthcoming 2026). <b>Consciousness, creativity, and understanding are not obstacles to machine intelligence</b>, <i>Synthese</i> <a href="https://osf.io/preprints/osf/er8dg" target="_blank">[PsyArxiv]</a>
+        <br><span class="keyword">Keywords: <i>large language models; intelligence; understanding; creativity</i></span>
+        <details>
+        <summary>Abstract</summary> 
+        Can large language models be considered intelligent? Arguments against this proposition often assume that genuine intelligence cannot exist without consciousness, understanding, or creative thinking. We discuss each of these roadblocks to machine intelligence and conclude that, in light of findings and conceptualizations in scientific research on these topics, none of them rule out the possibility of viewing current AI systems based on large language models as intelligent. We argue that consciousness is not relevant for AI, while creativity and understanding should be considered functional traits that, in principle, can be implemented in a machine. Many arguments in circulation that claim current AI systems necessarily lack these traits either rely on human exceptionalism or mistaken understanding of human intelligence. Arguments that highlight alleged flaws in current systems—such as a lack of reliability, agency, or understanding—may be important, but they often obscure the many qualitative similarities between human cognition and current AI models. We further suggest that a critical examination of high-performance AI systems can serve as a mirror through which we can reflect on our own intelligence. Many arguments against the prospects of AI may prove disconcerting for naively optimistic assessments of capacities of the human mind.
+        </details>
+    </td></tr>
     <tr><td>
         Pääkkönen Juho, Matti Nelimarkka and Samuli Reijula (forthcoming 2026). <b>The emergence of computational social science: Intellectual integration or persistent fragmentation?</b> <i>Quantitative Science Studies.</i> <a href="https://direct.mit.edu/qss/article/doi/10.1162/QSS.a.463/135423/The-emergence-of-computational-social-science" target="_blank">[pdf]</a>
         <br><span class="keyword">Keywords: <i>computational social science; intellectual integration;  interdisciplinarity; co-citation analysis; cohesion</i></span>
