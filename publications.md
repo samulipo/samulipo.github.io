@@ -38,7 +38,7 @@ permalink: /publications/
         </details>
     </td></tr>
     <tr><td>
-        Pesonen, Renne and Samuli Reijula (forthcoming 2026). <b>Consciousness, creativity, and understanding are not obstacles to machine intelligence</b>, <i>Synthese</i> <a href="https://osf.io/preprints/osf/er8dg" target="_blank">[PsyArxiv]</a>
+        Pesonen, Renne and Samuli Reijula (forthcoming 2026). <b>Consciousness, creativity, and understanding are not obstacles to machine intelligence</b>, <i>Synthese</i> <a href="https://philarchive.org/rec/PESWYP" target="_blank">[preprint]</a>
         <br><span class="keyword">Keywords: <i>large language models; intelligence; understanding; creativity</i></span>
         <details>
         <summary>Abstract</summary> 
