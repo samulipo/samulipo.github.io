@@ -1,0 +1,125 @@
+// Ported from the old site's customize.scss for Minima 3.
+// Place at: _sass/minima/custom-styles.scss
+// Minima imports this AFTER its own base + layout, so these overrides land correctly.
+// No @import needed anywhere — the theme's initialize.scss pulls this file in.
+//
+// NOTE: the two Sass variables from the old file ($background-color / $brand-color,
+// both #ffffff) were intentionally dropped. They were no-ops in Minima 2.5, and if
+// activated here they'd set the link/brand colour to white (invisible). If you ever
+// want to recolour the theme, do it in _sass/minima/custom-variables.scss with a
+// real accent colour.
+
+/* For width smaller than 400px: */
+.pull-right {
+  display: block;
+  margin: auto;
+}
+.pull-right-small {
+  display: block;
+  margin: auto;
+}
+
+/* for formatting the pubs table */
+.pubs {
+  border: none;
+  width: 100%;
+  margin-bottom: 20px;
+  border-collapse: separate;
+  border-spacing: 0 8px;
+}
+
+.pubs th, .pubs td {
+  border: none;
+  padding: 5px 5px 5px 5px;   /* was "5pxt" in the original — invalid, so the browser
+                                 dropped the whole padding rule */
+  border-radius: 4px;
+  background-color: #f0f0f0;
+}
+
+.pubs tr:nth-child(even), .pubs tr:nth-child(odd) {
+  background-color: transparent;
+}
+
+details {
+  font-size: 80%;
+}
+
+.keyword {
+  font-size: 80%;
+  margin-bottom: 0px;
+}
+
+/* For width 400px and larger: */
+@media only screen and (min-width: 400px) {
+  .pull-right {
+    float: right;
+    max-width: 30%;
+    height: auto;
+    padding: 15px;
+    padding-top: 3px;
+    padding-right: 0px;
+  }
+}
+@media only screen and (min-width: 400px) {
+  .pull-right-small {
+    float: right;
+    max-width: 20%;
+    height: auto;
+    padding: 5px;
+  }
+}
+@media only screen and (min-width: 400px) {
+  .pos-center {
+    max-width: 90%;
+    height: auto;
+    padding: 15px;
+  }
+}
+
+ul li {
+  padding-bottom: 5px;
+}
+
+.centered_text {
+  text-align: center;
+}
+
+/* for gallery */
+.image-gallery {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  justify-content: center;
+  padding: 4px;
+}
+
+.box {
+  flex-basis: 25%;
+  width: 100%;
+  padding: 10px;
+  margin: 2px;
+}
+
+.img-gallery {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  transform: scale(1);
+  transition: all 0.3s ease-in-out;
+
+  &:hover {
+    transform: scale(1.05);
+  }
+}
+
+/* Css for blog post list tweaks on landing page */
+.post-divider {
+  text-align: center;
+  font-size: 1.5em;
+  margin: 0 0 0 0;
+  color: #999;
+}
+
+.post-list > li:not(:last-child) {
+  margin-bottom: 0px;
+}
