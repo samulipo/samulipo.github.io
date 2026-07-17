@@ -1,14 +1,12 @@
-# NOTE: this file is not reloaded on `bundle exec jekyll serve`; restart after edits.
 
 # Site settings
 title: reijula
 email: samuli.reijula@helsinki.fi
 description: >-
-  Philosopher of science @ Uni Helsinki. cognitive_science; computational_social_science; institutional_epistemology; evidence_based_policy; models_and_simulations; conceptual_change
+  Philosopher of science @ Uni Helsinki. cognitive_science; science_of_science; artificial_intelligence; evidence_based_policy
 baseurl: ""
 url: "https://www.samulireijula.net"
 
-# `author` is a mapping in Minima 3 (was a plain string in 2.5)
 author:
   name: Samuli Reijula
   email: samuli.reijula@helsinki.fi
@@ -28,12 +26,10 @@ google_analytics: G-HZL0D881P8
 # Core Jekyll setting (not theme-specific)
 excerpt_separator: <!--more-->
 
-# ---- Minima 3 theme options: everything below moved under the `minima` key ----
 minima:
-  skin: classic          # new in 3.x; `classic` is the default palette
-  show_excerpts: true    # was top-level `show_excerpts` in 2.5
+  skin: classic          
+  show_excerpts: true    
 
-  # was `header_pages`
   nav_pages:
     - projects.md
     - publications.md
@@ -43,17 +39,13 @@ minima:
     - blog.md
     - contact.md
 
-  # was `github_username` / `twitter_username` — now a list of {title, icon, url}
   social_links:
     - title: GitHub
       icon: github
       url: "https://github.com/samulipo"
-    # Ready-to-fill slot for your Bluesky footer link (verify the icon renders —
-    # `bluesky` needs a recent Font Awesome; swap to another if it doesn't show):
     - title: Bluesky
       icon: bluesky
       url: "https://bsky.app/profile/samulireijula.net"
 
-# Custom variables consumed by your image-gallery include (unchanged)
 imagesurl: "/assets/gallery/images/"
 thumbsurl: "/assets/gallery/thumbnails/"
