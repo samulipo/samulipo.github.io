@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-*These are my research papers. If you're interested in writings to more general audiences, please check out the* [outreach](/outreach.md) *page*.
+*These are my research papers. If you're interested in writings to more general audiences, please check out the* [outreach](/outreach) *page*.
 
 ### Preprints
 

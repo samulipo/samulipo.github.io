@@ -4,7 +4,7 @@ title: Outreach
 permalink: /outreach/
 ---
 
-*Here I've collected some of my essays, op-ed-style pieces, other texts, and interviews that may be of interest to non-specialist readers. Note that not all of these were written by me. There's more in my* [blog](/blog.md) *and on* [bluesky](https://bsky.app/profile/samulireijula.net).
+*Here I've collected some of essays, op-ed-style pieces, other texts, and interviews that may be of interest to non-specialist readers. Note that not all of these were written by me. There's more in my* [blog](/blog) *and on* [bluesky](https://bsky.app/profile/samulireijula.net).
 
 {% assign pubs = site.data.outreach | sort: "date" | reverse %}
 {% assign years = pubs | map: "year" | uniq %}
