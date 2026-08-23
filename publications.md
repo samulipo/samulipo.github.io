@@ -10,7 +10,7 @@ permalink: /publications/
 
 <table class="pubs">
     <tr><td>
-        Koskinen, Inkeri; Kuorikoski, Jaakko; Pesonen, Renne; Reijula Samuli; Rolin, Kristina. <b>Social epistemology of science as theoretical social science</b> <a href="https://philsci-archive.pitt.edu/28782/" target="_blank">[PhilsciArchive]</a>
+        Koskinen, Inkeri; Kuorikoski, Jaakko; Pesonen, Renne; Reijula Samuli; Rolin, Kristina. <b>Social epistemology of science as theoretical social science</b> <a href="https://philsci-archive.pitt.edu/28782/" target="_blank">[PhilSciArchive]</a>
         <br><span class="keyword">Keywords: <i>Methods in Philosophy of Science; Methods in Social Epistemology; Case Study Methods; Modeling Methods; Naturalistic Approaches to Philosophy of Science</i></span>
         <details>
         <summary>Abstract</summary>
@@ -30,7 +30,7 @@ permalink: /publications/
 ### 2026 
 <table class="pubs">
     <tr><td>
-        Jonard, Nicolas, Samuli Reijula and Luigi Marengo (forthcoming 2026). <b>Theory Choice in Epistemic Networks: Five ways to avoid premature convergence</b>, <i>Philosophy of Science</i> <a href="https://philsci-archive.pitt.edu/26427/" target="_blank">[PhilSciArchive]</a>
+        Jonard, Nicolas, Samuli Reijula and Luigi Marengo (2026). <b>Theory Choice in Epistemic Networks: Five ways to avoid premature convergence</b>, <i>Philosophy of Science</i> <a href="https://www.cambridge.org/core/journals/philosophy-of-science/article/theory-choice-in-epistemic-networks-five-ways-to-avoid-premature-convergence/3D6DF5DF361724CC18A82579DD655DC5#article" target="_blank">[pdf]</a> <a href="https://philsci-archive.pitt.edu/26427/" target="_blank">[PhilSciArchive]</a>
         <br><span class="keyword">Keywords: <i>theory choice; transient diversity; computational philosophy; weak ties</i></span>
         <details>
         <summary>Abstract</summary> 
@@ -38,15 +38,15 @@ permalink: /publications/
         </details>
     </td></tr>
     <tr><td>
-        Pesonen, Renne and Samuli Reijula (forthcoming 2026). <b>Consciousness, creativity, and understanding are not obstacles to machine intelligence</b>, <i>Synthese</i> <a href="https://philarchive.org/rec/PESWYP" target="_blank">[preprint]</a>
+        Pesonen, Renne and Samuli Reijula (2026). <b>Consciousness, creativity, and understanding are not obstacles to machine intelligence</b>, <i>Synthese</i> <a href="https://link.springer.com/article/10.1007/s11229-026-05655-1" target="_blank">[pdf]</a> <a href="https://philarchive.org/rec/PESWYP" target="_blank">[preprint]</a>
         <br><span class="keyword">Keywords: <i>large language models; intelligence; agency; understanding; creativity</i></span>
         <details>
         <summary>Abstract</summary> 
-        Can large language models be considered intelligent? Arguments against this proposition often assume that genuine intelligence cannot exist without consciousness, understanding, or creative thinking. We discuss each of these roadblocks to machine intelligence and conclude that, in light of findings and conceptualizations in scientific research on these topics, none of them rule out the possibility of viewing current AI systems based on large language models as intelligent. We argue that consciousness is not relevant for AI, while creativity and understanding should be considered functional traits that, in principle, can be implemented in a machine. Many arguments in circulation that claim current AI systems necessarily lack these traits either rely on human exceptionalism or mistaken understanding of human intelligence. Arguments that highlight alleged flaws in current systems—such as a lack of reliability, agency, or understanding—may be important, but they often obscure the many qualitative similarities between human cognition and current AI models. We further suggest that a critical examination of high-performance AI systems can serve as a mirror through which we can reflect on our own intelligence. Many arguments against the prospects of AI may prove disconcerting for naively optimistic assessments of capacities of the human mind.
+        Can large language models be considered intelligent? Arguments against this proposition often assume that genuine intelligence cannot exist without consciousness, understanding, or creative thinking. We discuss each of these roadblocks to machine intelligence and conclude that none of them rule out the possibility of viewing current AI systems based on large language models as intelligent. We argue that consciousness is not relevant for intelligence, while creativity and understanding should be considered functional traits that, in principle, can be implemented in a machine. Many arguments concluding that current AI systems necessarily lack these traits either rely on human exceptionalism or flawed understanding of human intelligence. Arguments that highlight alleged shortcomings in current systems—such as a lack of reliability, agency, or understanding—often obscure the many qualitative similarities between human cognition and current AI models. We further suggest that a critical examination of high-performance AI systems can serve as a mirror through which we can reflect on our own intelligence. Many arguments against the prospects of AI may be based on naively optimistic assessments of capacities of the human mind.
         </details>
     </td></tr>
     <tr><td>
-        Pääkkönen Juho, Matti Nelimarkka and Samuli Reijula (forthcoming 2026). <b>The emergence of computational social science: Intellectual integration or persistent fragmentation?</b> <i>Quantitative Science Studies.</i> <a href="https://direct.mit.edu/qss/article/doi/10.1162/QSS.a.463/135423/The-emergence-of-computational-social-science" target="_blank">[pdf]</a>
+        Pääkkönen Juho, Matti Nelimarkka and Samuli Reijula (2026). <b>The emergence of computational social science: Intellectual integration or persistent fragmentation?</b> <i>Quantitative Science Studies.</i> <a href="https://direct.mit.edu/qss/article/doi/10.1162/QSS.a.463/135423/The-emergence-of-computational-social-science" target="_blank">[pdf]</a>
         <br><span class="keyword">Keywords: <i>computational social science; intellectual integration;  interdisciplinarity; co-citation analysis; cohesion</i></span>
         <details>
         <summary>Abstract</summary>
@@ -81,7 +81,7 @@ permalink: /publications/
         </details>
     </td></tr>
     <tr><td>
-        Jonard, Nicolas, Samuli Reijula and Luigi Marengo (2024). <b>Group problem solving: Diversity versus diffusion</b>, in L. K. Samuelson, S. L. Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.),<i>Proceedings of the 46th Annual Conference of the Cognitive Science Society</i> <a href="https://escholarship.org/uc/item/0zq5j37r" target="_blank">[eScholarship]</a> <a href="https://osf.io/preprints/psyarxiv/35w76_v1" target="_blank">[PsyArXiv]</a>
+        Jonard, Nicolas, Samuli Reijula and Luigi Marengo (2024). <b>Group problem solving: Diversity versus diffusion</b>, in L. K. Samuelson, S. L. Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.),<i>Proceedings of the 46th Annual Conference of the Cognitive Science Society</i> <a href="https://escholarship.org/uc/item/0zq5j37r" target="_blank">[pdf]</a> <a href="https://osf.io/preprints/psyarxiv/35w76_v1" target="_blank">[PsyArXiv]</a>
         <br><span class="keyword">Keywords: <i>group problem solving; cognitive diversity; structural isolation; agent-based simulation</i></span>
         <details>
         <summary>Abstract</summary>
