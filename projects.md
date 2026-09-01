@@ -5,6 +5,9 @@ permalink: /projects/
 ---
 # Scientist in the loop - Automation of scientific discovery (SCI-AI)
 
+* The official project page: [www.sci-ai.net](http://www.sci-ai.net)
+* [Project data sheet](https://cordis.europa.eu/project/id/101231755) in the ERC Cordis database
+
 *Where do new scientific ideas come from?* 
 
 That is the question at the root of research on scientific discovery. In the past decade, AI-augmented methods have shaken the practices of discovery across a range of research fields: AlphaFold solved the long-standing protein folding problem; automated discovery methods are being used to decipher ancient scripts once considered unreadable, and to synthesize drugs for previously untreatable diseases. According to the most enthusiastic advocates, in less than a decade, AI will transform practices of research beyond recognition.
