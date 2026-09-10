@@ -5,12 +5,14 @@ permalink: /talks/
 ---
 
 # Upcoming talks
+- 2026-10-15 *Social categories in the making: construction or recruitment?*, University of Milan
+- 2026-10-07 *Consciousness, creativity, and understanding are not obstacles to machine intelligence*, University of Milan
+- 2026-09-10 *Tiede, näennäistiede ja ei-tiede* (Science, pseudoscience, non-science), Science Corner, University of Helsinki
 
+# Recent Talks
 - 2026-04-16 *AI in scientific discovery*, Legal Tech Lab, University of Helsinki
 - 2026-03-20 *Cognitive diversity in scientific problem solving*, Cognitive science research seminar, University of Helsinki
 - 2026-03-03 *Theory Choice in Epistemic Networks: Five ways to avoid premature convergence*, Eindhoven University of Technology
-
-# Recent Talks
 - 2026-01-30 *Kuinka tutkijat etsivät ja seuraavat kirjallisuutta*, Suomen Filosofinen Yhdistys, Ajatuksen juhlakollokvio
 - 2026-01-30 *Yliopisto, anarkistinen tietoinstituutio*, Nufit - Nuorten filosofiatapahtuma
 - 2025-11-10 *Epistemology of silicon sampling*, AI-Augmented Social Science: New Methods or Just Hype?, University of Helsinki
