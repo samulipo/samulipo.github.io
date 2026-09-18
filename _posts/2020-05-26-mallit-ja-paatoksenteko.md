@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mallit ja päätöksenteko @Alusta
+title: Use of modeling for policy decisions @Alusta
 categories: [news, publication, finnish]
 tags: [modeling, evidence, covid]
 ---

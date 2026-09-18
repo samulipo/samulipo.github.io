@@ -1,13 +1,25 @@
 - year: 2026
-  date: 2025-06-14
+  date: 2026-09-17
+  authors: "Koponen, Ismo; Koskinen, Inkeri; Reijula, Samuli; Räsänen, Syksy"
+  title: "Tiedettä vai hölynpölyä - näennäistieteen lumo"
+  title_english: "The allure of neuroscience"
+  journal: "Tiedekulma event"
+  issue: "2026-09-11"
+  pages: ""
+  link: "https://www.helsinki.fi/fi/unitube/video/fff5152c-c091-489a-874f-44ecb750f7d0"
+  blog_url: "/presentation/media/2026/09/18/allure_of_pseudoscience.html"
+  image: "/assets/pseudotiede-juliste.jpg"
+
+- year: 2026
+  date: 2026-06-14
   authors: "Nyroos, Samuel"
   title: "Tutkimus pinaatista tekoälyn aikakaudella"
   title_english: "On spinach and AI"
   journal: "Helsingin Sanomat"
-  issue: "2025-06-14"
+  issue: "2026-06-14"
   pages: ""
   link: "https://www.hs.fi/feature/art-2000011867713.html"
-  blog_url: "https://www.samulireijula.net/media/2026/06/15/epistemic-humility.html"
+  blog_url: "/media/2026/06/15/epistemic-humility.html"
   image: "/assets/pinaatti.jpg"
 
 - year: 2025
@@ -78,7 +90,7 @@
   issue: "2024-11-14"
   pages: "mielipide"
   link: "https://suomenkuvalehti.fi/mielipide/julkishallinto-pois-pikaviestipalvelu-xsta-kirjoittaa-samuli-reijula/"
-  blog_url: "http://127.0.0.1:4000/opinion/fediverse/2024/11/14/public-authorities-should-leave-x.html"
+  blog_url: "/opinion/fediverse/2024/11/14/public-authorities-should-leave-x.html"
   image: "/assets/pois_xsta.png"
 
 - year: 2024
@@ -90,7 +102,7 @@
   issue: "2024-08-30"
   pages: "-"
   link: "https://www.paatos.fi/2024/08/30/tietyntyyppista-filosofiaa-haastattelussa-jaakko-kuorikoski-samuli-reijula-ja-kristina-rolin/"
-  blog_url: "http://127.0.0.1:4000/interview/media/2024/09/27/engineers-philosophers.html"
+  blog_url: "/interview/media/2024/09/27/engineers-philosophers.html"
   image: "/assets/paatos.png"
 
 - year: 2024
@@ -137,7 +149,7 @@
   issue: "3/2023"
   pages: "37-41"
   link: "https://journal.fi/tt/article/view/131066/79967"
-  blog_url: "http://127.0.0.1:4000/news/publication/ai/2023/09/15/intelligent-ai-bullshit.html"
+  blog_url: "/news/publication/ai/2023/09/15/intelligent-ai-bullshit.html"
   image: "/assets/bs.png"
 
 - year: 2023
@@ -236,7 +248,7 @@
   issue: "2020-05-26"
   pages: "-"
   link: "https://www.tuni.fi/alustalehti/2020/05/26/laskennalliset-mallit-voivat-lisata-julkisen-paatoksenteon-avoimuutta/"
-  blog_url: "https://www.samulireijula.net/news/publication/finnish/2020/05/26/mallit-ja-paatoksenteko.html"
+  blog_url: "/news/publication/finnish/2020/05/26/mallit-ja-paatoksenteko.html"
   image: "/assets/alusta_mallit.png"
 
 
