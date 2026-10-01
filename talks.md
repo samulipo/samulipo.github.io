@@ -5,11 +5,12 @@ permalink: /talks/
 ---
 
 # Upcoming talks
+- 2026-11-03 *Which result is right? Using metadata to explain conflicting findings*, ReproducibiliTea, University of Helsinki
 - 2026-10-15 *Social categories in the making: construction or recruitment?*, University of Milan
 - 2026-10-07 *Consciousness, creativity, and understanding are not obstacles to machine intelligence*, University of Milan
-- 2026-09-10 *Tiede, näennäistiede ja ei-tiede* (Science, pseudoscience, non-science), Science Corner, University of Helsinki
 
 # Recent Talks
+- 2026-09-10 *Tiede, näennäistiede ja ei-tiede* (Science, pseudoscience, non-science), Science Corner, University of Helsinki
 - 2026-04-16 *AI in scientific discovery*, Legal Tech Lab, University of Helsinki
 - 2026-03-20 *Cognitive diversity in scientific problem solving*, Cognitive science research seminar, University of Helsinki
 - 2026-03-03 *Theory Choice in Epistemic Networks: Five ways to avoid premature convergence*, Eindhoven University of Technology
