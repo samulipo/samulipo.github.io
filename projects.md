@@ -93,19 +93,3 @@ Pöyhönen, Samuli (2017). **Value of cognitive diversity in science.** *Synthes
 
 - [Foundations of classification (2015-2018)](projects_foundations_of_classification.md)
 - ...
-
-
----
-
-## DNS file
-
-# namecheap for sci-ai.net
-
-CNAME _acme-challenge.newsletter wl5kybzlm5xz.acme.offprint.app
-CNAME newsletter to.offprint.app.
-
-TXT _offprint.newsletter aturi=at://did:plc:btuqjrilfffatbvck7xaaasn/site.standard.publication/3muehhk6uuk27
-
-URL Redirect  @ https://www.helsinki.fi/en/researchgroups/automation-of-scientific-discovery
-URL Redirect www https://www.helsinki.fi/en/researchgroups/automation-of-scientific-discovery
-
