@@ -19,14 +19,8 @@ Together with Pantelis Analytis (Odense, Denmark) and Jacob Habinek (IAS, Sweden
 
 <a href="/assets/reijula_cv_2025-05.pdf" target="_blank">Samuli Reijula, Curriculum vitae 2025-05</a>
 -->
+You can reach me by email at <a href="mailto:samuli.reijula@helsinki.fi">samuli.reijula@helsinki.fi</a>
 
-* email: <a href="mailto:samuli.reijula@helsinki.fi">samuli.reijula@helsinki.fi</a>
-* bluesky: <a href="https://bsky.app/profile/samulireijula.net" target="_blank">@samulireijula.net</a>  
+On Bluesky, I am <a href="https://bsky.app/profile/samulireijula.net" target="_blank">@samulireijula.net</a>  
 
-Most of my research papers can be found here:
-* <a href="https://scholar.google.fi/citations?user=piH1k6EAAAAJ&hl=en" target="_blank">google scholar</a>     
-* <a href="https://philpapers.org/profile/34787" target="_blank">philpapers</a>   
-* orcid: <a href="https://orcid.org/0000-0001-6968-5819" target="_blank">0000-0001-6968-5819</a>
-
-And coding projects here
-* github: <a href="https://github.com/samulipo/" target="_blank">samulipo</a>     
+I've tried to make all of publications open access. You find them on the [Publications](/publications) page, <a href="https://scholar.google.fi/citations?user=piH1k6EAAAAJ&hl=en" target="_blank">Google Scholar</a> and on <a href="https://philpapers.org/profile/34787" target="_blank">PhilPapers</a>   

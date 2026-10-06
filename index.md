@@ -8,7 +8,7 @@ show_title: false
 
 **I am a philosopher and cognitive scientist interested in how science works, how it could, and how it should work.**
 
-I work as an Associate Professor in [Theoretical Philosophy](https://www.helsinki.fi/en/faculty-arts/research/disciplines/philosophy-history-and-art/philosophy) at the University of Helsinki. My research is currently funded by the ERC Consolidator grant [Scientist in the loop - Automation of scientific discovery (SCI-AI)](/projects).
+I work as an Associate Professor in [Theoretical Philosophy](https://www.helsinki.fi/en/faculty-arts/research/disciplines/philosophy-history-and-art/philosophy) at the University of Helsinki. My research is currently funded by the ERC Consolidator grant [Scientist in the loop - Automation of scientific discovery (SCI-AI)](https://www.sci-ai.net).
 
 The general aim of my research is to **better understand scientific problem-solving**: Science is the humanity's most successful problem-solving system, and the primary source of epistemic authority in modern societies. 
 
