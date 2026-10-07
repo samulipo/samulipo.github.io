@@ -5,6 +5,7 @@ permalink: /talks/
 ---
 
 # Upcoming talks
+- 2026-11-11 *What happens to the scientific method in AI-augmented science?*,  "Shared Autonomy - Human-Centered Lab Automation" workshop, Saarbrücken
 - 2026-11-03 *Which result is right? Using metadata to explain conflicting findings*, ReproducibiliTea, University of Helsinki
 - 2026-10-15 *Social categories in the making: construction or recruitment?*, University of Milan
 - 2026-10-07 *Consciousness, creativity, and understanding are not obstacles to machine intelligence*, University of Milan
